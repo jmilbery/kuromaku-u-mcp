@@ -1,5 +1,5 @@
 {
-  "_comment": "Drop this mcpServers block into ~/.claude/settings.json (Claude Code) or ~/Library/Application Support/Claude/claude_desktop_config.json (Claude Desktop). Both keys can coexist with whatever else is already there. Restart Claude Code after editing; verify with `/mcp`.",
+  "_comment": "Claude Code: this mcpServers block does NOT go in settings.json (rejected). Save it as a project `.mcp.json`, OR register via CLI: `claude mcp add kuromaku-u --scope user -- /abs/path/.venv/bin/python /abs/path/server/server.py`. Claude Desktop: drop the block into ~/Library/Application Support/Claude/claude_desktop_config.json. Point `command` at the venv python so the mcp dep resolves. Restart, then verify with `/mcp`.",
   "mcpServers": {
     "kuromaku-u-minimal": {
       "command": "/Users/jmilbery/kuromaku-u/.venv/bin/python",
