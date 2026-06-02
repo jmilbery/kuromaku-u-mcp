@@ -1,0 +1,19 @@
+# Built database — regenerate with `python schema/build_db.py`
+kuromaku_u.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp

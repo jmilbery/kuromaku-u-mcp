@@ -1,0 +1,13 @@
+{
+  "_comment": "Drop this mcpServers block into ~/.claude/settings.json (Claude Code) or ~/Library/Application Support/Claude/claude_desktop_config.json (Claude Desktop). Both keys can coexist with whatever else is already there. Restart Claude Code after editing; verify with `/mcp`.",
+  "mcpServers": {
+    "kuromaku-u-minimal": {
+      "command": "/Users/jmilbery/kuromaku-u/.venv/bin/python",
+      "args": ["/Users/jmilbery/kuromaku-u/server/server_minimal.py"]
+    },
+    "kuromaku-u": {
+      "command": "/Users/jmilbery/kuromaku-u/.venv/bin/python",
+      "args": ["/Users/jmilbery/kuromaku-u/server/server.py"]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+set schema 'ku';
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (1, 'Dormitory', 1.10000000000000009);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (2, 'Library', 1.19999999999999996);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (3, 'Computer Lab', 1.30000000000000004);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (4, 'Academic Building', 2);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (5, 'Administration', 10);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (6, 'Dining', 2.10000000000000009);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (7, 'Sports and Recreation', 2.20000000000000018);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (8, 'Parking Lot', 2.20000000000000018);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (9, 'Buildings and Grounds', 12);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (10, 'Auditorium', 3);
+INSERT INTO cd_building_type(cd_building_type, name_building_type, sort_order) VALUES (11, 'Misc', 100);

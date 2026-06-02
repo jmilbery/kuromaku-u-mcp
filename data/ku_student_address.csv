@@ -1,0 +1,1980 @@
+﻿student_id,address_1,address_2,city,cd_state,province,zip_code,postal_code,cd_country,active_flag
+1009,652 Havey Way,,Erie,PA,,16510,,US,t
+1042,4151 Badeau Drive,,Houston,TX,,77095,,US,t
+1043,518 Karstens Street,,Dearborn,MI,,48126,,US,t
+1044,80010 Moulton Alley,,Mobile,AL,,36628,,US,t
+1045,782 Shelley Street,,San Diego,CA,,92176,,US,t
+1046,72892 Sheridan Point,,Mobile,AL,,36628,,US,t
+1047,10034 Maywood Court,,Minneapolis,MN,,55458,,US,t
+1048,87735 4th Park,,Bloomington,IN,,47405,,US,t
+1049,3708 Monterey Terrace,,Charleston,SC,,29416,,US,t
+1050,16 Northport Drive,,Irvine,CA,,92612,,US,t
+1051,59 Kinsman Avenue,,Loretto,MN,,55598,,US,t
+1052,367 1st Park,,Suffolk,VA,,23436,,US,t
+1053,9880 Rowland Center,,Indianapolis,IN,,46207,,US,t
+1054,0 Surrey Circle,,Roanoke,VA,,24034,,US,t
+1055,871 Southridge Drive,,Charleston,SC,,29416,,US,t
+1056,4220 Messerschmidt Circle,,New Orleans,LA,,70149,,US,t
+1057,106 Morning Lane,,Austin,TX,,78754,,US,t
+1058,5 Anderson Plaza,,Abilene,TX,,79605,,US,t
+1059,8 Corben Circle,,Portland,OR,,97216,,US,t
+1060,1 Jay Point,,Philadelphia,PA,,19104,,US,t
+1061,39 Shasta Alley,,Pasadena,CA,,91199,,US,t
+1062,7362 Cascade Center,,Kansas City,MO,,64144,,US,t
+1063,444 Corry Place,,Lexington,KY,,40505,,US,t
+1064,70081 Loeprich Drive,,Chandler,AZ,,85246,,US,t
+1065,5011 Towne Court,,Philadelphia,PA,,19151,,US,t
+1066,676 Randy Street,,Portland,OR,,97221,,US,t
+1067,7 Dawn Hill,,Appleton,WI,,54915,,US,t
+1068,07 Bluestem Avenue,,Orlando,FL,,32885,,US,t
+1069,364 Hoard Terrace,,Rockford,IL,,61105,,US,t
+1070,654 Center Way,,Youngstown,OH,,44511,,US,t
+1071,808 Reinke Hill,,Minneapolis,MN,,55417,,US,t
+1072,49 Cordelia Court,,Denver,CO,,80204,,US,t
+1073,6510 Linden Circle,,Washington,DC,,20551,,US,t
+1074,495 Melody Street,,Minneapolis,MN,,55470,,US,t
+1075,10 Northland Alley,,Charlotte,NC,,28230,,US,t
+1076,0319 Lotheville Drive,,Lakewood,WA,,98498,,US,t
+1077,85 Evergreen Junction,,Orlando,FL,,32819,,US,t
+1078,9 Spenser Hill,,Torrance,CA,,90505,,US,t
+1079,6314 Boyd Way,,Richmond,VA,,23203,,US,t
+1080,87696 Larry Hill,,Anchorage,AK,,99512,,US,t
+1081,65 Erie Plaza,,Jackson,MS,,39236,,US,t
+1082,231 Ridgeway Parkway,,Santa Clara,CA,,95054,,US,t
+1083,99 Bartillon Center,,Des Moines,IA,,50362,,US,t
+1084,1 Straubel Terrace,,Port Saint Lucie,FL,,34985,,US,t
+1085,5716 Brown Parkway,,San Francisco,CA,,94169,,US,t
+1086,345 Dovetail Alley,,Hialeah,FL,,33013,,US,t
+1087,6922 Trailsway Pass,,Kansas City,MO,,64136,,US,t
+1088,1 Vidon Drive,,Oklahoma City,OK,,73135,,US,t
+1089,3 Linden Place,,El Paso,TX,,79934,,US,t
+1090,84 Sugar Lane,,Chandler,AZ,,85246,,US,t
+1091,08 Myrtle Road,,Oklahoma City,OK,,73147,,US,t
+1092,1179 Declaration Lane,,Wilmington,NC,,28410,,US,t
+1093,15648 Porter Court,,Huntington,WV,,25770,,US,t
+1094,166 Susan Road,,Houston,TX,,77050,,US,t
+1095,05 Ridgeview Point,,Nashville,TN,,37205,,US,t
+1096,63026 Sutteridge Street,,Las Cruces,NM,,88006,,US,t
+1097,1297 Clyde Gallagher Alley,,Evansville,IN,,47725,,US,t
+1098,99113 Chive Hill,,Huntsville,AL,,35895,,US,t
+1099,8955 Claremont Road,,Hollywood,FL,,33028,,US,t
+1100,8 Harper Point,,Punta Gorda,FL,,33982,,US,t
+1101,625 Esker Circle,,Portland,OR,,97255,,US,t
+1102,2710 Tennyson Road,,Arlington,VA,,22244,,US,t
+1103,8823 Lawn Crossing,,Louisville,KY,,40220,,US,t
+1104,3920 Rockefeller Point,,Harrisburg,PA,,17121,,US,t
+1105,358 Summit Road,,Sacramento,CA,,94250,,US,t
+1107,8 Myrtle Street,,Vero Beach,FL,,32964,,US,t
+1108,1960 Maryland Plaza,,Dayton,OH,,45432,,US,t
+1109,916 Michigan Street,,Dallas,TX,,75323,,US,t
+1110,516 Lillian Alley,,Las Cruces,NM,,88006,,US,t
+1111,82 Mariners Cove Court,,Los Angeles,CA,,90065,,US,t
+1112,19 Loftsgordon Point,,Arlington,VA,,22212,,US,t
+1113,6 Weeping Birch Way,,Inglewood,CA,,90398,,US,t
+1114,1895 Trailsway Court,,San Jose,CA,,95150,,US,t
+1115,05063 Petterle Place,,Frankfort,KY,,40618,,US,t
+1116,1082 Mcguire Circle,,Austin,TX,,78764,,US,t
+1122,76129 Southridge Plaza,,Mansfield,OH,,44905,,US,t
+1123,0769 Briar Crest Street,,New York City,NY,,10203,,US,t
+1124,14 Veith Terrace,,Fresno,CA,,93750,,US,t
+1125,2604 Hazelcrest Circle,,Saint Louis,MO,,63110,,US,t
+1126,913 Esker Road,,Huntington,WV,,25711,,US,t
+1127,4 Johnson Court,,Lake Charles,LA,,70607,,US,t
+1128,52298 Stoughton Trail,,Charleston,WV,,25326,,US,t
+1129,68982 Forest Point,,Syracuse,NY,,13210,,US,t
+1130,96891 Colorado Terrace,,Oklahoma City,OK,,73114,,US,t
+1131,54748 Corben Road,,West Palm Beach,FL,,33416,,US,t
+1132,5797 Pankratz Hill,,Berkeley,CA,,94712,,US,t
+1134,6 Swallow Plaza,,Nashville,TN,,37228,,US,t
+1135,4 Elmside Pass,,Portland,OR,,97296,,US,t
+1136,09 Larry Junction,,Pinellas Park,FL,,34665,,US,t
+1137,316 Ronald Regan Crossing,,Iowa City,IA,,52245,,US,t
+1138,81 3rd Court,,Albany,NY,,12222,,US,t
+1139,06 Autumn Leaf Place,,Sacramento,CA,,94286,,US,t
+1140,00871 Onsgard Court,,Portland,OR,,97201,,US,t
+1141,1 Logan Alley,,Omaha,NE,,68117,,US,t
+1142,9885 Drewry Avenue,,Huntington Beach,CA,,92648,,US,t
+1143,56510 Forest Run Circle,,Des Moines,IA,,50362,,US,t
+1144,9 Bunker Hill Terrace,,Jefferson City,MO,,65105,,US,t
+1145,94 Fairview Junction,,San Bernardino,CA,,92410,,US,t
+1146,2 Luster Way,,Lake Charles,LA,,70607,,US,t
+1147,087 Center Trail,,South Bend,IN,,46614,,US,t
+1148,6 Gateway Center,,Vero Beach,FL,,32964,,US,t
+1149,5216 Donald Hill,,Stockton,CA,,95219,,US,t
+1150,29 Corry Park,,Tampa,FL,,33633,,US,t
+1151,6927 Menomonie Street,,Merrifield,VA,,22119,,US,t
+1152,07 Steensland Crossing,,Wilmington,DE,,19892,,US,t
+1153,1 Beilfuss Street,,Buffalo,NY,,14210,,US,t
+1154,46 Pearson Plaza,,Mesa,AZ,,85215,,US,t
+1155,85 Magdeline Drive,,Charleston,WV,,25321,,US,t
+1156,8023 Rigney Trail,,Jacksonville,FL,,32236,,US,t
+1157,7540 Sycamore Drive,,Montgomery,AL,,36114,,US,t
+1158,354 Sheridan Alley,,Pasadena,CA,,91109,,US,t
+1159,2987 Kedzie Circle,,Columbus,GA,,31914,,US,t
+1160,351 Merchant Point,,Houston,TX,,77080,,US,t
+1161,64 Sullivan Trail,,Murfreesboro,TN,,37131,,US,t
+1162,78350 Gulseth Crossing,,Oklahoma City,OK,,73157,,US,t
+1163,7 Kim Plaza,,Birmingham,AL,,35225,,US,t
+1164,8 Butterfield Circle,,Baltimore,MD,,21281,,US,t
+1165,0287 Nelson Avenue,,Fullerton,CA,,92835,,US,t
+1166,41594 Tennessee Court,,Glendale,CA,,91210,,US,t
+1167,330 Londonderry Avenue,,Cincinnati,OH,,45249,,US,t
+1168,13829 Larry Trail,,Houston,TX,,77095,,US,t
+1169,52373 Meadow Valley Park,,Nashville,TN,,37235,,US,t
+1170,1231 Reindahl Hill,,Gainesville,FL,,32605,,US,t
+1171,10 Maywood Place,,Conroe,TX,,77305,,US,t
+1172,47 Maple Trail,,Levittown,PA,,19058,,US,t
+1174,5 Prairie Rose Pass,,Columbus,OH,,43268,,US,t
+1175,90326 La Follette Junction,,Jackson,TN,,38308,,US,t
+1176,62630 Nevada Crossing,,Whittier,CA,,90610,,US,t
+1177,327 Esker Place,,Madison,WI,,53705,,US,t
+1178,8788 Holy Cross Crossing,,Fort Lauderdale,FL,,33320,,US,t
+1179,5761 Kenwood Crossing,,Sacramento,CA,,95894,,US,t
+1181,812 Fieldstone Drive,,Winston Salem,NC,,27157,,US,t
+1182,63946 Orin Hill,,Mobile,AL,,36670,,US,t
+1183,942 Lakewood Gardens Point,,Knoxville,TN,,37995,,US,t
+1184,8844 Jackson Terrace,,Dayton,OH,,45426,,US,t
+1185,93 Blaine Center,,Santa Fe,NM,,87592,,US,t
+1186,7921 Eliot Center,,Columbia,SC,,29240,,US,t
+1187,183 Rockefeller Parkway,,Henderson,NV,,89012,,US,t
+1188,184 Ridgeway Plaza,,Tacoma,WA,,98447,,US,t
+1189,4736 Eliot Avenue,,Alexandria,VA,,22301,,US,t
+1190,5970 Jackson Pass,,Jackson,MS,,39282,,US,t
+1191,8 Texas Court,,Indianapolis,IN,,46278,,US,t
+1192,707 Fallview Parkway,,Fairfax,VA,,22036,,US,t
+1194,9 Muir Road,,London,KY,,40745,,US,t
+1195,72 Service Plaza,,Saint Louis,MO,,63131,,US,t
+1200,33 Tennessee Road,,Irving,TX,,75037,,US,t
+1201,713 John Wall Court,,Huntington,WV,,25775,,US,t
+1202,2240 Service Park,,Fort Worth,TX,,76115,,US,t
+1203,099 Del Sol Place,,Washington,DC,,20016,,US,t
+1204,778 Sheridan Street,,Lawrenceville,GA,,30245,,US,t
+1205,8 Northwestern Alley,,Grand Rapids,MI,,49560,,US,t
+1206,4 Bashford Hill,,Aurora,CO,,80045,,US,t
+1207,1 Leroy Way,,Gadsden,AL,,35905,,US,t
+1208,338 Lien Hill,,Charleston,WV,,25305,,US,t
+1209,5 Forster Court,,Houston,TX,,77035,,US,t
+1210,44431 Washington Place,,Las Vegas,NV,,89130,,US,t
+1211,700 Dennis Pass,,Austin,TX,,78715,,US,t
+1212,80 Algoma Drive,,Palm Bay,FL,,32909,,US,t
+1213,72 Monterey Road,,Asheville,NC,,28805,,US,t
+1214,99 Weeping Birch Parkway,,Fort Myers,FL,,33994,,US,t
+1215,0 Eastlawn Junction,,Cincinnati,OH,,45243,,US,t
+1216,7182 Valley Edge Parkway,,Austin,TX,,78769,,US,t
+1217,0509 Bultman Alley,,San Francisco,CA,,94169,,US,t
+1218,39344 Fairview Hill,,Los Angeles,CA,,90045,,US,t
+1219,6 Coolidge Park,,Philadelphia,PA,,19120,,US,t
+1220,28 Delaware Parkway,,Birmingham,AL,,35220,,US,t
+1221,0 Grim Place,,Sarasota,FL,,34238,,US,t
+1222,6 Katie Hill,,Wilmington,DE,,19805,,US,t
+1223,008 Carberry Crossing,,Oklahoma City,OK,,73157,,US,t
+1224,4 John Wall Way,,San Antonio,TX,,78278,,US,t
+1225,20 Clyde Gallagher Terrace,,Oakland,CA,,94611,,US,t
+1226,7 Roxbury Junction,,Austin,TX,,78764,,US,t
+1228,5031 Tennessee Street,,Naples,FL,,34102,,US,t
+1229,691 Longview Way,,Peoria,IL,,61605,,US,t
+1230,0 Anderson Street,,Jacksonville,FL,,32230,,US,t
+1231,732 Burrows Place,,Jacksonville,FL,,32215,,US,t
+1232,591 Shopko Hill,,Topeka,KS,,66611,,US,t
+1233,6 Dunning Way,,Fort Worth,TX,,76147,,US,t
+1234,9579 Basil Street,,Washington,DC,,20078,,US,t
+1235,16791 Blue Bill Park Trail,,Huntington,WV,,25711,,US,t
+1236,85 Beilfuss Lane,,Olympia,WA,,98516,,US,t
+1237,86 Veith Trail,,Denton,TX,,76205,,US,t
+1238,08 Arrowood Circle,,Daytona Beach,FL,,32128,,US,t
+1239,7737 Mcbride Park,,Alhambra,CA,,91841,,US,t
+1240,5 Glendale Way,,Winston Salem,NC,,27150,,US,t
+1241,007 New Castle Parkway,,Cleveland,OH,,44105,,US,t
+1243,78718 Heffernan Point,,Tulsa,OK,,74133,,US,t
+1244,7504 Dayton Point,,Waterloo,IA,,50706,,US,t
+1245,68487 Hallows Street,,Fairfax,VA,,22036,,US,t
+1246,329 Maple Park,,Honolulu,HI,,96815,,US,t
+1247,63733 Elka Parkway,,New York City,NY,,10175,,US,t
+1249,366 Leroy Way,,Colorado Springs,CO,,80930,,US,t
+1250,481 Loftsgordon Place,,San Francisco,CA,,94105,,US,t
+1251,3983 Springview Point,,Detroit,MI,,48224,,US,t
+1252,655 Schlimgen Park,,Philadelphia,PA,,19196,,US,t
+1253,5094 Stang Court,,Roanoke,VA,,24034,,US,t
+1254,125 Ludington Crossing,,Toledo,OH,,43605,,US,t
+1255,4 Drewry Trail,,Anchorage,AK,,99507,,US,t
+1256,2 Eastwood Park,,Ocala,FL,,34474,,US,t
+1257,551 Randy Circle,,San Bernardino,CA,,92405,,US,t
+1258,689 Moulton Point,,Las Vegas,NV,,89150,,US,t
+1259,3 Loeprich Plaza,,El Paso,TX,,79989,,US,t
+1260,19 Bunker Hill Place,,Silver Spring,MD,,20918,,US,t
+1261,41 Caliangt Avenue,,San Jose,CA,,95155,,US,t
+1262,193 Eagle Crest Alley,,Great Neck,NY,,11024,,US,t
+1263,51 Melvin Place,,Honolulu,HI,,96840,,US,t
+1264,81756 Katie Plaza,,Pittsburgh,PA,,15210,,US,t
+1265,44 Granby Alley,,Pittsburgh,PA,,15250,,US,t
+1266,4738 Merchant Lane,,Dallas,TX,,75221,,US,t
+1267,16 Ruskin Place,,Orange,CA,,92668,,US,t
+1268,283 Darwin Junction,,Evansville,IN,,47732,,US,t
+1269,9067 Hanson Point,,Louisville,KY,,40233,,US,t
+1271,214 Fremont Center,,Tampa,FL,,33615,,US,t
+1272,5358 Fairfield Lane,,Brooklyn,NY,,11247,,US,t
+1273,90202 Nevada Pass,,Richmond,VA,,23225,,US,t
+1275,4155 Swallow Avenue,,Fort Wayne,IN,,46857,,US,t
+1276,3193 Northridge Street,,San Angelo,TX,,76905,,US,t
+1277,5788 Dakota Lane,,Petaluma,CA,,94975,,US,t
+1278,247 Sullivan Terrace,,Cincinnati,OH,,45228,,US,t
+1279,92522 Hansons Drive,,Hayward,CA,,94544,,US,t
+1280,525 Bunker Hill Trail,,Houston,TX,,77020,,US,t
+1281,9501 Colorado Alley,,Phoenix,AZ,,85025,,US,t
+1282,835 Jenifer Crossing,,Lafayette,IN,,47905,,US,t
+1283,0 Pepper Wood Road,,Hollywood,FL,,33028,,US,t
+1284,949 Red Cloud Junction,,Louisville,KY,,40233,,US,t
+1285,173 Bunker Hill Way,,Pensacola,FL,,32526,,US,t
+1286,2 Dennis Trail,,Corpus Christi,TX,,78410,,US,t
+1287,99646 Orin Drive,,West Palm Beach,FL,,33411,,US,t
+1288,27617 Reindahl Pass,,San Francisco,CA,,94121,,US,t
+1289,3983 Ridgeway Alley,,Tyler,TX,,75705,,US,t
+1290,30302 Colorado Junction,,Abilene,TX,,79605,,US,t
+1291,5550 Algoma Street,,Anniston,AL,,36205,,US,t
+1292,8 Mendota Lane,,Bakersfield,CA,,93311,,US,t
+1293,7771 Washington Park,,Charlotte,NC,,28289,,US,t
+1294,7 Helena Point,,Rochester,NY,,14646,,US,t
+1295,345 Fulton Place,,West Palm Beach,FL,,33421,,US,t
+1296,821 Grayhawk Way,,Raleigh,NC,,27635,,US,t
+1297,43684 Mifflin Plaza,,Falls Church,VA,,22047,,US,t
+1298,391 Banding Parkway,,Houston,TX,,77065,,US,t
+1299,83 Lotheville Way,,San Bernardino,CA,,92410,,US,t
+1300,273 Hooker Crossing,,New York City,NY,,10125,,US,t
+1301,94 Alpine Court,,El Paso,TX,,88563,,US,t
+1302,7624 Lien Trail,,Stockton,CA,,95210,,US,t
+1303,3945 Lien Road,,Boulder,CO,,80328,,US,t
+1304,3 Alpine Place,,Bradenton,FL,,34205,,US,t
+1305,83627 Corscot Way,,Greensboro,NC,,27455,,US,t
+1306,25 Pepper Wood Pass,,Atlanta,GA,,31136,,US,t
+1307,2 Birchwood Circle,,Anderson,IN,,46015,,US,t
+1308,94910 Dovetail Court,,Independence,MO,,64054,,US,t
+1309,3412 Dorton Point,,Phoenix,AZ,,85045,,US,t
+1310,160 Forster Plaza,,Kansas City,MO,,64144,,US,t
+1311,933 Hagan Junction,,Salt Lake City,UT,,84105,,US,t
+1312,78761 Saint Paul Street,,Delray Beach,FL,,33448,,US,t
+1313,40551 David Park,,Jefferson City,MO,,65110,,US,t
+1314,85 Bluejay Way,,Cincinnati,OH,,45296,,US,t
+1315,81150 Quincy Hill,,Peoria,IL,,61614,,US,t
+1316,1 Burning Wood Plaza,,Van Nuys,CA,,91411,,US,t
+1317,0 Morning Park,,Omaha,NE,,68144,,US,t
+1318,873 Nova Trail,,Montgomery,AL,,36195,,US,t
+1319,8705 Browning Drive,,Buffalo,NY,,14263,,US,t
+1320,05120 Toban Place,,Bronx,NY,,10469,,US,t
+1321,926 Michigan Lane,,Naples,FL,,34114,,US,t
+1322,16867 Nelson Lane,,Newport News,VA,,23612,,US,t
+1323,44 Fairfield Trail,,Richmond,VA,,23237,,US,t
+1324,688 Arrowood Court,,Evansville,IN,,47712,,US,t
+1325,64008 Fuller Trail,,Tulsa,OK,,74141,,US,t
+1326,8305 Aberg Park,,El Paso,TX,,79945,,US,t
+1327,5773 Mandrake Point,,San Antonio,TX,,78220,,US,t
+1328,61 Village Place,,Phoenix,AZ,,85025,,US,t
+1329,604 Superior Street,,San Diego,CA,,92137,,US,t
+1330,594 Evergreen Crossing,,Waco,TX,,76705,,US,t
+1331,46381 Paget Alley,,San Diego,CA,,92196,,US,t
+1332,0 Mitchell Park,,Rochester,NY,,14624,,US,t
+1333,96121 Jana Park,,Portland,OR,,97229,,US,t
+1334,3 High Crossing Terrace,,New Orleans,LA,,70142,,US,t
+1335,3 Oakridge Pass,,New Orleans,LA,,70142,,US,t
+1336,32192 Logan Terrace,,Dallas,TX,,75210,,US,t
+1337,154 Graedel Trail,,Jamaica,NY,,11431,,US,t
+1338,32 Del Mar Plaza,,Des Moines,IA,,50330,,US,t
+1339,20 Holmberg Terrace,,Las Vegas,NV,,89160,,US,t
+1340,6 South Point,,Sarasota,FL,,34233,,US,t
+1341,3644 American Ash Road,,Falls Church,VA,,22047,,US,t
+1342,023 Center Alley,,Detroit,MI,,48267,,US,t
+1343,7 Erie Parkway,,Albuquerque,NM,,87190,,US,t
+1344,8506 Declaration Street,,Denver,CO,,80241,,US,t
+1345,6 Londonderry Plaza,,Atlanta,GA,,31165,,US,t
+1346,38 Starling Way,,Greensboro,NC,,27404,,US,t
+1347,4884 Golf Course Hill,,Honolulu,HI,,96820,,US,t
+1349,9556 Badeau Point,,Miami,FL,,33190,,US,t
+1350,6120 Lerdahl Alley,,Anaheim,CA,,92825,,US,t
+1351,9868 Oak Valley Point,,Sacramento,CA,,94291,,US,t
+1357,901 Summit Parkway,,Maple Plain,MN,,55579,,US,t
+1358,698 Farwell Center,,Houston,TX,,77065,,US,t
+1359,4 Jay Alley,,Las Vegas,NV,,89145,,US,t
+1360,76 Coolidge Hill,,Newark,DE,,19725,,US,t
+1361,1 Towne Alley,,Lubbock,TX,,79410,,US,t
+1362,958 Sutteridge Terrace,,San Francisco,CA,,94132,,US,t
+1363,177 Vera Road,,Spartanburg,SC,,29305,,US,t
+1364,91 Parkside Parkway,,Youngstown,OH,,44505,,US,t
+1365,4 Fairview Point,,Des Moines,IA,,50393,,US,t
+1366,1 Brickson Park Circle,,Cleveland,OH,,44118,,US,t
+1367,58834 Towne Road,,Independence,MO,,64054,,US,t
+1368,2549 Birchwood Alley,,South Bend,IN,,46699,,US,t
+1369,8 Union Circle,,New York City,NY,,10249,,US,t
+1370,62 Florence Avenue,,Washington,DC,,20022,,US,t
+1371,16 Heath Trail,,Sacramento,CA,,94245,,US,t
+1372,84005 Kipling Circle,,Amarillo,TX,,79116,,US,t
+1373,96 Surrey Trail,,Hot Springs National Park,AR,,71914,,US,t
+1374,3563 Basil Terrace,,Syracuse,NY,,13217,,US,t
+1375,82 Judy Road,,Las Cruces,NM,,88006,,US,t
+1376,0186 Twin Pines Center,,East Saint Louis,IL,,62205,,US,t
+1377,4336 Erie Lane,,Springfield,IL,,62776,,US,t
+1378,34829 Corben Way,,Lincoln,NE,,68505,,US,t
+1379,59 Evergreen Hill,,Nashville,TN,,37245,,US,t
+1381,8268 Delaware Court,,Fort Wayne,IN,,46852,,US,t
+1382,4332 Ruskin Parkway,,Knoxville,TN,,37914,,US,t
+1383,2 Northland Parkway,,Reading,PA,,19605,,US,t
+1384,49 West Terrace,,Los Angeles,CA,,90060,,US,t
+1385,00 Kipling Park,,Washington,DC,,20029,,US,t
+1386,8 Northwestern Pass,,Saint Petersburg,FL,,33715,,US,t
+1387,56 Blackbird Crossing,,Pueblo,CO,,81010,,US,t
+1388,545 Donald Junction,,Anaheim,CA,,92825,,US,t
+1390,39 2nd Circle,,Tulsa,OK,,74170,,US,t
+1391,359 Arizona Plaza,,Huntsville,AL,,35895,,US,t
+1392,974 Tony Avenue,,Des Moines,IA,,50981,,US,t
+1393,5 Sauthoff Trail,,Wichita,KS,,67205,,US,t
+1394,976 Kim Junction,,Pasadena,CA,,91117,,US,t
+1395,9 Carey Alley,,Pittsburgh,PA,,15261,,US,t
+1396,70997 Lerdahl Court,,Fort Wayne,IN,,46805,,US,t
+1397,98 Mcguire Lane,,Tucson,AZ,,85715,,US,t
+1398,6 Acker Park,,New York City,NY,,10175,,US,t
+1399,4 Packers Circle,,New Orleans,LA,,70187,,US,t
+1400,38 Sunbrook Point,,Raleigh,NC,,27621,,US,t
+1401,638 Wayridge Hill,,Gulfport,MS,,39505,,US,t
+1402,02150 Hazelcrest Place,,Atlanta,GA,,30356,,US,t
+1403,7 Dawn Plaza,,Long Beach,CA,,90805,,US,t
+1404,7871 Vermont Terrace,,Houston,TX,,77271,,US,t
+1405,0101 Ilene Circle,,Glendale,CA,,91205,,US,t
+1406,623 Bartelt Place,,Modesto,CA,,95354,,US,t
+1407,15 Crowley Alley,,Daytona Beach,FL,,32128,,US,t
+1408,362 Evergreen Drive,,Birmingham,AL,,35231,,US,t
+1409,10283 Nova Plaza,,Springfield,MO,,65898,,US,t
+1410,8 Truax Avenue,,Sacramento,CA,,95818,,US,t
+1411,6728 Twin Pines Center,,Huntington,WV,,25726,,US,t
+1412,5 Marcy Pass,,Alexandria,LA,,71307,,US,t
+1413,4364 Dwight Street,,Jackson,MS,,39236,,US,t
+1414,9227 Sycamore Terrace,,Ridgely,MD,,21684,,US,t
+1415,48660 8th Center,,Pensacola,FL,,32595,,US,t
+1417,11721 Nancy Lane,,Fort Worth,TX,,76192,,US,t
+1418,9970 Westerfield Circle,,Fort Lauderdale,FL,,33310,,US,t
+1419,4212 Roth Point,,Indianapolis,IN,,46254,,US,t
+1420,80045 Stone Corner Plaza,,Houston,TX,,77245,,US,t
+1421,0778 Chive Hill,,Independence,MO,,64054,,US,t
+1422,18037 Artisan Crossing,,New York City,NY,,10131,,US,t
+1423,66568 Orin Drive,,Baltimore,MD,,21229,,US,t
+1424,99838 Thierer Lane,,Wilmington,NC,,28405,,US,t
+1425,1832 Coleman Place,,Kansas City,KS,,66160,,US,t
+1427,484 Clarendon Crossing,,Chicago,IL,,60674,,US,t
+1428,4 Holmberg Road,,Omaha,NE,,68134,,US,t
+1429,6219 Bartelt Plaza,,El Paso,TX,,88574,,US,t
+1437,32162 Golf Course Center,,Phoenix,AZ,,85077,,US,t
+1438,38 Meadow Ridge Plaza,,Pasadena,CA,,91125,,US,t
+1439,8265 Tennessee Alley,,Macon,GA,,31296,,US,t
+1440,6784 Bultman Drive,,El Paso,TX,,79923,,US,t
+1441,58 Mayfield Way,,Pensacola,FL,,32595,,US,t
+1443,04 Sachtjen Road,,Houston,TX,,77035,,US,t
+1446,41319 Commercial Park,,Albuquerque,NM,,87180,,US,t
+1447,53 Bobwhite Avenue,,El Paso,TX,,79916,,US,t
+1448,4 Wayridge Plaza,,Fresno,CA,,93794,,US,t
+1449,808 6th Parkway,,Buffalo,NY,,14220,,US,t
+1450,0 Evergreen Street,,Miami Beach,FL,,33141,,US,t
+1451,446 Coleman Way,,Chicago,IL,,60681,,US,t
+1452,2 Eagan Terrace,,Baltimore,MD,,21281,,US,t
+1453,46 La Follette Street,,Lexington,KY,,40515,,US,t
+1454,2334 La Follette Lane,,Atlanta,GA,,31196,,US,t
+1455,141 4th Circle,,Lexington,KY,,40581,,US,t
+1456,567 Ridgeway Alley,,Saint Joseph,MO,,64504,,US,t
+1458,93621 Elmside Park,,Madison,WI,,53710,,US,t
+1459,243 Mariners Cove Park,,Chicago,IL,,60646,,US,t
+1460,94 La Follette Avenue,,Stockton,CA,,95210,,US,t
+1461,20918 Coolidge Center,,Las Vegas,NV,,89155,,US,t
+1462,5246 Lakewood Gardens Lane,,Corpus Christi,TX,,78410,,US,t
+1463,26396 Schiller Hill,,Reno,NV,,89550,,US,t
+1464,258 Straubel Avenue,,Lexington,KY,,40591,,US,t
+1465,6 Elka Terrace,,Milwaukee,WI,,53205,,US,t
+1466,1463 Messerschmidt Pass,,Fresno,CA,,93709,,US,t
+1467,5213 Elka Center,,Racine,WI,,53405,,US,t
+1468,6 Jana Junction,,Tucson,AZ,,85748,,US,t
+1469,1307 Pine View Alley,,El Paso,TX,,79977,,US,t
+1470,96 Center Crossing,,Pittsburgh,PA,,15220,,US,t
+1471,454 Summerview Hill,,Miami,FL,,33180,,US,t
+1472,5 Melby Court,,Mesa,AZ,,85215,,US,t
+1473,16588 Ramsey Center,,Evansville,IN,,47747,,US,t
+1474,24350 Packers Hill,,Oklahoma City,OK,,73147,,US,t
+1475,3064 Melvin Circle,,Charlotte,NC,,28235,,US,t
+1476,03 Bunting Place,,Saint Petersburg,FL,,33742,,US,t
+1477,8964 Packers Hill,,San Bernardino,CA,,92424,,US,t
+1478,730 Calypso Court,,El Paso,TX,,88569,,US,t
+1479,9 Ramsey Parkway,,Pittsburgh,PA,,15220,,US,t
+1480,51 Clarendon Crossing,,Washington,DC,,20244,,US,t
+1481,9 New Castle Alley,,Terre Haute,IN,,47812,,US,t
+1482,78633 Hermina Pass,,Little Rock,AR,,72222,,US,t
+1483,7 Transport Way,,Evansville,IN,,47705,,US,t
+1484,339 Aberg Hill,,East Saint Louis,IL,,62205,,US,t
+1485,43 Burning Wood Court,,Saint Paul,MN,,55127,,US,t
+1486,36 Sherman Road,,Minneapolis,MN,,55412,,US,t
+1487,04 Hintze Junction,,Huntington,WV,,25705,,US,t
+1488,509 Monument Junction,,Gainesville,FL,,32627,,US,t
+1489,2 Acker Crossing,,Akron,OH,,44329,,US,t
+1490,0 Corscot Way,,Carson City,NV,,89714,,US,t
+1491,22 Towne Pass,,Sioux Falls,SD,,57110,,US,t
+1492,947 Sunfield Drive,,Grand Rapids,MI,,49560,,US,t
+1493,5958 Hollow Ridge Parkway,,Fort Worth,TX,,76147,,US,t
+1494,0721 Esch Road,,Ventura,CA,,93005,,US,t
+1495,3 Garrison Lane,,Sacramento,CA,,95813,,US,t
+1496,47 Messerschmidt Street,,Manassas,VA,,22111,,US,t
+1497,07 Mandrake Center,,Pompano Beach,FL,,33075,,US,t
+1498,9522 Corscot Park,,El Paso,TX,,79955,,US,t
+1499,9 Clemons Hill,,Schenectady,NY,,12325,,US,t
+1500,11148 Pepper Wood Way,,Cleveland,OH,,44130,,US,t
+1501,30 Oneill Pass,,Washington,DC,,20397,,US,t
+1502,63915 Logan Crossing,,Columbus,OH,,43226,,US,t
+1503,254 Thierer Pass,,Shawnee Mission,KS,,66215,,US,t
+1504,8031 Carey Road,,Anderson,SC,,29625,,US,t
+1505,03 Reindahl Parkway,,Longview,TX,,75605,,US,t
+1506,6 Hollow Ridge Road,,Houston,TX,,77250,,US,t
+1507,00 Mcguire Alley,,Tampa,FL,,33686,,US,t
+1512,2133 Tennessee Way,,Youngstown,OH,,44505,,US,t
+1513,795 Fairfield Place,,Bethlehem,PA,,18018,,US,t
+1514,7746 Mayer Road,,Odessa,TX,,79769,,US,t
+1515,9869 Huxley Place,,Jacksonville,FL,,32209,,US,t
+1516,9463 Basil Point,,Durham,NC,,27705,,US,t
+1517,4 Warner Hill,,Southfield,MI,,48076,,US,t
+1518,9 Harbort Point,,Memphis,TN,,38114,,US,t
+1519,0 Anniversary Street,,Lynchburg,VA,,24515,,US,t
+1520,44423 Golf View Street,,Iowa City,IA,,52245,,US,t
+1521,406 Fordem Lane,,Alexandria,LA,,71307,,US,t
+1522,6865 Superior Street,,Fullerton,CA,,92640,,US,t
+1523,8626 Cherokee Circle,,York,PA,,17405,,US,t
+1524,522 Green Ridge Circle,,Minneapolis,MN,,55448,,US,t
+1525,2308 Charing Cross Place,,Detroit,MI,,48267,,US,t
+1526,8 Old Shore Plaza,,Chattanooga,TN,,37416,,US,t
+1527,450 Fairfield Center,,Spring,TX,,77386,,US,t
+1528,0 Esker Parkway,,Corpus Christi,TX,,78405,,US,t
+1529,27117 Morningstar Way,,Minneapolis,MN,,55470,,US,t
+1530,355 Dovetail Pass,,Fort Worth,TX,,76121,,US,t
+1531,9863 Waxwing Trail,,Macon,GA,,31217,,US,t
+1532,3799 Springs Pass,,Colorado Springs,CO,,80940,,US,t
+1533,2 Debra Alley,,Tallahassee,FL,,32309,,US,t
+1534,6831 John Wall Lane,,Charleston,WV,,25336,,US,t
+1535,03 Sugar Junction,,El Paso,TX,,79916,,US,t
+1536,9 Weeping Birch Point,,Miami,FL,,33134,,US,t
+1537,79 Main Park,,Humble,TX,,77346,,US,t
+1538,0624 Claremont Plaza,,Morgantown,WV,,26505,,US,t
+1539,3118 Hovde Road,,Birmingham,AL,,35279,,US,t
+1540,894 Sloan Road,,Cincinnati,OH,,45228,,US,t
+1541,170 Nobel Drive,,Albuquerque,NM,,87195,,US,t
+1542,5066 Golden Leaf Junction,,San Diego,CA,,92145,,US,t
+1543,3 Kedzie Hill,,Seattle,WA,,98115,,US,t
+1544,2 Talisman Pass,,Houston,TX,,77065,,US,t
+1545,97440 Shelley Terrace,,Mesa,AZ,,85215,,US,t
+1546,28 Nancy Pass,,Santa Monica,CA,,90410,,US,t
+1547,49668 Westerfield Drive,,Honolulu,HI,,96820,,US,t
+1548,62980 Fairfield Alley,,Warren,OH,,44485,,US,t
+1549,152 Mockingbird Junction,,Wichita,KS,,67230,,US,t
+1550,34 Melby Hill,,Annapolis,MD,,21405,,US,t
+1551,4514 Claremont Street,,Orange,CA,,92867,,US,t
+1552,571 Fieldstone Road,,Columbus,OH,,43284,,US,t
+1553,3388 Moland Alley,,Tampa,FL,,33625,,US,t
+1554,57902 Nelson Junction,,Fresno,CA,,93786,,US,t
+1555,4 Arrowood Point,,Lake Charles,LA,,70616,,US,t
+1556,89954 Corben Parkway,,Mc Keesport,PA,,15134,,US,t
+1557,33 Artisan Crossing,,Wichita Falls,TX,,76305,,US,t
+1558,6 Tony Junction,,Phoenix,AZ,,85040,,US,t
+1559,181 Oneill Center,,Vero Beach,FL,,32964,,US,t
+1560,58 Dahle Point,,Erie,PA,,16510,,US,t
+1561,14157 Fuller Circle,,Glendale,AZ,,85311,,US,t
+1562,375 Donald Avenue,,Austin,TX,,78737,,US,t
+1563,9991 Hudson Park,,Raleigh,NC,,27635,,US,t
+1564,5 Killdeer Park,,Tampa,FL,,33694,,US,t
+1565,59 Derek Drive,,Ocala,FL,,34479,,US,t
+1566,4 Vidon Road,,Austin,TX,,78759,,US,t
+1568,2 Crownhardt Lane,,Flint,MI,,48550,,US,t
+1569,518 La Follette Junction,,El Paso,TX,,79940,,US,t
+1571,50890 Blaine Pass,,Tacoma,WA,,98481,,US,t
+1572,802 Bellgrove Circle,,Anderson,SC,,29625,,US,t
+1573,35265 Monica Street,,Austin,TX,,78710,,US,t
+1574,31 Annamark Trail,,Boulder,CO,,80328,,US,t
+1575,898 Tony Road,,Oklahoma City,OK,,73109,,US,t
+1576,30 Homewood Hill,,Levittown,PA,,19058,,US,t
+1577,804 Tony Park,,Lincoln,NE,,68531,,US,t
+1578,8498 Marcy Avenue,,Whittier,CA,,90610,,US,t
+1579,3 Columbus Junction,,Macon,GA,,31217,,US,t
+1580,001 Merchant Avenue,,El Paso,TX,,79989,,US,t
+1581,723 Farragut Trail,,Plano,TX,,75074,,US,t
+1582,7 Westport Way,,Peoria,IL,,61605,,US,t
+1583,33978 Spohn Plaza,,Albany,NY,,12262,,US,t
+1584,486 Paget Terrace,,Atlanta,GA,,30356,,US,t
+1585,05 Dovetail Pass,,White Plains,NY,,10606,,US,t
+1586,021 Sugar Drive,,Jackson,MS,,39296,,US,t
+1593,543 Waxwing Alley,,Wichita Falls,TX,,76310,,US,t
+1594,85 Pearson Place,,Akron,OH,,44310,,US,t
+1595,79761 Paget Circle,,Alexandria,VA,,22333,,US,t
+1596,67442 Bartelt Terrace,,Saint Paul,MN,,55123,,US,t
+1597,40640 Surrey Court,,Pensacola,FL,,32520,,US,t
+1598,785 Mandrake Lane,,Toledo,OH,,43610,,US,t
+1599,643 Pond Lane,,Katy,TX,,77493,,US,t
+1600,68 Eastlawn Point,,Winston Salem,NC,,27110,,US,t
+1601,4075 Heffernan Plaza,,Berkeley,CA,,94705,,US,t
+1602,4 Bluejay Terrace,,Pensacola,FL,,32511,,US,t
+1603,61468 Scoville Avenue,,Roanoke,VA,,24034,,US,t
+1604,45 Northwestern Crossing,,North Port,FL,,34290,,US,t
+1605,1 Farwell Terrace,,Charlotte,NC,,28256,,US,t
+1606,73 Pleasure Road,,Washington,DC,,20540,,US,t
+1607,5310 Vidon Place,,Bakersfield,CA,,93399,,US,t
+1608,4 Dakota Road,,Hyattsville,MD,,20784,,US,t
+1609,23918 Burning Wood Way,,Erie,PA,,16510,,US,t
+1610,55143 Debs Point,,South Bend,IN,,46620,,US,t
+1611,7376 Spaight Way,,Springfield,MO,,65898,,US,t
+1612,7181 Center Parkway,,Charlotte,NC,,28215,,US,t
+1613,24651 Stuart Road,,Roanoke,VA,,24014,,US,t
+1614,94 American Ash Street,,Tacoma,WA,,98405,,US,t
+1615,2434 Bellgrove Trail,,Lexington,KY,,40524,,US,t
+1616,5274 Blaine Center,,Albuquerque,NM,,87180,,US,t
+1617,81 Monument Road,,Carol Stream,IL,,60351,,US,t
+1618,0 Pawling Center,,Columbus,OH,,43210,,US,t
+1619,19466 Erie Terrace,,Honolulu,HI,,96840,,US,t
+1620,81 Stoughton Court,,Cheyenne,WY,,82007,,US,t
+1621,95813 South Drive,,Toledo,OH,,43699,,US,t
+1622,3 Sherman Point,,Portland,OR,,97229,,US,t
+1623,723 High Crossing Circle,,Los Angeles,CA,,90081,,US,t
+1624,56 Thackeray Hill,,Torrance,CA,,90505,,US,t
+1625,98 Westend Parkway,,Philadelphia,PA,,19160,,US,t
+1626,40 Forest Dale Way,,Pittsburgh,PA,,15220,,US,t
+1627,08931 Hooker Drive,,Columbus,GA,,31914,,US,t
+1628,82062 Longview Center,,Grand Rapids,MI,,49518,,US,t
+1629,767 Carpenter Center,,Springfield,MO,,65805,,US,t
+1630,9373 Dakota Trail,,Boise,ID,,83732,,US,t
+1631,775 Stuart Hill,,Monticello,MN,,55585,,US,t
+1632,84151 Hanson Place,,Champaign,IL,,61825,,US,t
+1633,1 Mccormick Junction,,Burbank,CA,,91520,,US,t
+1634,1995 Debs Avenue,,Corpus Christi,TX,,78426,,US,t
+1635,09407 Columbus Circle,,Cincinnati,OH,,45254,,US,t
+1636,9483 Porter Road,,Portland,OR,,97255,,US,t
+1637,34901 Lyons Terrace,,Sacramento,CA,,95833,,US,t
+1638,219 Clarendon Circle,,Terre Haute,IN,,47812,,US,t
+1639,0167 Sycamore Place,,Oklahoma City,OK,,73119,,US,t
+1641,4 Little Fleur Parkway,,Washington,DC,,20575,,US,t
+1643,50667 Memorial Place,,Salt Lake City,UT,,84199,,US,t
+1644,00024 Artisan Plaza,,Jamaica,NY,,11407,,US,t
+1645,8167 Grayhawk Park,,San Diego,CA,,92110,,US,t
+1646,3534 Gerald Road,,New York City,NY,,10115,,US,t
+1647,2 Heffernan Point,,Green Bay,WI,,54313,,US,t
+1648,808 Ridgeview Crossing,,Brooklyn,NY,,11220,,US,t
+1649,21065 Heath Hill,,Indianapolis,IN,,46239,,US,t
+1650,9108 Sutteridge Crossing,,Houston,TX,,77293,,US,t
+1651,0851 High Crossing Drive,,Bronx,NY,,10459,,US,t
+1652,19 Shoshone Plaza,,Dulles,VA,,20189,,US,t
+1653,90 Graceland Way,,Kissimmee,FL,,34745,,US,t
+1654,250 Ridgeview Point,,Phoenix,AZ,,85025,,US,t
+1655,4 Park Meadow Street,,Baton Rouge,LA,,70836,,US,t
+1656,83148 Eastwood Junction,,Greensboro,NC,,27499,,US,t
+1657,32514 Sheridan Drive,,Charlottesville,VA,,22903,,US,t
+1658,7182 Hagan Street,,Chicago,IL,,60697,,US,t
+1659,82925 Hoard Parkway,,Tacoma,WA,,98442,,US,t
+1660,555 East Court,,Cleveland,OH,,44197,,US,t
+1661,323 Carberry Avenue,,East Saint Louis,IL,,62205,,US,t
+1662,12 Lakewood Gardens Circle,,New York City,NY,,10019,,US,t
+1663,61 Havey Way,,Cleveland,OH,,44130,,US,t
+1668,9 Logan Junction,,Cheyenne,WY,,82007,,US,t
+1669,05 Everett Court,,Decatur,IL,,62525,,US,t
+1670,3367 Summer Ridge Place,,Chattanooga,TN,,37405,,US,t
+1671,4756 Dennis Drive,,Cincinnati,OH,,45243,,US,t
+1672,22 Claremont Point,,Jacksonville,FL,,32259,,US,t
+1673,37 Coleman Park,,Miami,FL,,33169,,US,t
+1674,2 Killdeer Court,,Dallas,TX,,75205,,US,t
+1675,0622 Northridge Alley,,Cleveland,OH,,44130,,US,t
+1676,6516 Mariners Cove Point,,Los Angeles,CA,,90060,,US,t
+1677,67336 Lunder Place,,Santa Barbara,CA,,93106,,US,t
+1678,1775 Colorado Court,,Saint Louis,MO,,63131,,US,t
+1679,24 Myrtle Drive,,Washington,DC,,20599,,US,t
+1680,36781 Southridge Way,,Rochester,MN,,55905,,US,t
+1681,551 Waxwing Lane,,Washington,DC,,20073,,US,t
+1682,1335 5th Terrace,,Atlanta,GA,,30340,,US,t
+1683,9 Lyons Park,,Las Cruces,NM,,88006,,US,t
+1684,85523 Sachtjen Court,,El Paso,TX,,79977,,US,t
+1686,0 Golden Leaf Pass,,Iowa City,IA,,52245,,US,t
+1687,95 Waywood Place,,Temple,TX,,76505,,US,t
+1688,337 Mosinee Lane,,Cincinnati,OH,,45208,,US,t
+1689,20 Dayton Park,,Beaufort,SC,,29905,,US,t
+1690,314 Old Gate Circle,,Torrance,CA,,90510,,US,t
+1691,145 Laurel Avenue,,Helena,MT,,59623,,US,t
+1692,503 Tennyson Pass,,El Paso,TX,,79955,,US,t
+1693,6269 High Crossing Street,,Charlotte,NC,,28230,,US,t
+1694,75759 Londonderry Alley,,Miami,FL,,33185,,US,t
+1695,4 Vernon Way,,Denver,CO,,80255,,US,t
+1696,61521 Helena Terrace,,Chattanooga,TN,,37410,,US,t
+1697,4754 Goodland Trail,,Arlington,VA,,22225,,US,t
+1698,7 Basil Trail,,Bryan,TX,,77806,,US,t
+1699,22286 Atwood Center,,White Plains,NY,,10606,,US,t
+1700,36410 Bowman Trail,,Minneapolis,MN,,55417,,US,t
+1701,20 Darwin Plaza,,Pittsburgh,PA,,15225,,US,t
+1702,1 Fordem Alley,,Eugene,OR,,97405,,US,t
+1703,782 Fremont Street,,Richmond,VA,,23228,,US,t
+1704,7525 Forster Terrace,,Daytona Beach,FL,,32128,,US,t
+1705,67503 Redwing Circle,,San Diego,CA,,92176,,US,t
+1706,7 Canary Center,,Torrance,CA,,90505,,US,t
+1707,4 Forest Run Trail,,Denver,CO,,80228,,US,t
+1708,96198 Meadow Valley Court,,Pensacola,FL,,32505,,US,t
+1709,8543 Sommers Center,,Bellevue,WA,,98008,,US,t
+1710,80 7th Crossing,,Duluth,GA,,30096,,US,t
+1711,73 Macpherson Court,,Carol Stream,IL,,60158,,US,t
+1712,3615 Westerfield Avenue,,Pensacola,FL,,32505,,US,t
+1713,769 Moulton Drive,,Tucson,AZ,,85748,,US,t
+1714,883 Pond Way,,Oklahoma City,OK,,73173,,US,t
+1715,530 Ilene Alley,,Jackson,MS,,39204,,US,t
+1716,885 La Follette Place,,Bowie,MD,,20719,,US,t
+1717,914 Clemons Center,,Vancouver,WA,,98664,,US,t
+1718,10 Clemons Lane,,Ocala,FL,,34479,,US,t
+1720,26478 2nd Plaza,,Reading,PA,,19605,,US,t
+1721,2414 Summerview Point,,Albuquerque,NM,,87180,,US,t
+1722,1195 Kenwood Alley,,Pueblo,CO,,81010,,US,t
+1723,105 Reinke Terrace,,Baton Rouge,LA,,70810,,US,t
+1724,3 Briar Crest Terrace,,Boca Raton,FL,,33487,,US,t
+1725,83828 Farmco Junction,,Duluth,GA,,30096,,US,t
+1726,75 Stoughton Parkway,,Orlando,FL,,32813,,US,t
+1727,70 Jay Crossing,,Meridian,MS,,39305,,US,t
+1728,21129 Hagan Hill,,Phoenix,AZ,,85077,,US,t
+1729,942 Autumn Leaf Hill,,Miami Beach,FL,,33141,,US,t
+1730,7594 Nancy Court,,Montgomery,AL,,36109,,US,t
+1731,645 Becker Road,,Washington,DC,,20010,,US,t
+1732,08327 Crest Line Terrace,,Alexandria,VA,,22309,,US,t
+1733,757 Parkside Pass,,Silver Spring,MD,,20904,,US,t
+1734,112 Manitowish Terrace,,Pomona,CA,,91797,,US,t
+1735,412 Pearson Lane,,Canton,OH,,44720,,US,t
+1736,8 Manitowish Terrace,,Richmond,VA,,23213,,US,t
+1737,13 Warbler Junction,,Juneau,AK,,99812,,US,t
+1738,60 Lotheville Avenue,,Washington,DC,,20210,,US,t
+1739,551 Memorial Crossing,,Portland,OR,,97240,,US,t
+1741,349 Lakeland Crossing,,Washington,DC,,20205,,US,t
+1746,930 Grover Trail,,Houston,TX,,77201,,US,t
+1747,15 Shoshone Pass,,Fort Smith,AR,,72905,,US,t
+1748,0068 Dottie Terrace,,Scottsdale,AZ,,85260,,US,t
+1749,1 Talmadge Road,,Bakersfield,CA,,93386,,US,t
+1750,20 Superior Pass,,Phoenix,AZ,,85045,,US,t
+1001,071 Cottonwood Way,,Staten Island,NY,,10305,,US,f
+1002,487 Mockingbird Drive,,Sacramento,CA,,95813,,US,f
+1003,25 Sauthoff Plaza,,Portland,OR,,97229,,US,f
+1004,51795 Debra Circle,,Houston,TX,,77281,,US,f
+1005,6728 Hoard Way,,Albany,NY,,12210,,US,f
+1006,67020 Cardinal Lane,,San Bernardino,CA,,92415,,US,f
+1007,942 Utah Avenue,,Los Angeles,CA,,90015,,US,f
+1008,580 Mayer Street,,Muskegon,MI,,49444,,US,f
+1009,298 Cottonwood Crossing,,Sacramento,CA,,94257,,US,f
+1010,5 Tennessee Parkway,,Dallas,TX,,75323,,US,f
+1011,2 Hintze Drive,,New Orleans,LA,,70142,,US,f
+1012,666 Sheridan Lane,,Myrtle Beach,SC,,29579,,US,f
+1013,762 Prairie Rose Trail,,Spring Hill,FL,,34611,,US,f
+1014,37 Holy Cross Circle,,Corona,CA,,92878,,US,f
+1015,138 Vera Alley,,New York City,NY,,10160,,US,f
+1016,924 Stang Way,,Dayton,OH,,45408,,US,f
+1017,7393 Farmco Center,,Las Cruces,NM,,88006,,US,f
+1018,763 Kings Court,,Houston,TX,,77085,,US,f
+1019,739 Dryden Park,,Durham,NC,,27710,,US,f
+1020,41 Talisman Junction,,Denver,CO,,80204,,US,f
+1021,73 Old Shore Park,,Washington,DC,,20029,,US,f
+1022,95758 Melody Way,,Dallas,TX,,75221,,US,f
+1023,09007 Lunder Plaza,,Miami,FL,,33142,,US,f
+1024,5 Wayridge Plaza,,Fort Wayne,IN,,46857,,US,f
+1025,549 Delladonna Parkway,,Saint Petersburg,FL,,33715,,US,f
+1026,5 Lillian Point,,Fresno,CA,,93709,,US,f
+1027,86 Hauk Pass,,Sterling,VA,,20167,,US,f
+1028,111 Thompson Lane,,Apache Junction,AZ,,85219,,US,f
+1029,78898 Fairview Lane,,El Paso,TX,,79984,,US,f
+1032,68 Esker Road,,Austin,TX,,78710,,US,f
+1033,212 Ohio Junction,,Orlando,FL,,32859,,US,f
+1034,7713 Everett Pass,,Newark,DE,,19725,,US,f
+1035,69 Cherokee Crossing,,Dallas,TX,,75251,,US,f
+1036,5 Melody Hill,,Bradenton,FL,,34210,,US,f
+1038,16 Johnson Terrace,,Grand Forks,ND,,58207,,US,f
+1039,306 Butterfield Place,,Norcross,GA,,30092,,US,f
+1040,627 Fordem Way,,Lansing,MI,,48956,,US,f
+1041,67 Petterle Way,,Los Angeles,CA,,90101,,US,f
+1042,615 Sheridan Place,,Toledo,OH,,43699,,US,f
+1043,924 Fair Oaks Plaza,,Saint Louis,MO,,63143,,US,f
+1044,1 Burrows Street,,Saint Petersburg,FL,,33710,,US,f
+1045,3 South Avenue,,Cincinnati,OH,,45233,,US,f
+1046,9774 Gina Point,,Miami,FL,,33147,,US,f
+1047,842 Duke Avenue,,Albuquerque,NM,,87180,,US,f
+1048,39 Heath Hill,,Birmingham,AL,,35244,,US,f
+1049,72 North Pass,,Brea,CA,,92822,,US,f
+1050,25 Ridgeway Crossing,,Davenport,IA,,52804,,US,f
+1051,47103 Almo Parkway,,Anchorage,AK,,99507,,US,f
+1052,98235 Upham Alley,,Knoxville,TN,,37939,,US,f
+1053,6 Nova Way,,Washington,DC,,20029,,US,f
+1054,35796 Hauk Parkway,,Phoenix,AZ,,85045,,US,f
+1055,336 Gerald Road,,Oklahoma City,OK,,73147,,US,f
+1056,3298 Acker Point,,Nashville,TN,,37210,,US,f
+1057,338 Badeau Way,,Richmond,VA,,23285,,US,f
+1058,8 Continental Street,,Milwaukee,WI,,53220,,US,f
+1059,6931 Cardinal Center,,Lexington,KY,,40510,,US,f
+1060,347 Nancy Terrace,,San Bernardino,CA,,92424,,US,f
+1061,2 Hollow Ridge Alley,,Washington,DC,,20067,,US,f
+1062,3253 Talisman Pass,,Port Washington,NY,,11054,,US,f
+1063,206 Truax Alley,,New York City,NY,,10184,,US,f
+1064,30 Anhalt Parkway,,Indianapolis,IN,,46239,,US,f
+1066,8023 Garrison Circle,,North Hollywood,CA,,91606,,US,f
+1067,88 American Ash Hill,,Pittsburgh,PA,,15205,,US,f
+1068,703 Marcy Center,,Honolulu,HI,,96840,,US,f
+1069,2 Milwaukee Road,,Bronx,NY,,10469,,US,f
+1070,6986 Dexter Park,,Cincinnati,OH,,45213,,US,f
+1073,9940 Buena Vista Court,,Milwaukee,WI,,53263,,US,f
+1074,3 Michigan Street,,New York City,NY,,10060,,US,f
+1075,70259 Butternut Parkway,,Houston,TX,,77206,,US,f
+1077,32 Fuller Alley,,Lancaster,CA,,93584,,US,f
+1078,22158 Declaration Circle,,San Antonio,TX,,78291,,US,f
+1079,2 Amoth Hill,,Memphis,TN,,38168,,US,f
+1080,01215 Springview Trail,,El Paso,TX,,88569,,US,f
+1081,5779 Judy Junction,,Asheville,NC,,28815,,US,f
+1082,080 New Castle Park,,Kansas City,MO,,64109,,US,f
+1083,8 Superior Avenue,,Brooklyn,NY,,11205,,US,f
+1084,0 Iowa Point,,Washington,DC,,20470,,US,f
+1085,4095 Declaration Drive,,Yakima,WA,,98907,,US,f
+1086,9 Morningstar Circle,,Portland,OR,,97240,,US,f
+1087,765 Gina Circle,,Houston,TX,,77025,,US,f
+1088,1 Northfield Junction,,Decatur,GA,,30089,,US,f
+1089,3 Fieldstone Road,,Decatur,GA,,30033,,US,f
+1090,4043 Dayton Lane,,Birmingham,AL,,35244,,US,f
+1091,8250 Coolidge Road,,Dallas,TX,,75226,,US,f
+1092,7101 Golf View Avenue,,Whittier,CA,,90610,,US,f
+1093,9457 Blackbird Pass,,Greenville,SC,,29605,,US,f
+1094,5368 Novick Terrace,,Sioux City,IA,,51110,,US,f
+1095,3 Cottonwood Alley,,Oklahoma City,OK,,73157,,US,f
+1097,7177 Surrey Street,,Saint Petersburg,FL,,33737,,US,f
+1098,4 Blackbird Center,,Columbus,GA,,31904,,US,f
+1099,69075 Esker Lane,,Spring,TX,,77388,,US,f
+1100,7377 Northfield Avenue,,Saint Louis,MO,,63180,,US,f
+1101,6 East Terrace,,Anderson,IN,,46015,,US,f
+1102,088 Jenna Court,,New York City,NY,,10029,,US,f
+1103,6 Golf Course Crossing,,Washington,DC,,20456,,US,f
+1104,081 Transport Park,,Saint Petersburg,FL,,33715,,US,f
+1105,815 David Plaza,,San Antonio,TX,,78278,,US,f
+1106,1979 Alpine Terrace,,Virginia Beach,VA,,23464,,US,f
+1107,2097 Heffernan Way,,New York City,NY,,10039,,US,f
+1108,7 Haas Hill,,Saint Louis,MO,,63104,,US,f
+1109,9 Schurz Parkway,,Wilmington,NC,,28410,,US,f
+1110,70 Forest Run Terrace,,Atlanta,GA,,30386,,US,f
+1111,2735 Kensington Terrace,,Saint Paul,MN,,55146,,US,f
+1112,54 Lake View Terrace,,Austin,TX,,78778,,US,f
+1113,6218 Stephen Street,,Charleston,WV,,25305,,US,f
+1114,50 Barnett Crossing,,Virginia Beach,VA,,23459,,US,f
+1115,7441 Dapin Plaza,,Madison,WI,,53705,,US,f
+1116,467 Surrey Terrace,,Memphis,TN,,38114,,US,f
+1117,784 Riverside Junction,,Miami,FL,,33185,,US,f
+1118,4 Oakridge Way,,Wichita,KS,,67230,,US,f
+1119,3 Main Parkway,,Cleveland,OH,,44185,,US,f
+1120,769 Gateway Street,,Jacksonville,FL,,32215,,US,f
+1121,96 Dexter Court,,Canton,OH,,44710,,US,f
+1122,02590 Declaration Plaza,,Philadelphia,PA,,19125,,US,f
+1123,92522 Rigney Avenue,,Odessa,TX,,79769,,US,f
+1124,818 Fieldstone Center,,Salt Lake City,UT,,84135,,US,f
+1125,4 Monterey Trail,,Hyattsville,MD,,20784,,US,f
+1126,400 Grayhawk Alley,,Staten Island,NY,,10305,,US,f
+1127,3974 Stoughton Road,,Portland,OR,,97229,,US,f
+1128,6 Moland Plaza,,Irvine,CA,,92612,,US,f
+1129,973 Logan Parkway,,Las Vegas,NV,,89130,,US,f
+1130,43756 Mallard Crossing,,Fresno,CA,,93786,,US,f
+1131,85982 Shasta Point,,Saint Paul,MN,,55114,,US,f
+1132,764 Pond Plaza,,Louisville,KY,,40256,,US,f
+1133,897 Ludington Trail,,San Bernardino,CA,,92410,,US,f
+1134,2 Stephen Court,,Indianapolis,IN,,46216,,US,f
+1135,9 Swallow Park,,Kansas City,MO,,64149,,US,f
+1136,94 Goodland Park,,Harrisburg,PA,,17140,,US,f
+1137,2726 Swallow Way,,Spokane,WA,,99215,,US,f
+1138,75 Evergreen Way,,Lehigh Acres,FL,,33972,,US,f
+1139,382 Jackson Place,,Naperville,IL,,60567,,US,f
+1140,95674 Elmside Avenue,,Miami,FL,,33111,,US,f
+1141,8 Valley Edge Drive,,Atlanta,GA,,30392,,US,f
+1142,802 Aberg Place,,Wichita,KS,,67220,,US,f
+1143,169 Manufacturers Court,,Albuquerque,NM,,87180,,US,f
+1144,242 Veith Terrace,,Fort Worth,TX,,76147,,US,f
+1145,4 Dovetail Court,,Wilmington,DE,,19886,,US,f
+1146,0 Sage Drive,,Santa Ana,CA,,92725,,US,f
+1147,0797 Stone Corner Center,,Kansas City,MO,,64136,,US,f
+1148,9243 Lawn Alley,,Houston,TX,,77060,,US,f
+1157,6 Cascade Plaza,,Anchorage,AK,,99512,,US,f
+1158,7 Park Meadow Way,,Charleston,WV,,25389,,US,f
+1159,008 Fuller Road,,Houston,TX,,77010,,US,f
+1160,513 Cody Street,,Long Beach,CA,,90810,,US,f
+1161,7626 Derek Terrace,,Salt Lake City,UT,,84170,,US,f
+1162,084 Grim Circle,,Migrate,KY,,41905,,US,f
+1163,0218 Golf Avenue,,Oakland,CA,,94622,,US,f
+1164,8 Onsgard Court,,Lincoln,NE,,68517,,US,f
+1165,5 Corry Park,,Washington,DC,,20508,,US,f
+1166,15 Dorton Trail,,Saint Louis,MO,,63169,,US,f
+1168,097 Caliangt Drive,,Richmond,VA,,23225,,US,f
+1169,18 Manitowish Lane,,Minneapolis,MN,,55402,,US,f
+1170,592 Melrose Street,,Winston Salem,NC,,27150,,US,f
+1171,231 Boyd Alley,,Los Angeles,CA,,90010,,US,f
+1172,430 Dorton Court,,Saint Paul,MN,,55127,,US,f
+1173,352 Parkside Park,,New York City,NY,,10125,,US,f
+1174,4 Grover Drive,,Harrisburg,PA,,17105,,US,f
+1175,0 Manitowish Alley,,Lake Worth,FL,,33467,,US,f
+1176,4883 Ridgeway Plaza,,Houston,TX,,77299,,US,f
+1177,75 Weeping Birch Avenue,,Orlando,FL,,32825,,US,f
+1178,4236 Tomscot Pass,,Albany,NY,,12232,,US,f
+1179,0 Golf Alley,,Brooklyn,NY,,11210,,US,f
+1180,85119 International Plaza,,Santa Barbara,CA,,93111,,US,f
+1181,9 Hazelcrest Park,,Topeka,KS,,66642,,US,f
+1183,44 Delladonna Pass,,Indianapolis,IN,,46295,,US,f
+1184,48 Wayridge Pass,,Reno,NV,,89519,,US,f
+1185,01255 Hauk Drive,,Chicago,IL,,60624,,US,f
+1186,930 Morningstar Court,,Fort Wayne,IN,,46862,,US,f
+1187,2690 Swallow Circle,,West Palm Beach,FL,,33405,,US,f
+1188,93584 Marquette Parkway,,Houston,TX,,77020,,US,f
+1189,53789 Valley Edge Point,,Omaha,NE,,68197,,US,f
+1191,145 Huxley Place,,Reston,VA,,20195,,US,f
+1192,1513 Thierer Drive,,Jackson,MS,,39282,,US,f
+1193,86780 Utah Trail,,Garland,TX,,75049,,US,f
+1194,7 Bluejay Street,,Saint Cloud,MN,,56398,,US,f
+1195,6 Buena Vista Hill,,Des Moines,IA,,50369,,US,f
+1196,897 Memorial Parkway,,Denver,CO,,80270,,US,f
+1198,7635 Bunker Hill Place,,Madison,WI,,53779,,US,f
+1199,4 Becker Center,,Marietta,GA,,30066,,US,f
+1200,021 Onsgard Drive,,Pensacola,FL,,32595,,US,f
+1201,548 Dakota Terrace,,Saint Louis,MO,,63150,,US,f
+1202,5 Sherman Lane,,Lakewood,WA,,98498,,US,f
+1203,61 Burning Wood Hill,,Houston,TX,,77065,,US,f
+1204,04 Onsgard Road,,Lancaster,PA,,17622,,US,f
+1205,515 Elka Park,,Rochester,NY,,14619,,US,f
+1206,255 Emmet Crossing,,Nashville,TN,,37215,,US,f
+1208,85 Prairieview Terrace,,Lincoln,NE,,68517,,US,f
+1209,7 Laurel Point,,Salt Lake City,UT,,84105,,US,f
+1210,754 Kennedy Pass,,Salt Lake City,UT,,84199,,US,f
+1211,86728 Mcguire Park,,Suffolk,VA,,23436,,US,f
+1212,90962 Susan Place,,Daytona Beach,FL,,32123,,US,f
+1213,124 Monterey Center,,Washington,DC,,20319,,US,f
+1214,44 Talmadge Center,,New York City,NY,,10045,,US,f
+1215,09 Melody Place,,Evansville,IN,,47737,,US,f
+1216,26 Pierstorff Center,,San Bernardino,CA,,92415,,US,f
+1217,57 Esker Lane,,Baton Rouge,LA,,70894,,US,f
+1218,783 Anhalt Parkway,,Rochester,NY,,14614,,US,f
+1219,68 Jenna Street,,Albuquerque,NM,,87190,,US,f
+1220,5 Northwestern Parkway,,Buffalo,NY,,14276,,US,f
+1221,51930 Hanson Crossing,,College Station,TX,,77844,,US,f
+1222,559 Goodland Court,,Corpus Christi,TX,,78426,,US,f
+1223,7 Anzinger Drive,,Fullerton,CA,,92640,,US,f
+1224,8 Sachtjen Point,,Baton Rouge,LA,,70815,,US,f
+1225,19057 Menomonie Way,,Chicago,IL,,60657,,US,f
+1226,576 Kensington Crossing,,Syracuse,NY,,13251,,US,f
+1228,48960 Prentice Trail,,Sacramento,CA,,94237,,US,f
+1229,0725 Springs Court,,Roanoke,VA,,24024,,US,f
+1230,41728 Lien Street,,Columbia,SC,,29203,,US,f
+1231,868 Dottie Trail,,Tulsa,OK,,74149,,US,f
+1232,5 Northport Parkway,,Lawrenceville,GA,,30245,,US,f
+1233,81 Lyons Hill,,San Antonio,TX,,78205,,US,f
+1234,5969 Sheridan Junction,,Dallas,TX,,75353,,US,f
+1235,88 Petterle Place,,San Diego,CA,,92105,,US,f
+1236,05735 Farragut Circle,,Roanoke,VA,,24009,,US,f
+1237,6 Parkside Street,,Canton,OH,,44720,,US,f
+1238,742 Dexter Hill,,San Jose,CA,,95160,,US,f
+1239,8861 Anhalt Trail,,Pocatello,ID,,83206,,US,f
+1240,3024 Butternut Alley,,Seattle,WA,,98133,,US,f
+1241,801 Heffernan Alley,,Lexington,KY,,40510,,US,f
+1242,813 Spaight Alley,,Grand Forks,ND,,58207,,US,f
+1243,1 Troy Avenue,,Washington,DC,,20067,,US,f
+1244,4 Clove Alley,,Minneapolis,MN,,55407,,US,f
+1245,15086 Judy Alley,,Birmingham,AL,,35220,,US,f
+1246,3 Rusk Alley,,Spartanburg,SC,,29319,,US,f
+1247,18 Fremont Street,,Columbus,OH,,43231,,US,f
+1248,0 Gale Alley,,Norman,OK,,73071,,US,f
+1249,29737 Mcbride Parkway,,Springfield,IL,,62756,,US,f
+1250,3 Golf Center,,Washington,DC,,56944,,US,f
+1251,33200 Hollow Ridge Point,,New York City,NY,,10019,,US,f
+1252,64401 6th Hill,,Honolulu,HI,,96820,,US,f
+1253,5823 Leroy Road,,Las Cruces,NM,,88006,,US,f
+1254,4 Westridge Circle,,Buffalo,NY,,14263,,US,f
+1255,6 Little Fleur Drive,,Orlando,FL,,32803,,US,f
+1256,067 Roth Alley,,Grand Rapids,MI,,49505,,US,f
+1257,45185 Delladonna Lane,,Midland,TX,,79705,,US,f
+1258,69292 Nevada Drive,,Austin,TX,,78778,,US,f
+1259,822 Portage Avenue,,Nashville,TN,,37210,,US,f
+1260,0 Mifflin Drive,,New Orleans,LA,,70116,,US,f
+1261,60216 Basil Parkway,,El Paso,TX,,79994,,US,f
+1262,79177 Delaware Street,,Dallas,TX,,75205,,US,f
+1263,0 Union Lane,,Salem,OR,,97306,,US,f
+1264,5 Sunnyside Drive,,Stockton,CA,,95210,,US,f
+1265,1 Shasta Court,,Portland,OR,,97216,,US,f
+1266,1 Monument Drive,,Richmond,VA,,23237,,US,f
+1267,5 Vernon Circle,,Tampa,FL,,33625,,US,f
+1268,8 Rockefeller Drive,,Baltimore,MD,,21203,,US,f
+1269,8175 Aberg Parkway,,Austin,TX,,78783,,US,f
+1270,8890 Melrose Center,,Fairfax,VA,,22036,,US,f
+1271,93 Basil Park,,Huntsville,AL,,35895,,US,f
+1272,2 Old Shore Avenue,,Brooklyn,NY,,11210,,US,f
+1273,600 Elka Parkway,,Fresno,CA,,93721,,US,f
+1274,6401 Buell Road,,Naples,FL,,34102,,US,f
+1275,3 Pierstorff Alley,,Waco,TX,,76705,,US,f
+1276,47 Logan Park,,Frankfort,KY,,40618,,US,f
+1277,1 Basil Drive,,Albuquerque,NM,,87190,,US,f
+1278,2 Crowley Parkway,,Baton Rouge,LA,,70815,,US,f
+1279,1016 Ridge Oak Place,,Amarillo,TX,,79118,,US,f
+1280,43310 Spohn Place,,Reno,NV,,89505,,US,f
+1281,4557 Sunfield Street,,Long Beach,CA,,90805,,US,f
+1282,394 Shopko Center,,Harrisburg,PA,,17105,,US,f
+1283,89 Old Shore Alley,,Oklahoma City,OK,,73157,,US,f
+1284,8036 Melby Crossing,,Charlotte,NC,,28220,,US,f
+1285,1 Oriole Pass,,Saint Paul,MN,,55127,,US,f
+1286,26 Saint Paul Pass,,Memphis,TN,,38109,,US,f
+1287,59 Utah Road,,Tacoma,WA,,98417,,US,f
+1288,557 Barby Terrace,,Young America,MN,,55564,,US,f
+1289,5847 Luster Plaza,,Houston,TX,,77010,,US,f
+1290,2245 Transport Circle,,Muncie,IN,,47306,,US,f
+1291,580 Northport Junction,,Inglewood,CA,,90305,,US,f
+1292,810 Sutherland Park,,Buffalo,NY,,14215,,US,f
+1293,61 8th Crossing,,Green Bay,WI,,54305,,US,f
+1294,70 Clyde Gallagher Alley,,Washington,DC,,20029,,US,f
+1295,726 Anhalt Parkway,,Washington,DC,,20530,,US,f
+1296,36 Haas Drive,,Helena,MT,,59623,,US,f
+1297,5 Russell Way,,Charleston,WV,,25356,,US,f
+1298,9781 Bobwhite Parkway,,Albany,NY,,12232,,US,f
+1299,863 Cherokee Plaza,,Saginaw,MI,,48609,,US,f
+1300,41622 Manley Parkway,,Cleveland,OH,,44125,,US,f
+1301,443 Forest Run Trail,,Memphis,TN,,38188,,US,f
+1302,31 Truax Center,,Atlanta,GA,,30386,,US,f
+1304,097 Trailsway Park,,Murfreesboro,TN,,37131,,US,f
+1305,47976 Bunting Crossing,,Richmond,VA,,23213,,US,f
+1310,21401 Daystar Pass,,Olympia,WA,,98516,,US,f
+1311,31899 Hoard Court,,Washington,DC,,20557,,US,f
+1312,20 Jenna Plaza,,Buffalo,NY,,14225,,US,f
+1313,67 Morningstar Trail,,Duluth,MN,,55805,,US,f
+1314,15536 Vidon Hill,,Austin,TX,,78769,,US,f
+1315,770 Nevada Crossing,,Kalamazoo,MI,,49006,,US,f
+1316,3934 Hooker Hill,,Stockton,CA,,95298,,US,f
+1317,55306 Shopko Parkway,,Albany,NY,,12227,,US,f
+1318,6 South Junction,,Greensboro,NC,,27409,,US,f
+1319,1599 Tomscot Way,,Amarillo,TX,,79159,,US,f
+1320,33669 Myrtle Road,,Bethlehem,PA,,18018,,US,f
+1321,23 Cherokee Way,,New Orleans,LA,,70165,,US,f
+1322,59894 Mcguire Terrace,,Pensacola,FL,,32511,,US,f
+1323,96 Ramsey Junction,,Louisville,KY,,40225,,US,f
+1324,09634 Lyons Center,,Fort Lauderdale,FL,,33325,,US,f
+1325,5 Truax Lane,,Cincinnati,OH,,45264,,US,f
+1326,5634 Merchant Park,,Provo,UT,,84605,,US,f
+1327,66 Melby Lane,,Fresno,CA,,93704,,US,f
+1328,133 Walton Drive,,Portland,OR,,97232,,US,f
+1329,8767 Green Court,,San Francisco,CA,,94159,,US,f
+1330,789 Riverside Trail,,Sioux Falls,SD,,57198,,US,f
+1331,574 Heffernan Pass,,Albuquerque,NM,,87180,,US,f
+1333,9 Marquette Lane,,Spokane,WA,,99210,,US,f
+1334,73528 Hudson Drive,,Pueblo,CO,,81005,,US,f
+1335,35837 Sauthoff Point,,New Orleans,LA,,70174,,US,f
+1336,0498 Granby Park,,Louisville,KY,,40225,,US,f
+1337,13304 Texas Hill,,Austin,TX,,78783,,US,f
+1338,62 Dawn Parkway,,Dallas,TX,,75260,,US,f
+1339,77600 Dryden Center,,Denton,TX,,76205,,US,f
+1340,27001 Loftsgordon Alley,,Charlotte,NC,,28225,,US,f
+1341,713 Harper Circle,,Jacksonville,FL,,32220,,US,f
+1342,952 Grover Hill,,Stockton,CA,,95219,,US,f
+1343,91563 Hoffman Road,,San Antonio,TX,,78260,,US,f
+1344,5 Schiller Junction,,Charleston,WV,,25356,,US,f
+1345,14688 John Wall Trail,,Fresno,CA,,93762,,US,f
+1346,2781 Grayhawk Way,,Saint Paul,MN,,55188,,US,f
+1347,7 Bowman Trail,,Brooklyn,NY,,11236,,US,f
+1348,9 Larry Circle,,Sacramento,CA,,95852,,US,f
+1349,949 Vera Center,,Saint Petersburg,FL,,33742,,US,f
+1350,0105 Derek Avenue,,Syracuse,NY,,13205,,US,f
+1351,20 Cody Parkway,,San Jose,CA,,95113,,US,f
+1352,8 Grim Plaza,,Salinas,CA,,93907,,US,f
+1353,638 Susan Circle,,Baltimore,MD,,21211,,US,f
+1354,83767 Mayfield Park,,Miami,FL,,33175,,US,f
+1355,62 Sycamore Street,,Saint Louis,MO,,63104,,US,f
+1356,7662 Daystar Hill,,Warren,OH,,44485,,US,f
+1357,9 Beilfuss Terrace,,Silver Spring,MD,,20904,,US,f
+1358,31 Katie Pass,,Santa Monica,CA,,90405,,US,f
+1359,0 Forster Plaza,,Orlando,FL,,32891,,US,f
+1360,77 Bluestem Junction,,San Jose,CA,,95194,,US,f
+1361,8 Lerdahl Plaza,,Flushing,NY,,11355,,US,f
+1362,22 Iowa Alley,,Harrisburg,PA,,17105,,US,f
+1363,8019 Ronald Regan Crossing,,Charlotte,NC,,28230,,US,f
+1364,41529 Mariners Cove Trail,,Louisville,KY,,40266,,US,f
+1365,3875 Norway Maple Crossing,,Canton,OH,,44760,,US,f
+1366,0642 Lawn Parkway,,Torrance,CA,,90510,,US,f
+1367,61879 Barnett Lane,,Canton,OH,,44710,,US,f
+1370,7 Bonner Alley,,Naples,FL,,34102,,US,f
+1371,2 Porter Terrace,,Kansas City,MO,,64114,,US,f
+1372,408 Loftsgordon Way,,Dallas,TX,,75310,,US,f
+1373,5 Homewood Lane,,Macon,GA,,31296,,US,f
+1374,4 Reindahl Alley,,Indianapolis,IN,,46239,,US,f
+1375,9 Redwing Parkway,,New Castle,PA,,16107,,US,f
+1376,206 Maryland Avenue,,Austin,TX,,78737,,US,f
+1377,0 Fisk Parkway,,Denton,TX,,76210,,US,f
+1378,575 Melrose Plaza,,Sacramento,CA,,94250,,US,f
+1379,276 Clyde Gallagher Circle,,Louisville,KY,,40256,,US,f
+1380,25 Forest Place,,New York City,NY,,10045,,US,f
+1381,6930 Miller Pass,,Bethesda,MD,,20816,,US,f
+1382,9202 Comanche Avenue,,Monroe,LA,,71213,,US,f
+1383,1 Everett Point,,Dallas,TX,,75397,,US,f
+1388,834 Ryan Point,,Albany,NY,,12255,,US,f
+1389,3335 Susan Circle,,Columbia,MO,,65211,,US,f
+1390,136 Barby Junction,,Ogden,UT,,84409,,US,f
+1391,3 Coleman Terrace,,New Orleans,LA,,70142,,US,f
+1392,02 Loomis Circle,,Austin,TX,,78710,,US,f
+1393,0814 Sutteridge Junction,,Boca Raton,FL,,33487,,US,f
+1394,04 Southridge Terrace,,San Francisco,CA,,94126,,US,f
+1395,7558 Sunfield Terrace,,Orlando,FL,,32830,,US,f
+1396,46 Rieder Terrace,,Louisville,KY,,40205,,US,f
+1397,554 Butternut Junction,,Louisville,KY,,40298,,US,f
+1398,8704 Goodland Plaza,,Cincinnati,OH,,45223,,US,f
+1399,16 Menomonie Court,,Washington,DC,,20088,,US,f
+1400,59 Fordem Street,,Cincinnati,OH,,45249,,US,f
+1401,022 Thackeray Terrace,,Birmingham,AL,,35295,,US,f
+1402,1652 Tony Street,,Atlanta,GA,,31190,,US,f
+1403,2739 Sunfield Pass,,Syracuse,NY,,13224,,US,f
+1404,57320 Nova Crossing,,Washington,DC,,20575,,US,f
+1405,51 Village Junction,,Colorado Springs,CO,,80920,,US,f
+1406,0 Spenser Junction,,El Paso,TX,,79916,,US,f
+1407,890 Annamark Road,,Arlington,TX,,76096,,US,f
+1408,63734 Hoffman Plaza,,Pueblo,CO,,81005,,US,f
+1409,2131 Colorado Crossing,,Seattle,WA,,98121,,US,f
+1410,858 Dovetail Trail,,Baton Rouge,LA,,70820,,US,f
+1411,830 Leroy Avenue,,Pasadena,CA,,91199,,US,f
+1412,8430 Carey Center,,East Saint Louis,IL,,62205,,US,f
+1413,41528 Kingsford Center,,Pasadena,CA,,91131,,US,f
+1414,16 Mcguire Way,,Denver,CO,,80228,,US,f
+1415,16975 Bartelt Point,,Cleveland,OH,,44197,,US,f
+1416,990 Sycamore Circle,,Sacramento,CA,,95823,,US,f
+1417,0 Lien Parkway,,Evansville,IN,,47737,,US,f
+1418,0 Forest Lane,,Port Saint Lucie,FL,,34985,,US,f
+1419,50 Lunder Park,,Fort Lauderdale,FL,,33320,,US,f
+1421,86605 Manitowish Parkway,,Lexington,KY,,40505,,US,f
+1422,37 Waubesa Court,,Zephyrhills,FL,,33543,,US,f
+1423,701 Texas Place,,Jacksonville,FL,,32204,,US,f
+1424,90953 Elgar Way,,Mesa,AZ,,85205,,US,f
+1425,79888 Northview Pass,,Asheville,NC,,28815,,US,f
+1426,48 Menomonie Point,,Washington,DC,,20231,,US,f
+1427,0200 Caliangt Alley,,Baltimore,MD,,21216,,US,f
+1428,5306 Caliangt Junction,,Grand Rapids,MI,,49518,,US,f
+1429,05171 Arizona Place,,North Las Vegas,NV,,89036,,US,f
+1430,875 Meadow Ridge Pass,,Fort Worth,TX,,76134,,US,f
+1431,90 Rockefeller Trail,,Houston,TX,,77075,,US,f
+1432,08765 Gina Trail,,New York City,NY,,10131,,US,f
+1433,8761 Sunfield Trail,,Philadelphia,PA,,19178,,US,f
+1434,90992 Buena Vista Pass,,Saint Joseph,MO,,64504,,US,f
+1435,57 Milwaukee Road,,Pueblo,CO,,81015,,US,f
+1437,11198 Oneill Center,,Honolulu,HI,,96820,,US,f
+1439,78167 Cody Plaza,,Fayetteville,NC,,28314,,US,f
+1440,51070 Melby Center,,Memphis,TN,,38131,,US,f
+1441,29076 Clove Drive,,Washington,DC,,20530,,US,f
+1442,7575 Thierer Plaza,,New Orleans,LA,,70160,,US,f
+1443,343 Sherman Pass,,Sacramento,CA,,95894,,US,f
+1444,2990 Clarendon Junction,,Lake Worth,FL,,33467,,US,f
+1445,454 Crescent Oaks Avenue,,Chicago,IL,,60630,,US,f
+1446,6284 Texas Parkway,,Asheville,NC,,28815,,US,f
+1447,673 Ruskin Plaza,,Anaheim,CA,,92812,,US,f
+1448,0954 Cherokee Park,,Arlington,TX,,76096,,US,f
+1449,0 Claremont Lane,,Houston,TX,,77080,,US,f
+1450,0 Welch Point,,Boca Raton,FL,,33432,,US,f
+1451,0 Reinke Junction,,Omaha,NE,,68117,,US,f
+1452,9736 Russell Point,,New York City,NY,,10160,,US,f
+1453,029 Clarendon Hill,,Roanoke,VA,,24024,,US,f
+1454,920 Autumn Leaf Trail,,Philadelphia,PA,,19141,,US,f
+1455,8683 Briar Crest Plaza,,Orlando,FL,,32835,,US,f
+1456,55425 West Plaza,,Cincinnati,OH,,45999,,US,f
+1457,3 Manley Hill,,Albany,NY,,12210,,US,f
+1458,78187 Ludington Hill,,Ridgely,MD,,21684,,US,f
+1459,4 Talisman Pass,,Greensboro,NC,,27455,,US,f
+1460,26 Browning Point,,Winston Salem,NC,,27110,,US,f
+1466,2 3rd Plaza,,Springfield,IL,,62776,,US,f
+1467,731 Fair Oaks Court,,Hialeah,FL,,33018,,US,f
+1468,944 Logan Avenue,,Anderson,SC,,29625,,US,f
+1469,04 Merrick Alley,,Peoria,IL,,61629,,US,f
+1470,0 Hudson Pass,,Washington,DC,,20244,,US,f
+1471,1 Mosinee Avenue,,Des Moines,IA,,50362,,US,f
+1472,7146 Oak Street,,Oakland,CA,,94605,,US,f
+1473,7167 Carberry Center,,El Paso,TX,,79945,,US,f
+1474,87839 Summerview Street,,San Diego,CA,,92176,,US,f
+1475,1 Russell Drive,,Des Moines,IA,,50335,,US,f
+1476,73768 Darwin Court,,Birmingham,AL,,35210,,US,f
+1477,9587 Tony Avenue,,Birmingham,AL,,35231,,US,f
+1478,559 Warrior Junction,,Scottsdale,AZ,,85255,,US,f
+1479,208 Kensington Place,,Houston,TX,,77266,,US,f
+1480,3945 Stang Alley,,Oklahoma City,OK,,73167,,US,f
+1481,177 Parkside Court,,Sacramento,CA,,94207,,US,f
+1482,4206 John Wall Junction,,Portland,OR,,97206,,US,f
+1483,046 Algoma Park,,Brooklyn,NY,,11231,,US,f
+1484,5 Armistice Court,,Huntington,WV,,25775,,US,f
+1485,807 Bobwhite Street,,Champaign,IL,,61825,,US,f
+1486,936 Victoria Plaza,,Seattle,WA,,98121,,US,f
+1487,71494 Prairieview Court,,Washington,DC,,20088,,US,f
+1488,361 Westport Lane,,Orlando,FL,,32825,,US,f
+1489,5267 Cody Terrace,,San Francisco,CA,,94126,,US,f
+1491,0 Sachs Crossing,,Oklahoma City,OK,,73167,,US,f
+1492,86 Raven Center,,Birmingham,AL,,35231,,US,f
+1493,18546 Birchwood Lane,,Houston,TX,,77005,,US,f
+1494,5 Kingsford Drive,,Washington,DC,,20404,,US,f
+1495,7 Sunfield Place,,Corpus Christi,TX,,78410,,US,f
+1496,7 Elgar Avenue,,Sioux City,IA,,51110,,US,f
+1497,403 Ramsey Place,,Falls Church,VA,,22047,,US,f
+1498,17 Lunder Plaza,,Lansing,MI,,48930,,US,f
+1499,00885 Esker Park,,Knoxville,TN,,37914,,US,f
+1500,4252 Tennessee Terrace,,Largo,FL,,34643,,US,f
+1501,30 Buena Vista Road,,Washington,DC,,20205,,US,f
+1502,0963 Pepper Wood Center,,Santa Ana,CA,,92705,,US,f
+1503,26370 Cascade Place,,Young America,MN,,55551,,US,f
+1504,7 Red Cloud Lane,,Houston,TX,,77060,,US,f
+1505,8026 Bonner Parkway,,Riverside,CA,,92505,,US,f
+1507,83010 Charing Cross Terrace,,Saint Paul,MN,,55172,,US,f
+1508,514 Mesta Avenue,,Cheyenne,WY,,82007,,US,f
+1509,1 Waxwing Hill,,Saint Augustine,FL,,32092,,US,f
+1510,4 Meadow Valley Center,,El Paso,TX,,88574,,US,f
+1511,651 Logan Court,,Phoenix,AZ,,85062,,US,f
+1512,71 Monica Avenue,,Baltimore,MD,,21290,,US,f
+1514,3 Mockingbird Hill,,San Bernardino,CA,,92415,,US,f
+1515,4701 Valley Edge Hill,,Tampa,FL,,33605,,US,f
+1516,69576 Goodland Parkway,,Tacoma,WA,,98481,,US,f
+1518,2255 Barnett Terrace,,Lincoln,NE,,68505,,US,f
+1519,127 Cottonwood Place,,Denver,CO,,80235,,US,f
+1521,9890 Carpenter Way,,Santa Rosa,CA,,95405,,US,f
+1522,3296 Atwood Way,,Toledo,OH,,43635,,US,f
+1523,733 Loomis Park,,Alexandria,VA,,22301,,US,f
+1524,37 Knutson Drive,,Houston,TX,,77245,,US,f
+1525,94 Bashford Center,,Bronx,NY,,10474,,US,f
+1526,6464 Commercial Street,,Alpharetta,GA,,30022,,US,f
+1527,6828 Lillian Junction,,Laredo,TX,,78044,,US,f
+1528,6 Monterey Avenue,,Milwaukee,WI,,53225,,US,f
+1529,991 Lunder Court,,Austin,TX,,78769,,US,f
+1530,4 Granby Avenue,,Salem,OR,,97312,,US,f
+1531,84 Schiller Junction,,Houston,TX,,77070,,US,f
+1532,391 Kensington Trail,,Saint Paul,MN,,55166,,US,f
+1533,080 Lukken Place,,Macon,GA,,31217,,US,f
+1534,78 Meadow Vale Plaza,,Vancouver,WA,,98682,,US,f
+1535,0943 Alpine Pass,,Washington,DC,,20244,,US,f
+1536,76 Spohn Court,,Des Moines,IA,,50369,,US,f
+1537,74290 Loftsgordon Plaza,,Pittsburgh,PA,,15235,,US,f
+1538,0 Daystar Point,,Salt Lake City,UT,,84170,,US,f
+1539,2886 Corry Street,,San Jose,CA,,95123,,US,f
+1546,3728 International Parkway,,Washington,DC,,20530,,US,f
+1547,0849 Orin Pass,,Shawnee Mission,KS,,66205,,US,f
+1548,01914 Cody Pass,,Las Vegas,NV,,89160,,US,f
+1549,8333 Kropf Circle,,Seattle,WA,,98133,,US,f
+1550,778 Lien Junction,,Houston,TX,,77260,,US,f
+1551,20920 Pierstorff Circle,,Jamaica,NY,,11470,,US,f
+1552,528 Warbler Lane,,Richmond,VA,,23277,,US,f
+1553,994 Continental Place,,Washington,DC,,20051,,US,f
+1554,729 Graceland Alley,,Memphis,TN,,38168,,US,f
+1555,6 Hayes Center,,Albany,NY,,12210,,US,f
+1556,01719 Granby Drive,,Ogden,UT,,84403,,US,f
+1557,73 Twin Pines Court,,Columbia,MO,,65218,,US,f
+1558,383 Jackson Circle,,Kansas City,MO,,64109,,US,f
+1559,615 Red Cloud Trail,,Duluth,MN,,55805,,US,f
+1560,26 3rd Center,,Olympia,WA,,98506,,US,f
+1562,579 Thierer Street,,Jamaica,NY,,11431,,US,f
+1563,46162 Arrowood Circle,,Cheyenne,WY,,82007,,US,f
+1564,6228 Jackson Point,,Decatur,IL,,62525,,US,f
+1565,7 Sutherland Parkway,,Springfield,IL,,62764,,US,f
+1566,626 Bay Plaza,,Harrisburg,PA,,17121,,US,f
+1567,838 Farwell Alley,,Detroit,MI,,48224,,US,f
+1568,87 Artisan Lane,,Phoenix,AZ,,85045,,US,f
+1569,07 Golf View Court,,Austin,TX,,78759,,US,f
+1570,4 Summerview Plaza,,Melbourne,FL,,32941,,US,f
+1571,2305 Evergreen Avenue,,Topeka,KS,,66699,,US,f
+1572,641 Delladonna Center,,Tampa,FL,,33686,,US,f
+1573,0 Sunfield Street,,Lexington,KY,,40515,,US,f
+1574,330 Vermont Alley,,Gainesville,FL,,32627,,US,f
+1575,1480 Manufacturers Court,,Dallas,TX,,75342,,US,f
+1576,7 Cascade Crossing,,San Francisco,CA,,94177,,US,f
+1577,7 Annamark Avenue,,Mobile,AL,,36689,,US,f
+1578,68439 Monument Avenue,,Saint Louis,MO,,63104,,US,f
+1579,12 Annamark Avenue,,Flint,MI,,48550,,US,f
+1580,5 Little Fleur Junction,,San Jose,CA,,95123,,US,f
+1581,8 Heath Junction,,New York City,NY,,10110,,US,f
+1583,20 Melody Terrace,,Harrisburg,PA,,17110,,US,f
+1584,022 Little Fleur Point,,Huntington,WV,,25705,,US,f
+1585,03 Ryan Parkway,,Kansas City,MO,,64142,,US,f
+1586,4 Hoepker Way,,Farmington,MI,,48335,,US,f
+1587,751 Summer Ridge Court,,Apache Junction,AZ,,85219,,US,f
+1588,4051 Banding Junction,,Cincinnati,OH,,45208,,US,f
+1589,320 Butterfield Street,,Dallas,TX,,75342,,US,f
+1590,68 Pepper Wood Road,,San Jose,CA,,95128,,US,f
+1592,39211 Bellgrove Circle,,Jacksonville,FL,,32225,,US,f
+1593,91 Clarendon Plaza,,Salt Lake City,UT,,84189,,US,f
+1594,29485 Namekagon Trail,,New Orleans,LA,,70142,,US,f
+1595,8 Manley Alley,,Jamaica,NY,,11447,,US,f
+1596,1 Esker Park,,Alexandria,VA,,22333,,US,f
+1597,9 Packers Park,,Des Moines,IA,,50305,,US,f
+1598,02132 Center Terrace,,Washington,DC,,20580,,US,f
+1599,81786 Meadow Vale Road,,Tampa,FL,,33633,,US,f
+1600,9832 Carberry Road,,Denver,CO,,80209,,US,f
+1601,4 Mitchell Point,,Jamaica,NY,,11499,,US,f
+1602,0864 Buhler Park,,Springfield,IL,,62718,,US,f
+1603,30617 Lakeland Parkway,,Portsmouth,VA,,23705,,US,f
+1604,14 Stuart Avenue,,Rochester,NY,,14646,,US,f
+1605,9769 Sage Trail,,Arlington,VA,,22205,,US,f
+1606,02 Granby Trail,,Newport News,VA,,23612,,US,f
+1607,3205 Clove Road,,North Port,FL,,34290,,US,f
+1608,04 Merrick Junction,,Las Vegas,NV,,89125,,US,f
+1609,165 Vera Alley,,Louisville,KY,,40225,,US,f
+1610,5571 Mendota Junction,,Cincinnati,OH,,45233,,US,f
+1611,77 David Plaza,,Los Angeles,CA,,90035,,US,f
+1612,611 Utah Plaza,,Tuscaloosa,AL,,35487,,US,f
+1613,372 Onsgard Terrace,,Chicago,IL,,60636,,US,f
+1614,4 Scott Hill,,Miami,FL,,33134,,US,f
+1615,45 Lotheville Alley,,Atlanta,GA,,31196,,US,f
+1616,733 Little Fleur Way,,Birmingham,AL,,35254,,US,f
+1617,02 Rigney Circle,,Aiken,SC,,29805,,US,f
+1623,1 Kensington Terrace,,Aurora,CO,,80044,,US,f
+1624,026 Brentwood Way,,Jacksonville,FL,,32220,,US,f
+1625,039 Nevada Street,,Fort Lauderdale,FL,,33325,,US,f
+1626,471 Fordem Crossing,,Knoxville,TN,,37919,,US,f
+1627,8 Old Shore Road,,New York City,NY,,10110,,US,f
+1628,45 Almo Court,,San Diego,CA,,92127,,US,f
+1629,4 Weeping Birch Circle,,Hialeah,FL,,33018,,US,f
+1630,60 Ohio Parkway,,Temple,TX,,76505,,US,f
+1631,58 Lindbergh Hill,,Winston Salem,NC,,27105,,US,f
+1632,58199 Haas Park,,Amarillo,TX,,79118,,US,f
+1633,62559 Amoth Road,,Memphis,TN,,38109,,US,f
+1634,66 Eastlawn Pass,,Los Angeles,CA,,90081,,US,f
+1635,2443 Lotheville Junction,,Topeka,KS,,66642,,US,f
+1636,78816 Farragut Plaza,,Brooklyn,NY,,11247,,US,f
+1637,7 Graceland Point,,Montgomery,AL,,36114,,US,f
+1638,18702 Farragut Terrace,,Bronx,NY,,10454,,US,f
+1639,2 Anniversary Circle,,Orlando,FL,,32891,,US,f
+1640,5 Sullivan Junction,,Dallas,TX,,75310,,US,f
+1641,2 Donald Road,,Kansas City,KS,,66112,,US,f
+1642,6351 Morningstar Place,,Los Angeles,CA,,90015,,US,f
+1643,27331 Harbort Alley,,Palo Alto,CA,,94302,,US,f
+1644,627 Hovde Court,,New York City,NY,,10110,,US,f
+1645,12890 Sachtjen Trail,,Simi Valley,CA,,93094,,US,f
+1646,33 Maryland Place,,Fort Lauderdale,FL,,33315,,US,f
+1647,29 Thierer Avenue,,Fort Worth,TX,,76147,,US,f
+1648,5 Oak Valley Pass,,Baltimore,MD,,21265,,US,f
+1649,4 Sherman Pass,,Philadelphia,PA,,19196,,US,f
+1650,8257 Erie Way,,Lakewood,WA,,98498,,US,f
+1653,0272 Oak Valley Hill,,Kalamazoo,MI,,49006,,US,f
+1654,6 Sherman Center,,Seattle,WA,,98175,,US,f
+1655,020 Knutson Parkway,,Virginia Beach,VA,,23454,,US,f
+1656,829 Portage Point,,Johnstown,PA,,15906,,US,f
+1657,180 Debra Center,,San Antonio,TX,,78210,,US,f
+1658,38885 Lerdahl Court,,Oklahoma City,OK,,73129,,US,f
+1659,80048 Division Point,,Texarkana,TX,,75507,,US,f
+1660,6 Kipling Plaza,,Sacramento,CA,,94245,,US,f
+1661,16876 Ridgeway Court,,New York City,NY,,10155,,US,f
+1662,559 Lindbergh Terrace,,Silver Spring,MD,,20910,,US,f
+1663,8359 Charing Cross Park,,Tampa,FL,,33633,,US,f
+1664,223 Prairieview Terrace,,Tulsa,OK,,74193,,US,f
+1665,094 Barnett Street,,Carol Stream,IL,,60351,,US,f
+1666,04208 Corry Terrace,,San Antonio,TX,,78245,,US,f
+1667,4 Moland Drive,,Louisville,KY,,40220,,US,f
+1668,4705 Gateway Park,,Fresno,CA,,93794,,US,f
+1669,592 Talmadge Court,,Houston,TX,,77288,,US,f
+1670,341 Debs Road,,Washington,DC,,20470,,US,f
+1671,752 Commercial Center,,Syracuse,NY,,13251,,US,f
+1672,25347 Mifflin Hill,,Columbus,MS,,39705,,US,f
+1674,659 Corben Parkway,,Shawnee Mission,KS,,66286,,US,f
+1675,44 Express Way,,Carol Stream,IL,,60351,,US,f
+1676,482 Darwin Junction,,Tucson,AZ,,85748,,US,f
+1677,262 Mallory Crossing,,Dallas,TX,,75367,,US,f
+1678,5 Maywood Drive,,Northridge,CA,,91328,,US,f
+1679,734 Anniversary Point,,Shreveport,LA,,71105,,US,f
+1680,7232 Caliangt Crossing,,Denver,CO,,80255,,US,f
+1681,1604 Barnett Trail,,Corpus Christi,TX,,78410,,US,f
+1682,94755 Eastlawn Point,,Houston,TX,,77080,,US,f
+1683,4790 Onsgard Court,,Atlanta,GA,,30356,,US,f
+1684,30 Pine View Place,,Springfield,IL,,62756,,US,f
+1685,79 Fieldstone Point,,Tucson,AZ,,85710,,US,f
+1686,8349 Cardinal Pass,,San Diego,CA,,92153,,US,f
+1687,13 Dapin Center,,Syracuse,NY,,13251,,US,f
+1688,6120 Vera Plaza,,Albuquerque,NM,,87105,,US,f
+1689,7394 Pawling Parkway,,Santa Ana,CA,,92725,,US,f
+1690,16546 Oxford Hill,,Virginia Beach,VA,,23464,,US,f
+1691,46 Oxford Court,,Charleston,WV,,25356,,US,f
+1692,0 Loomis Plaza,,Wichita,KS,,67230,,US,f
+1693,93527 Transport Place,,Greensboro,NC,,27455,,US,f
+1694,0268 School Hill,,Spring,TX,,77386,,US,f
+1620,17842 Rutledge Trail,,Boston,MA,,22080,,US,f
+1696,41 Mariners Cove Pass,,Chicago,IL,,60619,,US,f
+1697,255 Burning Wood Way,,Rochester,NY,,14652,,US,f
+1698,0447 Cardinal Plaza,,Denver,CO,,80223,,US,f
+1699,035 Orin Junction,,Charleston,SC,,29416,,US,f
+1700,79 Mesta Drive,,Washington,DC,,20425,,US,f
+1701,02061 Thompson Trail,,Lynchburg,VA,,24515,,US,f
+1702,56 Hoffman Road,,Farmington,MI,,48335,,US,f
+1703,44 5th Avenue,,Phoenix,AZ,,85053,,US,f
+1704,774 Algoma Junction,,Lehigh Acres,FL,,33972,,US,f
+1705,45 Washington Place,,Denton,TX,,76210,,US,f
+1706,16 Moulton Place,,Seattle,WA,,98166,,US,f
+1707,5877 High Crossing Terrace,,Honolulu,HI,,96840,,US,f
+1708,539 Waywood Park,,Youngstown,OH,,44555,,US,f
+1709,70 American Ash Terrace,,Mount Vernon,NY,,10557,,US,f
+1710,06 Blue Bill Park Pass,,Racine,WI,,53405,,US,f
+1711,7 7th Terrace,,Washington,DC,,20067,,US,f
+1712,5003 Main Way,,Austin,TX,,78749,,US,f
+1713,85025 Tomscot Terrace,,Everett,WA,,98206,,US,f
+1714,23129 John Wall Hill,,Washington,DC,,20073,,US,f
+1715,88 Bellgrove Road,,Fort Lauderdale,FL,,33336,,US,f
+1716,00193 Kropf Lane,,Denver,CO,,80249,,US,f
+1717,358 New Castle Street,,Charlotte,NC,,28278,,US,f
+1718,253 Village Pass,,Washington,DC,,20425,,US,f
+1719,99020 Lukken Avenue,,Brooklyn,NY,,11247,,US,f
+1720,14 Moulton Road,,Wichita,KS,,67220,,US,f
+1721,1 Spenser Alley,,Columbia,SC,,29240,,US,f
+1722,48 Graceland Avenue,,Santa Rosa,CA,,95405,,US,f
+1723,926 Bunting Place,,Fayetteville,NC,,28305,,US,f
+1724,791 Sage Center,,Inglewood,CA,,90310,,US,f
+1725,8 Miller Court,,Tucson,AZ,,85710,,US,f
+1726,49297 Anderson Drive,,Columbus,OH,,43240,,US,f
+1727,4596 Granby Lane,,Lawrenceville,GA,,30245,,US,f
+1728,7304 Tomscot Drive,,Sioux City,IA,,51110,,US,f
+1729,8 Harper Park,,Tampa,FL,,33615,,US,f
+1730,30 Summit Way,,Washington,DC,,20268,,US,f
+1731,17779 Swallow Junction,,Mount Vernon,NY,,10557,,US,f
+1732,64 Graedel Lane,,Sacramento,CA,,95833,,US,f
+1733,17 Becker Point,,Peoria,IL,,61605,,US,f
+1734,74 Hollow Ridge Parkway,,El Paso,TX,,88535,,US,f
+1735,0 Spenser Plaza,,Rockford,IL,,61105,,US,f
+1736,17 Jay Way,,Dayton,OH,,45419,,US,f
+1737,050 Brentwood Alley,,Bronx,NY,,10469,,US,f
+1738,83 Maple Wood Plaza,,Lexington,KY,,40505,,US,f
+1739,8 Forest Run Way,,Greensboro,NC,,27425,,US,f
+1740,63852 Badeau Way,,El Paso,TX,,88530,,US,f
+1741,6 Dennis Alley,,Jefferson City,MO,,65105,,US,f
+1742,413 Hallows Crossing,,New York City,NY,,10155,,US,f
+1743,3149 Milwaukee Avenue,,Albany,NY,,12262,,US,f
+1744,4 Scoville Place,,Indianapolis,IN,,46266,,US,f
+1745,09613 Mockingbird Terrace,,Orlando,FL,,32813,,US,f
+1746,43193 Messerschmidt Place,,Morgantown,WV,,26505,,US,f
+1748,26705 Merrick Point,,Brooklyn,NY,,11210,,US,f
+1749,0906 Eggendart Road,,Tampa,FL,,33647,,US,f
+1750,554 Donald Avenue,,Houston,TX,,77260,,US,f
+1444,1878 Arrowood Hill,,New Haven,CT,,65050,,US,t
+1445,54 Eastlawn Lane,,Newark,NJ,,71950,,US,t
+1457,166 Mallard Drive,,New Bedford,MA,,27450,,US,t
+1509,42 Saint Paul Point,,Boston,MA,,22080,,US,t
+1567,9256 Killdeer Center,,Providence,RI,,29050,,US,t
+1570,5 Welch Plaza,,Springfield,MA,,11290,,US,t
+1587,67660 Cody Place,,Springfield,MA,,11050,,US,t
+1592,1226 Hintze Parkway,,Springfield,MA,,11290,,US,t
+1640,2630 Marquette Circle,,Watertown,MA,,24720,,US,t
+1642,7903 Tennessee Circle,,Worcester,MA,,16540,,US,t
+1685,57 Fair Oaks Terrace,,Danbury,CT,,68160,,US,t
+1719,9 Dixon Place,,Boston,MA,,22080,,US,t
+1740,9995 Packers Road,,New Bedford,MA,,27450,,US,t
+1030,8704 Swallow Trail,,Springfield,MA,,11050,,US,f
+1031,8335 Nova Park,,Jersey City,NJ,,73100,,US,f
+1037,13086 Scoville Point,,Boston,MA,,22830,,US,f
+1065,7 Village Center,,Paterson,NJ,,75220,,US,f
+1076,91 Moland Place,,Boston,MA,,21630,,US,f
+1096,1371 Hudson Point,,Trenton,NJ,,86190,,US,f
+1152,334 Atwood Alley,,Newark,NJ,,71880,,US,f
+1167,6 Haas Place,,Boston,MA,,22980,,US,f
+1182,98 Scofield Pass,,Boston,MA,,22980,,US,f
+1190,476 East Lane,,Boston,MA,,22160,,US,f
+1197,6494 Veith Point,,Trenton,NJ,,86950,,US,f
+1207,640 Sutteridge Street,,Waterbury,CT,,67050,,US,f
+1303,767 Schiller Plaza,,Trenton,NJ,,86380,,US,f
+1332,08358 Nova Alley,,West Hartford,CT,,61270,,US,f
+1368,010 Dryden Lane,,Springfield,MA,,11520,,US,f
+1369,7467 New Castle Avenue,,Boston,MA,,21630,,US,f
+1420,90 Dunning Place,,Fairfield,CT,,68250,,US,f
+1436,1556 Fairview Trail,,Waterbury,CT,,67050,,US,f
+1438,698 Muir Road,,Boston,MA,,21190,,US,f
+1490,801 Arapahoe Junction,,Worcester,MA,,16540,,US,f
+1506,8 Hermina Pass,,Elizabeth,NJ,,72080,,US,f
+1513,3 Elka Point,,Manchester,NH,,31050,,US,f
+1517,153 American Plaza,,Hartford,CT,,61400,,US,f
+1544,56508 Blaine Lane,,Providence,RI,,29050,,US,f
+1561,146 Pepper Wood Trail,,Boston,MA,,21090,,US,f
+1582,37 Hoffman Parkway,,Boston,MA,,22030,,US,f
+1591,1 Twin Pines Lane,,Watertown,MA,,24720,,US,f
+1651,97280 Morrow Street,,Waltham,MA,,24530,,US,f
+1652,8 Morningstar Center,,Waterbury,CT,,67210,,US,f
+1673,4 Utah Terrace,,Newark,NJ,,71040,,US,f
+1747,7 Alpine Center,,Jersey City,NJ,,73050,,US,f
+1520,7 Jana Park,,Boston,MA,,21190,,US,f
+1002,637 Weeping Birch Court,,Melbourne,FL,,32941,,US,t
+1003,9498 Ilene Court,,Stockton,CA,,95219,,US,t
+1004,5985 4th Trail,,Winter Haven,FL,,33884,,US,t
+1005,57951 Melody Drive,,Palo Alto,CA,,94302,,US,t
+1006,052 Maple Crossing,,Virginia Beach,VA,,23454,,US,t
+1007,52 Stone Corner Pass,,San Jose,CA,,95160,,US,t
+1008,0296 Cherokee Avenue,,Saint Louis,MO,,63126,,US,t
+1010,5 Lakewood Avenue,,New York City,NY,,10260,,US,t
+1012,441 Brentwood Park,,Las Vegas,NV,,89135,,US,t
+1013,16675 Anthes Parkway,,Dallas,TX,,75216,,US,t
+1014,81086 Sullivan Plaza,,Shawnee Mission,KS,,66276,,US,t
+1015,0915 Harbort Alley,,Roanoke,VA,,24040,,US,t
+1016,13 Crowley Crossing,,Kansas City,MO,,64153,,US,t
+1017,97 Debra Hill,,San Diego,CA,,92160,,US,t
+1018,6793 Amoth Circle,,Portland,OR,,97286,,US,t
+1019,8461 Buena Vista Lane,,Long Beach,CA,,90840,,US,t
+1020,14895 Drewry Avenue,,Oklahoma City,OK,,73147,,US,t
+1021,705 Eastwood Center,,Washington,DC,,20238,,US,t
+1022,45 Pond Road,,Charlotte,NC,,28230,,US,t
+1023,5 Mayer Hill,,Colorado Springs,CO,,80920,,US,t
+1024,03 Shopko Pass,,Omaha,NE,,68164,,US,t
+1025,7939 Columbus Way,,Flint,MI,,48555,,US,t
+1026,84 Mallory Road,,San Antonio,TX,,78230,,US,t
+1027,4 Oakridge Place,,Pittsburgh,PA,,15261,,US,t
+1028,326 David Park,,College Station,TX,,77844,,US,t
+1029,0 Di Loreto Pass,,Orlando,FL,,32825,,US,t
+1030,4 Sundown Trail,,Buffalo,NY,,14210,,US,t
+1031,645 Hallows Circle,,Nashville,TN,,37205,,US,t
+1032,5 Crest Line Parkway,,San Antonio,TX,,78255,,US,t
+1033,1 Mallard Place,,Round Rock,TX,,78682,,US,t
+1034,6 Heath Trail,,Houston,TX,,77223,,US,t
+1035,8 Buhler Crossing,,Philadelphia,PA,,19136,,US,t
+1036,5 Mitchell Lane,,Huntington,WV,,25711,,US,t
+1037,7387 Pine View Way,,Yonkers,NY,,10705,,US,t
+1038,398 Sheridan Way,,Washington,DC,,20067,,US,t
+1039,2775 Welch Street,,Anchorage,AK,,99522,,US,t
+1001,578 Texas Court,,Boston,MA,,21190,,US,t
+1011,20 Bultman Street,,Norwalk,CT,,68590,,US,t
+1040,504 Hoffman Drive,,Des Moines,IA,,50393,,US,t
+1041,715 Corry Way,,Oceanside,CA,,92056,,US,t
+1118,9 Scoville Drive,,Jackson,MS,,39210,,US,t
+1119,31735 Menomonie Street,,Richmond,VA,,23289,,US,t
+1120,437 New Castle Circle,,Los Angeles,CA,,90005,,US,t
+1121,8126 Ruskin Junction,,San Mateo,CA,,94405,,US,t
+1196,44 Pepper Wood Alley,,Wichita,KS,,67215,,US,t
+1197,9 Melody Trail,,Las Vegas,NV,,89155,,US,t
+1198,1 Washington Road,,Cleveland,OH,,44197,,US,t
+1199,6 Lakewood Gardens Park,,Atlanta,GA,,30380,,US,t
+1274,76 Declaration Street,,Green Bay,WI,,54305,,US,t
+1352,89 Onsgard Road,,Des Moines,IA,,50393,,US,t
+1353,101 Hintze Court,,El Paso,TX,,88541,,US,t
+1354,58 Summer Ridge Hill,,Peoria,IL,,61656,,US,t
+1355,12949 Jay Center,,Alhambra,CA,,91841,,US,t
+1356,581 Express Alley,,Englewood,CO,,80150,,US,t
+1430,8 Hoard Way,,Pensacola,FL,,32520,,US,t
+1431,0 Hermina Place,,Mesquite,TX,,75185,,US,t
+1432,86 Kensington Alley,,Hialeah,FL,,33013,,US,t
+1433,258 Vermont Way,,Los Angeles,CA,,90005,,US,t
+1434,4429 Blaine Trail,,South Bend,IN,,46620,,US,t
+1435,1 Heath Trail,,Fresno,CA,,93715,,US,t
+1508,460 Arapahoe Hill,,Spartanburg,SC,,29305,,US,t
+1510,7 Hoard Drive,,Independence,MO,,64054,,US,t
+1511,02 Doe Crossing Way,,Utica,NY,,13505,,US,t
+1588,644 Moland Place,,Oklahoma City,OK,,73135,,US,t
+1589,5821 Declaration Alley,,Lafayette,LA,,70593,,US,t
+1590,3838 Valley Edge Hill,,Shawnee Mission,KS,,66210,,US,t
+1591,570 Mariners Cove Terrace,,Jeffersonville,IN,,47134,,US,t
+1664,0 Ilene Alley,,Anchorage,AK,,99522,,US,t
+1665,987 Toban Hill,,Savannah,GA,,31416,,US,t
+1666,546 Beilfuss Center,,Eugene,OR,,97405,,US,t
+1667,4237 Rowland Drive,,Tucson,AZ,,85743,,US,t
+1742,69 Kipling Place,,Sioux Falls,SD,,57110,,US,t
+1743,589 Barby Park,,Tacoma,WA,,98417,,US,t
+1744,98 Brentwood Lane,,Tucson,AZ,,85743,,US,t
+1745,727 Gerald Hill,,Huntington,WV,,25705,,US,t
+1071,74 Lukken Junction,,Tyler,TX,,75710,,US,f
+1072,95378 Gale Circle,,Knoxville,TN,,37995,,US,f
+1149,27552 Gerald Avenue,,Omaha,NE,,68117,,US,f
+1150,0 Barby Street,,Baltimore,MD,,21211,,US,f
+1151,01646 Rigney Circle,,Delray Beach,FL,,33448,,US,f
+1153,337 Schurz Junction,,New York City,NY,,10099,,US,f
+1154,0883 Dakota Lane,,Denver,CO,,80291,,US,f
+1155,991 Warrior Pass,,Sunnyvale,CA,,94089,,US,f
+1156,3106 Forster Crossing,,Phoenix,AZ,,85062,,US,f
+1227,6 Steensland Hill,,Fort Lauderdale,FL,,33310,,US,f
+1306,90 Gale Circle,,Philadelphia,PA,,19196,,US,f
+1307,335 Lighthouse Bay Plaza,,Fresno,CA,,93778,,US,f
+1308,44612 Burrows Road,,Little Rock,AR,,72209,,US,f
+1309,4437 Harper Junction,,Louisville,KY,,40220,,US,f
+1384,8736 Mccormick Parkway,,Sarasota,FL,,34233,,US,f
+1385,6 Northridge Junction,,Anaheim,CA,,92805,,US,f
+1386,977 Northport Road,,Minneapolis,MN,,55417,,US,f
+1387,9 Dovetail Lane,,Austin,TX,,78732,,US,f
+1461,91920 Hoffman Parkway,,Kent,WA,,98042,,US,f
+1462,3 East Pass,,Raleigh,NC,,27626,,US,f
+1463,975 Lighthouse Bay Hill,,Charlottesville,VA,,22908,,US,f
+1464,90 7th Hill,,El Paso,TX,,88514,,US,f
+1465,37 Evergreen Road,,Detroit,MI,,48217,,US,f
+1540,84 Rieder Hill,,Dallas,TX,,75265,,US,f
+1541,6592 Melvin Parkway,,Columbus,GA,,31914,,US,f
+1542,150 Corscot Park,,Scranton,PA,,18505,,US,f
+1543,4 Corscot Street,,Richmond,VA,,23213,,US,f
+1545,8 Canary Circle,,Jackson,MS,,39204,,US,f
+1618,73027 Lotheville Place,,San Francisco,CA,,94105,,US,f
+1619,0727 Cody Junction,,Portland,OR,,97271,,US,f
+1621,82133 Bashford Circle,,Houston,TX,,77070,,US,f
+1622,12780 Pepper Wood Terrace,,Springfield,IL,,62756,,US,f
+1763,57066 Dunning Circle,Piso2 Dto.4,Capital Federal,,,,C1070AAM,AR,t
+1773,28 Clemons Alley,,Sao Paulo,,SP,,01310-000,BR,t
+1769,0440 Thackeray Junction,,Montreal,,QC,,H3Z 2Y7,CA,t
+1772,394 Armistice Court,,Toronto,,ON,,M4C 1T2,CA,t
+1756,061 Rutledge Park,,London,,ON,,N5V 1S6,CA,t
+1764,Schulstrasse 4,,Bad Oyenhausen,,,,32547,GE,t
+1761,05335 Sauthoff Terrace,,Zagreb,,,,HR-1000,HR,t
+1766,30 Jalan Banda,,Bandung,,,,40115,ID,t
+1774,52 RUE DES FLEURS,,Libourne,,,,33500,FR,t
+1752,"C/ Santa Maria 45, 3º, 2ª",,Madrid,,,,28012,ES,t
+1758,Via Garibaldi 127,,Galluccio,,(CE),,81049,IT,t
+1757,Svingen 122,,Bekkehaug,,,,9230,NO,t
+1771,Schanzenstrasse 17,,Berne,,,,3030,CH,t
+1767,127 Rue Yafo,,Jerusalem,,,,91999,IL,t
+1751,504 Kasumigaseki 1,,Tokyo,,Chiyoda-ku,,100,JP,t
+1754,"100 Sejongno, Jongno-gu",,Seoul,,,,110-050,KR,t
+1762,64 Waterloo Quay,,Wellington,,,,1,NZ,t
+1770,ul Cicha 5,,Kalisz,,,,62-806,PL,t
+1753,264 High Street,,Allambie,,NSW,,2100,AU,t
+1768,Oulitsa Gagagin 17,,Moscow,,,,103375,RU,t
+1765,532 Chai Chee Road,,Singapore,,,,1646,SG,t
+1755,Iskele Caddesi 35,,Ankara,,,,06101,TR,t
+1760,13/54-26 Chaeng Waltana Road,Bang Kehn,Bangkok,,,,10002,TH,t
+1695,7921 Maywood Crossing,,Charlotte,NC,,28242,,US,f
+1759,Prospect F Skaryna,,Kiev,,,,252001,UA,t
+1777,29897 Erie Hill,Del Parque,Metepec,,Estado de Mexico,,50000,MX,t
+1776,49 Featherstone Street,,London,,,,EC1Y 8SY,GB,t
+1775,Dimo Hadjikimov 6,,Sofia,,,,1606,BG,t
+1106,2987 Hintze Trail,,Jersey City,NJ,,73050,,US,t
+1117,2136 Clove Place,,Waterbury,CT,,67210,,US,t
+1133,0099 Westport Junction,,Danbury,CT,,68160,,US,t
+1173,34365 Quincy Road,,Brockton,MA,,23050,,US,t
+1180,40583 Ilene Way,,Boston,MA,,22160,,US,t
+1193,9 Cordelia Court,,Newton,MA,,21620,,US,t
+1227,67 Cardinal Center,,Norwalk,CT,,68540,,US,t
+1242,20633 Schiller Alley,,Newark,NJ,,71040,,US,t
+1248,121 Leroy Way,,Boston,MA,,22030,,US,t
+1270,7123 Arapahoe Avenue,,Portland,ME,,41090,,US,t
+1348,6348 Hermina Park,,Woburn,MA,,18130,,US,t
+1380,4 Dottie Parkway,,New Haven,CT,,65100,,US,t
+1389,72105 Derek Hill,,Boston,MA,,21190,,US,t
+1416,69 Morningstar Park,,New Haven,CT,,65100,,US,t
+1426,489 Huxley Road,,Bridgeport,CT,,66060,,US,t
+1436,34834 Waywood Pass,,Stamford,CT,,69220,,US,t
+1442,9808 Del Mar Pass,,Boston,MA,,22160,,US,t
+1778,Carrer de la Solana  45,,Pas de la Casa,,,,AD200,AD,f
+1778,Ctra. de Fontaneda  24,,Sant Julià de Lòria,,,,AD600,AD,t
+1779,93 49e St,,Dubai,,,,,AE,f
+1779,193 50W St,,Abu Dhabi,,,,,AE,t
+1780,Chaparhar Rd,,,,Jalalabad,,2601,AF,f
+1780,Sevom Aqrab Rd,,,,Kabul,,1001,AF,t
+1781,PO Box 47,,Codrington,,,,,AG,f
+1781,P.O Box 12,,Bendals Main Road,,,,,AG,t
+1782,,,Welches Hill Welches,,,,2640,AI,f
+1782,,,George Hill,,,,2640,AI,t
+1783,Rruga Telo Ndini 6,,Tirana,,,,1001,AL,f
+1783,Rruga Telegrafi,,Berat,,,,5001,AL,t
+1784,Street 10 Tretyi Tuppik 1,,Byurakan,,,,201,AM,f
+1784,18 Kor St,,Yerevan,,,,0070 ,AM,t
+1785,Kaya Cocorobi Rd,,Rincón,,,,,AN,f
+1785,60 Kaya Korona,,Kralendijk,,,,,AN,t
+1786,R. Rev. Agostinho Pedro Neto 31-33,,Luanda,,,,,AO,f
+1786,Kilamba Quarteirão P19,,Kilamba,,,,,AO,t
+1787,Antártida Argentina 1170,,Llavallol,,Buenos Aires Province,,B1836,AR,f
+1787,José A. Cortejarena 4121,Piso2,Córdoba,,Córdoba,,x5002,AR,t
+1788,Puapua,,Leone,,,,14726,AS,f
+1788,Tafuna,,Western District,,,,96799,AS,t
+1789,Oberdorf 208,,Wenns,,,,6473,AT,f
+1789,Kapellenweg 29,,Gemeinde Imst,,,,6460,AT,t
+1790,23 Crest St,,Mount Gravatt East,,QLD,,4122,AU,f
+1790,55A Iolanthe St,,Bassendean,,WA ,,6054,AU,t
+1791,Bernard van de Veen Zeppenfeldstraat 312,,San Nicolas,,,,,AW,f
+1791,Weststraat,,Oranjestad,,,,,AW,t
+1792,10 Flygfältsvägen,,Mariehamn ,,,,22111,AX,f
+1792,420 Sundsvägen,,Godby,,,,22410,AX,t
+1793,Konstantin Ushinski,,Ganja,,,,2001,AZ,f
+1793,74 Uzeyir Hajibeyov,,Baku,,,,1005,AZ,t
+1794,Bana Milosavljevića 8,,Banja Luka,,,,78000,BA,f
+1794,Abdića,,Sarajevo ,,,,71000,BA,t
+1795,1 Belair Pines,,Belair,,,,21014,BB,f
+1795,Tweedside Rd,,Bridgetown,,,,45211,BB,t
+1796,9 Zakir Hossain Road,,Dhaka,,,,1207,BD,f
+1796,67 Gulshan Ave,,Dhaka,,,,1212,BD,t
+1797,Koningstraat 1,,Antwerpen,,,,2000,BE,f
+1797,Avenue Albertyn 22,,Woluwe-Saint-Lambert,,,,1200,BE,t
+1798,Rte de Ouagadougou,,Koudougou,,,,2,BF,f
+1798,Ouaga 2000,,Ouagadougou,,,,1,BF,t
+1799,ul. Hadzhi Dimitar 47,,Varna,,,,9000,BG,f
+1799,ul. Lev Tolstoy 9,,Kamenitsa 2,,,,4017,BG,t
+1800,Rd No1225,,Manama,,,,5831,BH,f
+1800,Rd No 2143,,Saar,,,,517,BH,t
+1801,R.N.3 Rumonge,,Colline Busaga,,,,,BI,f
+1801,9ème Ave,,Bujumbura,,,,,BI,t
+1802,05 BP 203,,Akpakpa,,,,,BJ,f
+1802,03 BP 101,,Jericho,,,,,BJ,t
+1803,78 Ord Rd,,Warwick,,,,WK 10,BM,f
+1803,9 Dundonald St,,Hamilton,,,,HM 12,BM,t
+1804,Lot 1240,No.22 Jln Lubok,Kuala Belait,,,,KA3131,BN,f
+1804,Simpang 69  Jalan E-Kerajaan  Gadong,,Bandar Seri Begawan,,,,BE1110,BN,t
+1805,Calle Francisco Carvajal,,La Paz,,,,,BO,f
+1805,Calle 16 de Julio 565,,Cochabamba,,,,,BO,t
+1806,Rua Estudante Jucá,746 - Itaperi,Fortaleza,,CE,,60714-340,BR,f
+1806,R. São Mateus,64 - Campos Elíseos,Duque de Caxias,,RJ,,25215-405,BR,t
+1807,Balfour Ave,,Nassau,,,,,BS,f
+1807,Burnside Road,,Nicholls Town,,,,,BS,t
+1808,Samdrupjongkhar-Trashigang Hwy,,Trashigang,,,,,BT,f
+1808,Genyen Lam,,Thimphu,,,,,BT,t
+1809,Sebega Street,,Francistown,,,,,BW,f
+1809,Extension 12,,Gaborone,,,,,BW,t
+1810,Chkalova 42,,Gomel,,,,246003,BY,f
+1810,3-Y Pereulok Mozhayskogo 16,,Minsk,,,,220000,BY,t
+1811,6772 Mahogany St,,Belize City,,,,,BZ,f
+1811,2 Macaw Avenue,,Belmopan,,,,,BZ,t
+1812,7172 206 St,,Langley City,,BC,,V2Y 1T1,CA,f
+1812,299 Billings Ave,,Ottawa,,ON ,,K1H 5L2,CA,t
+1813,11 Jln Pantai,Home Island 6799,,,,,,CC,f
+1813,West Island 6799,,,,,,,CC,t
+1814,Ave Lomami,,Lubumbashi,,,,,CD,f
+1814,Ave Du 17 Mai,,Kinshasa,,,,,CD,t
+1815,RN 2,BP 253,Bangassou,,,,,CF,f
+1815,Avenue de I'Independance,,Bangui,,,,,CF,t
+1816,Avenue Emeraude,,Pointe-Noire,,,,,CG,f
+1816,1131 Rue Vinsa,,Brazzaville,,,,,CG,t
+1817,Nägelistrasse 5,,Zurich,,,,8044,CH,f
+1817,Elisabethenstrasse 24A,,Bern,,,,3014,CH,t
+1818,C 34,,Abidjan,,,,,CI,f
+1818,Rte De Mamie Adjoua,,Yamoussoukro,,,,,CI,t
+1819,Itiakaraua Rd,,Ngatangiia District,,,,,CK,f
+1819,Ara Metua,,Avarua District,,,,,CK,t
+1820,Huérfanos 1834,,Concepción,,Bío Bío,,4030000,CL,f
+1820,Eibar 1571,,Conchalí,,Región Metropolitana de Santiago,,8540000,CL,t
+1821,Rue Martin tabi Essomba,,Yaounde,,,,,CM,f
+1821,8938 Boulevard Des Nations Unies,,Douala,,,,,CM,t
+1822,Jinguang St,,Bejing,,Hebei,,102600,CN,f
+1822,250 Huilong Ave,,Chengdu,,Sichuan,,610093,CN,t
+1823,Cra. 45 #30-53,,Medellín,,Antioquia,,50020,CO,f
+1823,Diagonal 25 #17A-35,,Cali,,Valle del Cauca,,760012,CO,t
+1824,Av 15,,Liberia,,Guanacaste Province,,50101,CR,f
+1824,Calle 16A,,San José,,San José Province,,10101,CR,t
+1825,Capitán San Luis,,Pinar del Río,,,,20103,CU,f
+1825,Calzada de Managua,,La Habana,,,,10900,CU,t
+1826,fazenda avenida cheguevara,,Praia,,,,7610,CV,f
+1826,Ave Fernando Ferreira Fortes 27,,Mindelo,,,,2110,CV,t
+1874,Qouds St,,Baghdad,,,,10011,IQ,t
+1827,1 Golf Course Casino Rd,,Christmas Island,,,,6798,CX,f
+1827,Perak street,,Christmas Island,,,,6798,CX,t
+1828,Axiou 27,,Limassol,,,,3011,CY,f
+1828,Κυρηνείας 134Η,,Aglantzia,,,,2113,CY,t
+1829,Tomanova 361/15,,Brno,,,,613 00,CZ,f
+1829,Na Větrově 1004,,Prague,,,,142 00,CZ,t
+1830,Kochstraße 31,,Hürth,,North Rhine-Westphalia,,50354,DE,f
+1830,60323 Frankfurt am Main,,Frankfurt,,Hesse,,60323,DE,t
+1831,BP 32,,,,,,,DJ,f
+1831,1621 Rue de Londres,,,,,,,DJ,t
+1832,Hunderupvej 178,,Odense M,,Region Syddanmark,,5230 ,DK,f
+1832,Clematisvej 3,,København,,Region Hovedstaden,,2300,DK,t
+1833,Ross Blvd,,Portsmouth,,,,00109-8000,DM,f
+1833,40 Princess Ln,,Roseau,,,,00109-8000,DM,t
+1940,10 Woodget Close,,Karachi,,,,74600,PK,t
+1834,Calle 17,,Santiago De Los Caballeros,,,,51000,DO,f
+1834,Calle 4ta,#6 ensanche Lanha,Santo Domingo,,,,10103,DO,t
+1835,Rue Fellah Habib,,Mascara,,,,29000,DZ,f
+1835,44 Chemin Benhabiles Ali,,Algiers,,,,16019,DZ,t
+1836,Arquitecto Guillermo Cubillo Renella 1171,,Guayaquil,,,,90602,EC,f
+1836,Hernandez de Giron esquina,,Quito,,,,170102,EC,t
+1837,Kalevi 110,,Tartu,,Tartu,,50107,EE,f
+1837,Uus-Tatari 4,,Tallinn,,Harju County,,10134 ,EE,t
+1838,el-f  El-Mosheer Ismail Ali,,Port Fouad City,,Port Said Governorate,,42511,EG,f
+1838,Abd El-Malek Ibn Zeyad,,Cairo,,Cairo,,11865,EG,t
+1839,Boulevard Ahmed Ben Chekroun,,Dakhla,,DescriptionDakhla-Oued Ed-Dahab,,73000,EH,f
+1839,N°86 bd Boukrâa en face de la mosquée,,Laayoune,,Laayoune,,70000,EH,t
+1840,P-6 Road,,Massawa,,,,,ER,f
+1840,Aredayb St,,Asmara,,,,,ER,t
+1841,Luna  10 - 30,,ARANJUEZ,,MADRID,,28300,ES,f
+1841,Calle Aduana  29,,MADRID,,MADRID,,28070,ES,t
+1842,Hawassa,,Awassa,,Southern Nations,,1000,ET,f
+1842,Mariam Road,,Addis Ababa,,Shewa,,1000,ET,t
+1843,Voimakatu 16,,Turku,,Western Finland,,20520,FI,f
+1843,Lepolantie 16,,Helsinki,,Nyland and Tavastehus,,00660 ,FI,t
+1844,10 flamboyant street,,Lautoka,,,,,FJ,f
+1844,29 Yarawa Rd,,Suva,,,,,FJ,t
+1845,Brisbane Rd,,Stanley,,,,FIQQ 1ZZ,FK,f
+1845,John St,,Stanley,,,,FIQQ 1ZZ,FK,t
+1846,Pilyuul,,Malem,,Kosrae,,96944,FM,f
+1846,Madolenihmw Cir Island Rd,,Alohkapw,,Pohnpei,,96941,FM,t
+1847,18 Á Eystaru Hellu,,Stykki,,,,340,FO,f
+1847,2 Heykavegur,,Tórshavn,,,,100,FO,t
+1848,16 Rue Christian Bové,,Brétigny-sur-Orge,,Île-de-France,,91220,FR,f
+1848,56 RUE EMILE ZOLA,BP 90432 MONTFERRIER SUR LEZ,MONTPELLIER,,Occitanie,,34092,FR,t
+1849,Avenue de la Balise,,Port-Gentil,,,,,GA,f
+1849,Carrefour des jeunes,,Libreville,,,,,GA,t
+1850,31 Niddrie House Park,,Edinburgh,,City of Edinburgh,,EH16 4EP,GB,f
+1850,3 High Street,Hedle end,SOUTHAMPTON,,Hampshire,,SO32 4NG,GB,t
+1851,Chantimelle,,Union,,,,38902,GD,f
+1851,Grand Anse,,St George's,,,,38902,GD,t
+1852,7 Sulkhan-Saba Orbeliani St,,Batumi,,,,6007,GE,f
+1852,20 Didi Jikhaishi St,,T'bilisi,,,,105,GE,t
+1853,Chemin des Vampires BP 158,,Maroni,,,,97320,GF,f
+1853,89 Avenue du Général de Gaulle,,Cayenne,,,,97300,GF,t
+1854,Saints Bay Rd,,La Fosse,,,,GY4 6ES,GG,f
+1854,15 The Grange,,Candie Gardens,,,,GY1 4LA,GG,t
+1855,9 S Ridge Rd,,Accra,,,,,GH,f
+1855,27 Arcbishop Sarpong Road,,Kumasi,,,,,GH,t
+1856,25 Halifax Rd,,Gibraltar,,,,GX11 1AA,GI,f
+1856,6A Flat Bastion Rd,,Gibraltar,,,,GX11 1AA,GI,t
+1857,3rd Off Kairaba Ave,,Serrekunda,,,,,GM,f
+1857,Coastal Rd,,Brufut,,,,,GM,t
+1858,2d Blvd. and 9th Ave  B.P. 633,,Conakry,,,,1,GN,f
+1858,Ave de la REPUBLIQUE  BP 5687,,Conakry,,,,1,GN,t
+1859,28  Quai Perrinon,,Basse Terre,,,,97100,GP,f
+1859,Boulevard Charles Edwige,,Port-Louis,,,,97122,GP,t
+1860,Av de la Paz,,EQUATORIAL GUINEA,,,,,GQ,f
+1860,Paseo Marítimo de Bata,,Bata,,,,,GQ,t
+1861,27 Avenida 28,,Quetzaltenango,,,,9001,GT,f
+1861,16 Avenida A,,Guatemala City,,,,1004,GT,t
+1862,127 West San Antonio Avenue,,Dededo,,,,96913,GU,f
+1862,356 Avenida Herman DeLeon St.,,Sinajana,,,,96910,GU,t
+1863,Avenida dos Combatentes da Liberdade da Pátria,,Bissau,,,,,GW,f
+1863,Avenida Pansau Na Isna,,Bissau,,,,,GW,t
+1864,127 Republic Road,,New Amsterdam,,,,,GY,f
+1864,588 Section C,,Georgetown,,,,,GY,t
+1865,10 10 Calle SE,,San Pedro Sula,,,,21103,HN,f
+1865,CA 6,,Tegucigalpa,,,,34101,HN,t
+1866,Ul. kralja Tomislava 57,,Đakovo,,,,31400,HR,f
+1866,Gacka 16,,Zagreb,,,,10000,HR,t
+1867,323 Rue Dumarsais estimé,,Port-de-Paix,,,,HT 3110,HT,f
+1867,Rue Truitier,,Port-au-Prince,,,,HT 6110,HT,t
+1868,Keresztesi u. 57,,Debrecen,,,,4034,HU,f
+1868,Kaffka Margit u. 30,,Budapest,,,,1148,HU,t
+1869,4 Clanmorris Ave,,Bangor,,,,BT20,IE,f
+1869,7 Ardee Rd,,Rathmines,,Dublin,,RX85,IE,t
+1870,Tchernikhovski St 13,,Beersheba,,,,8400711,IL,f
+1870,Yitshak St 5,,Giv'atayim,,,,5310001,IL,t
+1871,7 Tynwald Rd,,Peel,,,,IM5 1JZ,IM,f
+1871,15 Selborne Dr,,Douglas,,,,IM2 2LU,IM,t
+1872,Sannidhi Bldg  401  12th Rd,Khar West,Mumbai,,Maharashtra,,400052,IN,f
+1872,4727  Gali Number 47,Block 3H  Krishna Nagar  Karol Bagh,New Delhi,,Delhi,,110005,IN,t
+1873,National Hwy,,Point Marianne,,,,96595,IO,f
+1873,National Hwy,,Point Marianne,,,,96595,IO,t
+1874,12 Mala Afandi,,Erbil,,,,44001,IQ,f
+1875,Iravani,,Mashhad,,,,,IR,f
+1875,6th Street no 45,,Tehran,,Tehran,,,IR,t
+1876,Álftamýri,,Reykjaví,,,,26,IS,f
+1876,Bergstaðastræti,46,Reykjavík,,,,101,IS,t
+1877,Viale di Villa Grazioli,7,Roma,,,,198,IT,f
+1877,Viale Lazio,19,Milano,,,,2013,IT,t
+1878,9 Chevalier Rd,,St Helier,,,,JE2,JE,f
+1878,14 Halkett St,,,,St. Helier,,JE2,JE,t
+1879,Abi Jandal St.,,Irbid,,,,21110,JO,f
+1879,Pr. Talal St.,,Amman,,,,11118,JO,t
+1880,1569-119 Hirai,Nishitama District ,Hinode,,Tokyo,,190-0182,JP,f
+1880,2-chōme-18-6 Higashitsukiguma,,Hakata-ku,,Fukuoka,,812-0854,JP,t
+1881,Kenyatta St,,Eldoret,,,,30100,KE,f
+1881,Watersys Arcade Plaza  Keekorok Rd,,Nairobi,,,,100,KE,t
+1882,Manas Ave,,Jalal-Abad,,,,720900,KG,f
+1882,81 T. Umetaliev St,,Bishkek,,,,720080,KG,t
+1883,P.O.Box 120,,Bairiki,,,,,KI,f
+1883,P.O.Box 84,,Bairiki,,,,,KI,t
+1884,RN 3,,Gnadombéni,,,,,KM,f
+1884,Rue Peace Corps,,Moroni,,,,,KM,t
+1885,Government Road,,Charlestown,,,,KN0802,KN,f
+1885,Wigley Ave,,Brumaire,,,,KN0101,KN,t
+1886,AH 6,,Sangwon,,,,822,KP,f
+1886,Saelsalim St,,1001,,,,,KP,t
+1887,50-12 Jangchung-dong,,Jung-gu,,Seoul,,4606,KR,f
+1941,16 Frog Gate,,Warsaw,,,,00-020,PL,f
+1887,23 Ssangjeong,2-gil,Jindo-eup,,Jeollanam-do,,58923,KR,t
+1888,33 34 St,,Mangaf,,,,53700,KW,f
+1888,2 Tunisia St,,Hawally,,,,30006,KW,t
+1889,1428 W Bay Rd,,Cypress Pointe,,,,KY1-1007,KY,f
+1889,Our Haven Way Grand Cayman KY1,,George Town,,,,KY1-1008,KY,t
+1890,Zhangeldin St 109а,,Almaty,,,,50044,KZ,f
+1890,Qabanbay Batyr Ave 22,,Nur-Sultan,,,,20000,KZ,t
+1891,10 Makhaveha,,Savannakhet,,,,1300,LA,f
+1891,No.42 Rd,,Pakse,,,,1600,LA,t
+1892,Camil Chamoun,,Jdeidet Matn,,,,1202,LB,f
+1892,Arab University Street  Sadek bldg 3,,Beirut,,,,2038 3054,LB,t
+1893,St. Martins-Ring 3,,Eschen,,Liechtenstein,,9492,LI,f
+1893,Heitastrasse 4,,Triesenberg,,Liechtenstein,,9497,LI,t
+1894,Foster 33,,Colombo,,Western Province,,10350,LK,f
+1894,20 Crown Loan,,Maskeliya,,Central Province,,22070,LK,t
+1895,BP 56 Chidley Cross Road,CERNE HSE CHAUSSEE,Upper Buchanan,,Buchanan District,,1000,LR,f
+1895,Prospect F Skaryna,,Monrovia,,Greater Monrovia,,1000,LR,t
+1896,Larkspur Cloisters No 57,appt. 2,Mafeteng,,,,900,LS,f
+1896,64 Quay,,Maseru,,,,100,LS,t
+1897,12 Weaver Highway,,Kaunas,,,,44131,LT,f
+1897,27 Merecroft Avenue,,Vilnius,,,,1100,LT,t
+1898,Stray Park,,Diekirch,,Diekirch,,9099,LU,f
+1898,29897 Erie Hill,,Luxembourg,,Wallonia,,1115,LU,t
+1899,Shawcroft View BP-20,,Daugavpils,,,,5410,LV,f
+1899,No. 6 Glendale,,Riga,,,,1004,LV,t
+1900,Unit 5 Parishes Mead,,Benghazi,,,,16063,LY,f
+1900,St Paul's Garth PO Box 5,,Tripoli,,,,22100,LY,t
+1901,Crisswell Crescent BP-16,,Rabat,,,,10170,MA,f
+1901,Bracken Path,,Casablanca,,,,20240,MA,t
+1902,Lot 65,,Monaco,,,,98000,MC,f
+1902,No 22 Hambleton Oaks,,Monaco,,,,98000,MC,t
+1903,BP-18 Hadrian Pastures,,Tiraspol,,,,MD-3300,MD,f
+1903,First Street BP 65,,Chisinau,,,,MD-2001,MD,t
+1904,Cheyne Way,,Antsirabe,,,,110,MG,f
+1904,BP 84 Burreed Close,,Antananarivo,,,,101,MG,t
+1905,Lot 17 Blackwell End,,Majuro,,,,96960,MH,f
+1905,100 Sejongno  Jongno-gu,,Majuro,,,,96960,MH,t
+1906,St Peters Ridge BP 73,,Tetovo,,,,1222,MK,f
+1906,PO Box 16 Robinson Garden,кв. 56,Skopje,,,,1040,MK,t
+1907,Thirlmere Piece Unit 10,,Sikasso,,,,,ML,f
+1907,22 Gladstone Willows,,Bamako,,,,,ML,t
+1908,Saracen Drive,,Mandalay,,,,5011,MM,f
+1908,16 Chemin des Buissons,,Yangon,,,,11222,MM,t
+1909,St Catherines Haven No. 17,,Erdenet,,Orkhon,,16040,MN,f
+1909,PO Box 13 Route d'Été,S/K Dangkao,Ulaanbaatar,,Ulaanbaatar,,14200,MN,t
+1910,St Ives Causeway,,Macau,,,,999078,MO,f
+1910,5 Reach,,Macau,,,,999078,MO,t
+1911,061 Rutledge Park,,Capitol Hill,,,,96950,MP,f
+1911,22 Wilverley Close,,Capitol Hill,,,,96950,MP,t
+1912,Chemin de Vapeur BP 88,,Fort-de-France,,,,97200,MQ,f
+1912,Iskele Caddesi 35,,Fort-de-France,,,,97200,MQ,t
+1913,No. 9 Larpent Avenue,,NÃ©ma,,,,,MR,f
+1913,Lot 16 Foxland Road,,Nouakchott,,,,,MR,t
+1914,ul Cicha 5,,Plymouth,,,,,MS,f
+1914,Lot 17 Haven,,Salem,,,,,MS,t
+1915,Via Garibaldi 127,,Sliema,,,,SLM,MT,f
+1915,BP-4 Violeta Morterero,,Valletta,,,,VLT,MT,t
+1916,Voie des Merchands 12,,Curepipe,,,,74216,MU,f
+1916,532 Chai Chee Road,,Port Louis,,,,42602,MU,t
+1917,Shackleton Farm 26,,Ungoofaaru,,Northern Maalhosmadulhu Atoll,,5060,MV,f
+1917,No. 244 Main St,,Male,,Kaafu Atoll,,20002,MV,t
+1918,Doric Street 46,,Blantyre,,,,,MW,f
+1918,Blossom Down No. 2,,Lilongwe,,,,,MW,t
+1919,A 64,,Guadalajara,,Jalisco,,44100,MX,f
+1919,BP-11 Route des Castors,,Mexico City,,Estado de Mexico,,1030,MX,t
+1920,Stanley Avenue North 18,,Kuala Lumpur,,Peninsular Malaysia,,43200,MY,f
+1920,Earles Meadow Lot 40,,George Town,,Penang,,10250,MY,t
+1921,C/ Santa Maria 45  3º  2ª,,Matola,,Maputo,,1115,MZ,f
+1921,6 St Paul's Elms,,Maputo,,Mozambique,,101,MZ,t
+1922,Windrush Moor Lot 53,,Rundu,,,,19001,NA,f
+1922,Unit 18 Chemin d'Innovation,,Windhoek,,,,10005,NA,t
+1923,PO Box 13 Thornbury Hills,,Kone,,,,98860,NC,f
+1923,Gauntlet Close BP 44,,Noumea,,,,98800,NC,t
+1924,Sunningdale Isaf,,Maradi,,,,8001,NE,f
+1924,Alton Estate,,Niamey,,,,8001,NE,t
+1925,18 Brownlow Loke,,Kingston,,,,,NF,f
+1925,No. 3 Allison Ferrant,,Burnt Pine,,,,,NF,t
+1926,Chichester Link,,Kano,,,,700231,NG,f
+1926,Sandford Drive BP-9,,Lagos,,,,100242,NG,t
+1927,BP-5 Rue de Liberté,Antiguo Cine Rex G-93,Chinandega,,Chinandega,,26400,NI,f
+1927,28 Clemons Alley,,Managua,,Managua,,11005,NI,t
+1928,30 Jalan Banda,,Amsterdam,,North Holland,,1008 DG,NL,f
+1928,Lot 54 Bucklebury,,The Hague,,South Holland,,1015 CS,NL,t
+1929,Lot 62 Ryecroft Nook,,Bergen,,Western Norway,,5003,NO,f
+1929,No 3 Frythe Crescent,,Oslo,,Oslo,,158,NO,t
+1930,PO Box 22 Devon Links,,Jitpur,,Province No. 2,,44300,NP,f
+1930,19 Badgers Downs,,Kathmandu,,Bagmati Pradesh,,44600,NP,t
+1931,Wells Garden BP 35,,Anabar,,,,,NR,f
+1931,127 Rue Yafo,,Yaren,,,,,NR,t
+1932,3rd St Lot 34,,Alofi,,,,,NU,f
+1932,CH 6,,Mutalau,,,,,NU,t
+1933,Stewards Court 41,,Wellington,,,,5024,NZ,f
+1933,Belvedere Brow 32,,Auckland,,,,612,NZ,t
+1934,Kerly Close BP-11,,Adam,,,,618,OM,f
+1934,Jacks Hill Park BP-22,,Muscat,,,,113,OM,t
+1935,Rue de Fer,,Colon,,Colon,,301,PA,f
+1935,No 94 Elliott View,,Panama City,,Panama,,801,PA,t
+1936,Victoria Approach 9,,Callao,,Callao,,7021,PE,f
+1936,Thomson Oaks 17,,Lima,,Lima,,7001,PE,t
+1937,7 Sandyke Lane,,Papeete,,,,98714,PF,f
+1937,23 Margaret Sidings,,Papeete,,,,98714,PF,t
+1938,Luisa Montes PO Box 18,,Lae,,,,411,PG,f
+1938,PO Box 13 Festival Garth,,Port Moresby,,,,121,PG,t
+1939,Nightingale Vale PO Box 12,,Quezon City,,National Capital Region,,1008,PH,f
+1939,Unit 7 Baas Lane,,Manila,,Manila,,1001,PH,t
+1940,Cotleigh Grove No. 19,,Lahore,,,,53720,PK,f
+1941,Chemin du Prince Lot 24,,Katowice,,,,40-004,PL,t
+1942,Adams Newydd 7,,Saint Pierre,,,,,PM,f
+1942,19 Marr Terrace,,Miquelon-Langlade,,,,,PM,t
+1943,BP-3 Chemin de la Cloche,,Carolina,,,,902,PR,f
+1943,Oulitsa Gagagin 17,,San Juan,,,,908,PR,t
+1944,Hainge Road BP-14,,Ram Allah,,,,90901,PS,f
+1944,BP 19 Fleetwood By-Pass,,Al Birah,,,,90624,PS,t
+1945,Unit 12 Grenville Promenade,,Porto,,,,4000-015,PT,f
+1945,7 Temple Hall,,Lisbon,,,,1000-006,PT,t
+1946,C-Road,,Melekeok,,,,96940,PW,f
+1946,Hayes Green Unit 8,,Koror,,,,96940,PW,t
+1947,05335 Sauthoff Terrace,,San Lorenzo,,,,2160,PY,f
+1947,B14-313,,Asuncion,,,,1102,PY,t
+1948,Walls 27,,Al Wakrah,,,,,QA,f
+1948,Unit 14 Lucombe Way,,Doha,,,,,QA,t
+1949,Chiltern End No. 24,,Saint-Benoit,,,,97470,RE,f
+1949,Langley Cloisters 15,,Saint-Denis,,,,97400,RE,t
+1950,Frog Cloisters Unit 10,,Lasi,,,,700028,RO,f
+1950,Rue de l'Étoile,,Bucharest,,,,10882,RO,t
+1951,Dimo Hadjikimov 6,,Nis,,,,18000,RS,f
+1951,34 Blythe Meadows,,Belgrade,,,,11030,RS,t
+1952,Cavendish Lea PO Box 6,,Saint Petersburg,,Northwestern,,187015,RU,f
+1952,Ventnor Hollo,,Moscow,,Central,,103274,RU,t
+1953,Welbeck Ridge 5,,Nyanza,,Southern Province,,,RW,f
+1953,Royton Road No. 9,,Kigali,,Kigali,,,RW,t
+1954,PO Box 10 Welbeck Lawns,,Jeddah,,Makkah,,21589,SA,f
+1954,Crofters Lawn PO Box 16,,Riyadh,,Riyadh,,11543,SA,t
+1955,Svingen 122,,Gizo,,,,,SB,f
+1955,Blyth Drove BP 20,,Honiara,,,,,SB,t
+1956,Route des Reines No 130,,Victoria,,,,361,SC,f
+1956,Lot 31 Christie By-Pass,,Victoria,,,,361,SC,t
+1957,PO Box 10 Harley Glade,,Port Sudan,,Red Sea State,,11111,SD,f
+1957,Rickmans Avenue BP-22,,Khartoum,,Khartoum,,11111,SD,t
+1958,Coney Green Road BP-15,,Gothenburg,,Västergötland,,405 30,SE,f
+1958,Hayes Green Unit 8,,Stockholm,,Uppland,,104 65,SE,t
+1959,Butler Broadway BP-13,,Singapore,,,,308215,SG,f
+1959,Hepleswell,,Singapore,,,,546080,SG,t
+1960,Banbury Lanes 27,,Edinburgh of the Seven Seas,,,,TDCU 1ZZ,SH,f
+1960,Hermosa Espina Unit 10,,Georgetown,,,,ASCN 1ZZ,SH,t
+1961,BP-4 Pippin Bottom,3rd Floor,Maribor,,,,2000,SI,f
+1961,Rue des Bijoux,,Ljubljana,,,,1211,SI,t
+1962,No. 17 Chrystel Close,,Longyearbyen,,,,,SJ,f
+1962,Scopes Road,,Barentsburg,,,,,SJ,t
+1963,PO Box 1 Lawrence Garth,,Kosice,,,,040 01,SK,f
+1963,Hatton Broadway PO Box 8,,Bratislava,,,,811 03,SK,t
+1964,504 Kasumigaseki 1,,Bo,,,,47235,SL,f
+1964,22 Earlesfield,,Freetown,,,,47235,SL,t
+1965,BP-11 Rue des Gemmes,,Serravalle,,,,47891,SM,f
+1965,49 Featherstone Street,Cl. 50,San Marino,,,,91108,SM,t
+1966,21 Larch Gate,,ThiÃ¨s,,,,21000,SN,f
+1966,Schulstrasse 4,,Dakar,,,,12500,SN,t
+1967,BP-8 Robin Chase,,Kismaayo,,Jubaland,,,SO,f
+1967,32 Ferney Place,,Mogadishu,,Banaadir,,,SO,t
+1968,35 Chemin du Pont,,Cottica,,,,,SR,f
+1968,Morrison Glade Lot 26,,Paramaribo,,,,,SR,t
+1969,Pytchley Lane BP 42,,Santo Antonio,,,,,ST,f
+1969,Ffordd Eglwyswen BP 76,,Sao Tome,,,,,ST,t
+1970,BP 37 Eagle Reach,,Santa Ana,,,,2204,SV,f
+1970,Isis Road No. 2,,San Salvador,,,,3222,SV,t
+1971,BP-15 Lushers Meadow Way,,Damascus,,,,,SY,f
+1971,52 RUE DES FLEURS,,Aleppo,,,,,SY,t
+1972,Humber East PO Box 2,,Mbabane,,,,H100,SZ,f
+1972,Highfield Boulevard PO Box 22,,Manzini,,,,M200,SZ,t
+1973,Westmorland Field 29,,Grand Turk,,,,TKCA 1ZZ,TC,f
+1973,No. 13 Route de la Terre de Fer,,Grand Turk,,,,TKCA 1ZZ,TC,t
+1974,Palatine Crescent PO Box 6,,Bongor,,,,,TD,f
+1974,Great Furlong Unit 19,,Nâ€™Djamena,,,,,TD,t
+1975,ejongno  Jongno-gu,,SokodÃ©,,,,,TG,f
+1975,PO Box 14 Fort Road,,LomÃ©,,,,,TG,t
+1976,PO Box 16 Robinson Garden,,Chiang Mai,,Chiang Mai,,50100,TH,f
+1976,22 Dinnie's Lane,L-9044,Bangkok,,Bangkok,,10150,TH,t
+1977,22 Gladstone Willows,,Khujand,,,,735700,TJ,f
+1977,PO Box 10 Alice Manor,,Dushanbe,,,,735450,TJ,t
+1978,16 Chemin,,Na Taulaga,,,,,TK,f
+1978,No 101 Carmen Manzanares,,Nukunonu,,,,,TK,t
+1979,PO Box 13 Route d'Été,,Baucau,,,,,TL,f
+1979,BP-15 Woolborough Lane,,Dili,,,,,TL,t
+1980,5 Cornwallis Reach,,Türkmenabat,,,,746100,TM,f
+1980,Unit 29 Veronica Escribano,,Ashgabat,,,,744040,TM,t
+1981,22 Wilverley,,Sfax,,,,3083,TN,f
+1981,Valery Dávalos BP 90,,Tunis,,,,1002,TN,t
+1982,57066 Dunning,,Neiafu,,,,,TO,f
+1982,Schanzenstrasse 17,,Nuku'alofa,,,,,TO,t
+1983,Brow 32,,Ankara,,Ankara,,6150,TR,f
+1983,Barnby Dun Road,,Istanbul,,Istanbul,,34030,TR,t
+1984,Jacks Hill Park BP-22,,Piarco,,,,350462,TT,f
+1984,Oakham Hollies Unit 21,,Port of Spain,,,,150123,TT,t
+1985,No 94 Elliott View,,Funafuti,,,,,TV,f
+1985,No 26 Ryecroft Gardens,,Funafuti,,,,,TV,t
+1986,Thomson Oaks 17,,Kaohsiung,,Lingya District,,811,TW,f
+1986,Agustina Rodríguez,BP-16,Taipei,,Xinyi District,,105,TW,t
+1987,23 Margaret,94,Moshi,,,,25003,TZ,f
+1987,Magdalena Sáenz Lot 59,,Dar es Salaam,,,,10001,TZ,t
+1988,PO Box 13 Festival Garth,,Kharkiv,,Kharkiv,,62341,UA,f
+1988,Rue de Marbre No 71,,Kiev,,Kiev,,3134,UA,t
+1989,Unit 7 Baas Lane,,Mbale,,,,,UG,f
+1989,13/54-26 Chaeng Waltana Road,,Kampala,,,,,UG,t
+1990,10 Woodget Close,,Vatican City,,,,,VA,f
+1990,BP-15 Kenilworth Garth,,Vatican City,,,,,VA,t
+1991,Unit 6 Whitebeam Broadway,,Kingstown,,,,VC0130,VC,f
+1991,Rue du Musée 37,,Kingstown,,,,VC0130,VC,t
+1992,Hepleswell,,Maracaibo,,Zulia,,4002,VE,f
+1992,Unit 13 Barrington Hall,,Caracas,,Capital District,,1041,VE,t
+1993,Hermosa Espina Unit 10,,Parham Town,,,,,VG,f
+1993,Harnham Grove,,Road Town,,,,,VG,t
+1994,Rue des Bijoux No 51,,St Thomas,,,,,VI,f
+1994,Briana Morillo BP 11,,Kingshill,,,,,VI,t
+1995,BP-23 Scopes Road,,Hanoi,,Red River Delta,,100000,VN,f
+1995,Norton Woods,,Ho Chi Minh City,,Southeast,,756000,VN,t
+1996,Hatton Broadway PO Box 8,,Luganville,,,,,VU,f
+1996,Unit 12 Rue des Mandarines,,Port-Vila,,,,,VU,t
+1997,22 Earlesfield,,Leava,,,,98620,WF,f
+1997,Mountbatten Quadrant PO Box 10,,Leava,,,,98610,WF,t
+1998,49 Featherstone Street,,Afega,,,,WS1385,WS,f
+1998,PO Box 7 Croxstalls Road,,Apia,,,,WS1190,WS,t
+1999,BP-23 Scopes Road,,Aden,,,,,YE,f
+1999,Bathley Lane Lot 35,,Sanaa,,,,,YE,t
+2000,Oakham Hollies Unit 21,,Mamoudzou,,,,97600,YT,f
+2000,Papillons Walk BP 49,,Mamoudzou,,,,97600,YT,t
+1001,No 26 Ryecroft Gardens,,Cape Town,,Western Cape,,7105,ZA,f
+1500,Agustina Rodríguez BP-16,,Kitwe,,,,,ZM,f
+1700,Magdalena Sáenz Lot 59,,Bulawayo,,,,,ZW,f
+1001,Heys Crescent PO Box 10,,Johannesburg,,Gauteng,,2042,ZA,f
+1500,Sorrel Dell 16,,Lusaka,,,,,ZM,f
+1700,St Martins Ground Lot 14,,Harare,,,,,ZW,f

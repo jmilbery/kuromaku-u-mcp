@@ -1,0 +1,6 @@
+﻿cd_ethnicity,name_ethnicity,sort_order
+HSP,Hispanic,1.1
+AFR,African-American,1.2
+ASN,Asian,1.3
+WHT,White/Caucasian,2
+UNK,Unknown,5

@@ -1,0 +1,52 @@
+cd_state,name_state,fips_state,standard_federal_region,census_region,census_region_name,census_division,census_division_name,circuit_court,sort_order
+AL,Alabama,1,IV,3,South,6,East South Central,11,10
+AK,Alaska,2,X,4,West,9,Pacific,9,10
+AZ,Arizona,4,IX,4,West,8,Mountain,9,10
+AR,Arkansas,5,VI,3,South,7,West South Central,8,10
+CA,California,6,IX,4,West,9,Pacific,9,10
+CO,Colorado,8,VIII,4,West,8,Mountain,10,10
+CT,Connecticut,9,I,1,Northeast,1,New England,2,10
+DE,Delaware,10,III,3,South,5,South Atlantic,3,10
+FL,Florida,12,IV,3,South,5,South Atlantic,11,10
+GA,Georgia,13,IV,3,South,5,South Atlantic,11,10
+HI,Hawaii,15,IX,4,West,9,Pacific,9,10
+ID,Idaho,16,X,4,West,8,Mountain,9,10
+IL,Illinois,17,V,2,Midwest,3,East North Central,7,10
+IN,Indiana,18,V,2,Midwest,3,East North Central,7,10
+IA,Iowa,19,VII,2,Midwest,4,West North Central,8,10
+KS,Kansas,20,VII,2,Midwest,4,West North Central,10,10
+KY,Kentucky,21,IV,3,South,6,East South Central,6,10
+LA,Louisiana,22,VI,3,South,7,West South Central,5,10
+ME,Maine,23,I,1,Northeast,1,New England,1,10
+MD,Maryland,24,III,3,South,5,South Atlantic,4,10
+MA,Massachusetts,25,I,1,Northeast,1,New England,1,10
+MI,Michigan,26,V,2,Midwest,3,East North Central,6,10
+MN,Minnesota,27,V,2,Midwest,4,West North Central,8,10
+MS,Mississippi,28,IV,3,South,6,East South Central,5,10
+MO,Missouri,29,VII,2,Midwest,4,West North Central,8,10
+MT,Montana,30,VIII,4,West,8,Mountain,9,10
+NE,Nebraska,31,VII,2,Midwest,4,West North Central,8,10
+NV,Nevada,32,IX,4,West,8,Mountain,9,10
+NH,New Hampshire,33,I,1,Northeast,1,New England,1,10
+NJ,New Jersey,34,II,1,Northeast,2,Mid-Atlantic,3,10
+NM,New Mexico,35,VI,4,West,8,Mountain,10,10
+NY,New York,36,II,1,Northeast,2,Mid-Atlantic,2,10
+NC,North Carolina,37,IV,3,South,5,South Atlantic,4,10
+ND,North Dakota,38,VIII,2,Midwest,4,West North Central,8,10
+OH,Ohio,39,V,2,Midwest,3,East North Central,6,10
+OK,Oklahoma,40,VI,3,South,7,West South Central,10,10
+OR,Oregon,41,X,4,West,9,Pacific,9,10
+PA,Pennsylvania,42,III,1,Northeast,2,Mid-Atlantic,3,10
+RI,Rhode Island,44,I,1,Northeast,1,New England,1,10
+SC,South Carolina,45,IV,3,South,5,South Atlantic,4,10
+SD,South Dakota,46,VIII,2,Midwest,4,West North Central,8,10
+TN,Tennessee,47,IV,3,South,6,East South Central,6,10
+TX,Texas,48,VI,3,South,7,West South Central,5,10
+UT,Utah,49,VIII,4,West,8,Mountain,10,10
+VT,Vermont,50,I,1,Northeast,1,New England,2,10
+VA,Virginia,51,III,3,South,5,South Atlantic,4,10
+WA,Washington,53,X,4,West,9,Pacific,9,10
+WV,West Virginia,54,III,3,South,5,South Atlantic,4,10
+WI,Wisconsin,55,V,2,Midwest,3,East North Central,7,10
+WY,Wyoming,56,VIII,4,West,8,Mountain,10,10
+DC,Washington DC,11,III,3,South,5,South Atlantic,,10

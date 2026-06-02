@@ -1,0 +1,11 @@
+set schema 'ku';
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('AER', 'AERONAUTICAL ENGINEERING', 1.10000000000000009);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('CHE', 'CHEMISTRY', 1.19999999999999996);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('CIV', 'CIVIL ENGINEERING', 1.30000000000000004);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('COM', 'COMPUTER SCIENCE', 2);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('ENG', 'ENGINEERING', 1.5);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('MAN', 'MANUFACTURING', 7);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('MAT', 'MATERIALS SCIENCE', 8);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('MEC', 'MECHANICAL ENGINEERING', 9);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('NUC', 'NUCLEAR ENGINEERING', 10);
+INSERT INTO cd_minor(cd_minor, name_minor, sort_order) VALUES ('UND', 'UNDECLARED', 11);

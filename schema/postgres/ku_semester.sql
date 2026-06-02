@@ -1,0 +1,11 @@
+set schema 'ku';
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (1, 'FALL 2021', 2021, 2022, '2021-09-01', '2021-12-15', 't');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (2, 'SPRING 2022', 2021, 2022, '2022-01-15', '2022-05-31', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (3, 'FALL 2022', 2022, 2023, '2022-09-01', '2022-12-15', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (4, 'SPRING 2023', 2022, 2023, '2023-01-15', '2023-05-31', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (5, 'FALL 2023', 2023, 2024, '2023-09-01', '2023-12-15', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (6, 'SPRING 2024', 2023, 2024, '2024-01-15', '2024-05-31', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (7, 'FALL 2024', 2024, 2025, '2024-09-01', '2024-12-15', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (8, 'SPRING 2025', 2024, 2025, '2025-01-15', '2025-05-31', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (9, 'FALL 2025', 2025, 2026, '2022-09-01', '2025-12-15', 'f');
+INSERT INTO semester(semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (10, 'SPRING 2026', 2025, 2026, '2026-01-15', '2026-05-31', 'f');
