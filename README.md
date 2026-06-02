@@ -71,20 +71,28 @@ It speaks stdio MCP transport — wire it up to any MCP client.
 
 ## Wiring it up to Claude Code (macOS)
 
-Add the server to your Claude Code MCP config. Claude Code reads MCP server definitions from your project's `.claude/settings.json` (or your global `~/.claude/settings.json`). Add a `mcpServers` block:
+Claude Code does **not** read `mcpServers` from `settings.json` (that's a Claude Desktop convention — see the section below). Use one of these instead.
+
+**Option A — the `claude mcp add` CLI (simplest):**
+
+```bash
+claude mcp add kuromaku-u --scope user -- /absolute/path/to/.venv/bin/python /absolute/path/to/server/server.py
+```
+
+**Option B — a project `.mcp.json`** in your working directory:
 
 ```json
 {
   "mcpServers": {
     "kuromaku-u": {
-      "command": "python",
-      "args": ["/absolute/path/to/kuromaku-u/server/server.py"]
+      "command": "/absolute/path/to/.venv/bin/python",
+      "args": ["/absolute/path/to/server/server.py"]
     }
   }
 }
 ```
 
-Restart Claude Code. Verify the server is connected with `/mcp` — you should see `kuromaku-u` and its six tools listed.
+Either way, point `command` at the venv's Python (`.venv/bin/python`) so the `mcp` dependency resolves. Restart Claude Code and verify with `/mcp` — you should see `kuromaku-u` and its six tools listed.
 
 Then ask Claude Code things like:
 
