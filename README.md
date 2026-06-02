@@ -49,8 +49,8 @@ kuromaku-u/
 ## Quick start — clone to demo in 4 commands
 
 ```bash
-git clone https://github.com/jmilbery/kuromaku-u.git
-cd kuromaku-u
+git clone https://github.com/jmilbery/kuromaku-u-mcp.git
+cd kuromaku-u-mcp
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e . && python schema/build_db.py
 ```
