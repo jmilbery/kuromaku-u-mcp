@@ -6,16 +6,13 @@ This is what the demo close-up shows: "every MCP server is just this shape."
 Import the SDK, name the server, decorate a function as a tool, run it.
 The full six-tool version lives in server.py.
 
-Configure Claude Code (~/.claude/settings.json):
+Register with Claude Code (NOT settings.json — that's Claude Desktop):
 
-    {
-      "mcpServers": {
-        "kuromaku-u-minimal": {
-          "command": "python",
-          "args": ["/Users/jmilbery/kuromaku-u/server/server_minimal.py"]
-        }
-      }
-    }
+    claude mcp add kuromaku-u-minimal --scope user -- \
+        /abs/path/.venv/bin/python /abs/path/server/server_minimal.py
+
+  ...or drop an mcpServers block in a project .mcp.json. Point command at
+  the venv python so the `mcp` dep resolves.
 
 Restart Claude Code. /mcp should show it green. Then ask:
 "Find me a Kuromaku U student named Bracegirdle."

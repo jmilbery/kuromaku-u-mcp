@@ -20,15 +20,12 @@ Run it:
     pip install -e ".[dev]"          # from repo root
     python server/server.py          # stdio transport (for Claude Code / Desktop)
 
-Configure Claude Code (~/.claude/settings.json or per-project config) with:
-    {
-      "mcpServers": {
-        "kuromaku-u": {
-          "command": "python",
-          "args": ["/absolute/path/to/kuromaku-u/server/server.py"]
-        }
-      }
-    }
+Register with Claude Code (NOT settings.json — that key is Claude Desktop):
+    claude mcp add kuromaku-u --scope user -- \
+        /abs/path/.venv/bin/python /abs/path/server/server.py
+  ...or use a project .mcp.json with an mcpServers block. For Claude Desktop,
+  add the same block to claude_desktop_config.json. Point command at the venv
+  python so the `mcp` dependency resolves.
 """
 from __future__ import annotations
 
