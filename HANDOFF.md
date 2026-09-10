@@ -13,21 +13,12 @@ is the work list.
 
 ## What's next
 
-1. **Tier 1 of the audit — no enrollment row moves, 08c numbers hold.** Course descriptions
-   (303 Lorem Ipsum), full course titles (keep `MECH-2040 Biofluid Mechanics` verbatim), the
-   `cd_state.fips` loader alias, minors for ~30% of students, fill `grad_year` from `class_year`,
-   emails → `example.com/.net/.org`, phones → `555-01XX`, grades from a second weighted RNG.
-   After rebuild: 15,472 enrollments, Bracegirdle resolves, MECH-2040 Fall 2026 = 11 students
-   across four departments.
-2. **Doc drift, same pass.** README: "ten semesters" → 15, "~250 lines" → 304, add
-   `server_full.py`, fix the "machine learning" example (the title is `Intro Machine Learn`).
-   `demo/demo-prompts.md`: still says Bracegirdle is class of 2024 and COMP-1005 has 19 students —
-   both predate the 9/9 re-date; re-check against the current build.
-3. **Tier 2 — after 08c records.** Retakes, level progression, labs without lectures, core
-   coverage, the eight empty semesters (alumni cohorts vs. a shorter semester table). Moves rows;
-   re-find the 08c Bracegirdle question afterwards.
-4. **Reconnect RazorSQL after any rebuild.** `build_db.py` deletes and recreates the `.db`; an open
-   connection stays on the old inode.
+1. **Tier 1 of `docs/DATA-AUDIT.md`** — nine fixes, none move an enrollment row. After rebuild:
+   15,472 enrollments, Bracegirdle resolves, MECH-2040 Fall 2026 = 11 students, four depts.
+2. **Doc drift, same pass.** README (15 semesters, 304 lines, add `server_full.py`, fix the
+   "machine learning" example) and `demo/demo-prompts.md` (pre-re-date numbers).
+3. **Tier 2 waits until 08c records** — it moves rows and re-opens the Bracegirdle question.
+   Reconnect RazorSQL after every rebuild.
 
 ## What I'd have to re-derive
 
@@ -35,6 +26,9 @@ is the work list.
   `generate_enrollments()` walks both without an `ORDER BY`; reordering either reshuffles every
   enrollment. It reads only `student_id`, `cd_major`, `class_year`, `catnum`, `cd_major_minor`,
   `active_flag` — edit anything else freely, never reorder.
+- **Keep `MECH-2040 Biofluid Mechanics` verbatim** when expanding titles — the 08c script names it.
+- **RazorSQL goes stale on rebuild.** `build_db.py` deletes and recreates the `.db`; an open
+  connection stays on the old inode and shows old numbers.
 - **The personal data is all synthetic** — generator output from the original build. Real-looking
   domains and area codes, no real people. The email/phone fix is consistency, not privacy.
 - **Two servers, two jobs.** `server.py` is deliberately minimal — no `list_majors()`, so "what

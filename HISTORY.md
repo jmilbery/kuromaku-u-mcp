@@ -82,5 +82,6 @@ from the original build years ago. The emails sit on real domains but are not re
 phone numbers are generated. Moving them to `example.com` / `555-01XX` is a consistency fix in the
 cleanup, not an emergency.
 
-Committed as-is so the work can continue from the laptop. **This starts the cleanup project** —
+Committed as-is so the work can continue from the laptop (3052f36). README and demo-prompts drift
+held back for the cleanup rather than fixed in that commit. **This starts the cleanup project** —
 making the dataset clean and consistent, with the audit as the work list.
