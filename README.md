@@ -55,7 +55,7 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -e . && python schema/build_db.py
 ```
 
-That builds `kuromaku_u.db` (a single SQLite file, ~4 MB) with the 14 source tables, 4 appended "current" semesters that extend the timeline through Spring 2026, and a deterministically-generated `student_enrollment` table (seed `1729`, ~55,000 rows).
+That builds `kuromaku_u.db` (a single SQLite file, ~1.8 MB) with the 14 source tables — `ku_semester.csv` now carries the full timeline through Fall 2026 itself, rather than having recent semesters appended in code — and a deterministically-generated `student_enrollment` table (seed `1729`, ~15,500 rows).
 
 To run the MCP server:
 

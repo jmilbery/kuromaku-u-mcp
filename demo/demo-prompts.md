@@ -36,8 +36,8 @@ isn't a single-shot lookup, it's tool-use chained.
 > *"Who's in COMP-1005 this semester at Kuromaku University, and what are their majors?"*
 
 Claude's reasoning trace:
-1. Calls `current_semester()` → gets Spring 2026
-2. Calls `course_roster("COMP-1005")` → gets 13 students
+1. Calls `current_semester()` → gets Fall 2026
+2. Calls `course_roster("COMP-1005")` → gets 19 students
 3. Returns formatted list with name + major
 
 Three sequential tool calls. Real answer. ~10 second response.
@@ -48,7 +48,7 @@ Three sequential tool calls. Real answer. ~10 second response.
 Claude's reasoning trace:
 1. Calls `find_students(name="Andrzejczak")` → finds student 1182
 2. Calls `student_detail(1182)` → gets full record
-3. Calls `student_courses(1182)` → gets Spring 2026 schedule (4 courses)
+3. Calls `student_courses(1182)` → gets Fall 2026 schedule (4 courses)
 4. Synthesizes a coherent advisor-style summary
 
 Four tool calls. Authentic "Claude as registrar's assistant" demo.

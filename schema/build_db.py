@@ -6,7 +6,8 @@ Steps:
   1. Run schema/sqlite_init.sql to create the empty schema
   2. Load each CSV into its matching table
   3. Generate deterministic synthetic enrollments
-       (~4 courses/student/semester × 1000 students × 4 semesters = ~16,000 rows)
+       (~4 courses/student/semester × 1000 students × their own 1-7 attended
+       semesters = ~15,500 rows)
 
 Usage:
   python schema/build_db.py            # builds ../kuromaku_u.db
@@ -166,26 +167,76 @@ def load_table(conn: sqlite3.Connection, data_dir: Path, table: str, csv_name: s
     return rows_inserted
 
 
-def extend_semesters_to_present(conn: sqlite3.Connection) -> int:
+def sanity_check(conn: sqlite3.Connection) -> list[str]:
     """
-    The source CSV ends at Spring 2024. Append Fall 2024 through Spring 2026 so
-    the demo has a "current" semester to talk about. Marks Spring 2026 as the
-    current semester; clears is_current on all others.
+    Guard against the failure that produced this function.
+
+    class_year, semester and dob all encode absolute years, and this demo keeps
+    being re-dated. Three separate times those fields drifted out from under the
+    "current" semester and nothing noticed — a 2024 graduate was still labelled a
+    freshman in 2026, students who left in 2021 sat on current rosters, and
+    freshmen were born in 1999. Each was found by reading rows on camera.
+
+    None of this is fatal, so nothing here raises. It prints loudly instead.
     """
-    extras = [
-        (11, "FALL 2024",   2024, 2025, "2024-09-02", "2024-12-15", 0),
-        (12, "SPRING 2025", 2024, 2025, "2025-01-13", "2025-05-10", 0),
-        (13, "FALL 2025",   2025, 2026, "2025-09-01", "2025-12-15", 0),
-        (14, "SPRING 2026", 2025, 2026, "2026-01-12", "2026-05-09", 1),
-    ]
-    conn.executemany(
-        "INSERT OR IGNORE INTO semester (semester_id, semester_name, academic_year_start, academic_year_end, semester_start_date, semester_end_date, is_current) VALUES (?,?,?,?,?,?,?)",
-        extras,
-    )
-    conn.execute("UPDATE semester SET is_current = 0 WHERE semester_id != 14")
-    conn.execute("UPDATE semester SET is_current = 1 WHERE semester_id = 14")
-    conn.commit()
-    return len(extras)
+    problems: list[str] = []
+    cur = conn.cursor()
+
+    # 1. One current semester, and it must be the newest one on file.
+    current = cur.execute(
+        "SELECT semester_id, semester_name FROM semester WHERE is_current = 1"
+    ).fetchall()
+    newest = cur.execute(
+        "SELECT semester_id, semester_name FROM semester "
+        "ORDER BY academic_year_start DESC, semester_id DESC LIMIT 1"
+    ).fetchone()
+    if len(current) != 1:
+        problems.append(f"{len(current)} semesters marked is_current; expected exactly 1")
+    elif current[0][0] != newest[0]:
+        problems.append(
+            f"is_current is on {current[0][1]}, but the newest semester is {newest[1]}"
+        )
+
+    # 2. Each class should have matriculated at about 18.
+    for class_year, name, dob_median in cur.execute(
+        """
+        SELECT s.class_year, cy.class_name,
+               AVG(julianday(s.dob))          -- mean is close enough to median here
+          FROM student s JOIN class_year cy ON cy.class_year = s.class_year
+         GROUP BY 1, 2 ORDER BY cy.sort_order
+        """
+    ).fetchall():
+        matriculation = cur.execute(
+            "SELECT julianday(?)", (f"{class_year - 4}-09-01",)
+        ).fetchone()[0]
+        age = (matriculation - dob_median) / 365.25
+        if not (17.0 <= age <= 19.0):
+            problems.append(
+                f"class of {class_year} ({name}) matriculated at a mean age of "
+                f"{age:.1f}; expected 17-19"
+            )
+
+    # 3. Nobody attends before arriving or after graduating.
+    ghosts = cur.execute(
+        """
+        SELECT COUNT(*) FROM student_enrollment se
+          JOIN student  s  ON s.student_id  = se.student_id
+          JOIN semester sm ON sm.semester_id = se.semester_id
+         WHERE sm.academic_year_start NOT BETWEEN s.class_year - 4 AND s.class_year - 1
+        """
+    ).fetchone()[0]
+    if ghosts:
+        problems.append(f"{ghosts:,} enrollments fall outside the student's own four years")
+
+    # 4. The semester everyone will demo against should not be empty.
+    if len(current) == 1:
+        n = cur.execute(
+            "SELECT COUNT(*) FROM student_enrollment WHERE semester_id = ?", (current[0][0],)
+        ).fetchone()[0]
+        if n == 0:
+            problems.append(f"the current semester ({current[0][1]}) has no enrollments")
+
+    return problems
 
 
 def generate_enrollments(conn: sqlite3.Connection, *, seed: int = 1729, courses_per_semester: int = 4) -> int:
@@ -218,10 +269,14 @@ def generate_enrollments(conn: sqlite3.Connection, *, seed: int = 1729, courses_
     inserted = 0
     rows: list[tuple] = []
     for student_id, major, class_year in students:
-        # Approximate which semesters this student attended
+        # Which semesters this student attended. class_year is the graduation
+        # year and Kuromaku U only graduates in spring, so a member of the class
+        # of Y is enrolled across academic years Y-4 .. Y-1 and is gone after
+        # that. The window used to have no upper bound, which is why every
+        # student attended every semester ever recorded and 2021 graduates were
+        # still turning up on rosters five years after leaving.
         for sem_id, sem_name, ay_start, is_current in semesters:
-            # crude attendance window: student attends semesters with ay_start >= (class_year - 4)
-            if ay_start < (class_year - 4):
+            if not (class_year - 4 <= ay_start <= class_year - 1):
                 continue
             chosen: set[str] = set()
             for _ in range(courses_per_semester):
@@ -289,13 +344,18 @@ def main():
     print(f"  ----------------------------")
     print(f"  loaded                {total:>7,} rows")
 
-    print("Extending semesters through Spring 2026…")
-    extras = extend_semesters_to_present(conn)
-    print(f"  semester (extended)   {extras:>7,} rows appended; SPRING 2026 set current")
-
     print("Generating synthetic enrollments…")
     enrollments = generate_enrollments(conn, seed=args.seed)
     print(f"  student_enrollment    {enrollments:>7,} rows  (seed={args.seed})")
+
+    print("Sanity checks…")
+    problems = sanity_check(conn)
+    if problems:
+        print("  ⚠  THIS DATABASE WILL EMBARRASS YOU ON CAMERA:")
+        for pr in problems:
+            print(f"     - {pr}")
+    else:
+        print("  all clear — current semester, class ages and attendance windows agree")
 
     conn.execute("ANALYZE")
     conn.close()
