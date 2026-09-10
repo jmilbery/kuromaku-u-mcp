@@ -59,3 +59,28 @@ cohorts would repopulate it.
 Downstream corrections in the same pass: the 08c deck script, `diagrams/kuromaku-u-datamodel.html`
 (`54,880 rows` → `15,472 rows`), `demo/demo-prompts.md` (COMP-1005 is 19 students now, not 13), and
 the README build description.
+
+---
+
+## 2026-09-10 — A full-coverage server for the RAG episode, and the first full data audit
+
+**`server/server_full.py`** — 21 tools, the MCP side of the MCP vs RAG comparison. It *imports* the
+six tools from `server.py` rather than copying them, so it is a strict superset and the two cannot
+drift. `server.py` is untouched: the 9/9 rejection of `list_majors()` stands for the minimal server;
+the full server is the other end of the ladder (`server_minimal.py` 1 → `server.py` 6 →
+`server_full.py` 21). Optional `run_sql` tool, off unless `KUROMAKU_U_ALLOW_SQL=1`. Reports the
+orphaned `COR` department as `CORE CURRICULUM` without adding a 16th table (08c says fifteen).
+
+**`docs/DATA-AUDIT.md`** — every column of all 15 tables, every FK, plausibility checks. Structure is
+sound (one orphaned key); content is not: 303 Lorem Ipsum course descriptions, truncated registrar
+titles that break keyword search (the README's own "machine learning" example returns nothing),
+a loader bug nulling `cd_state.fips`, unused minors, empty `grad_year`, a 1-in-8 F rate. Fixes are
+tiered by whether they move enrollment rows — Tier 1 doesn't, Tier 2 does and re-opens 08c.
+
+**Correction from Jim on the audit's privacy framing:** every personal field is generator output
+from the original build years ago. The emails sit on real domains but are not real accounts; the
+phone numbers are generated. Moving them to `example.com` / `555-01XX` is a consistency fix in the
+cleanup, not an emergency.
+
+Committed as-is so the work can continue from the laptop. **This starts the cleanup project** —
+making the dataset clean and consistent, with the audit as the work list.
