@@ -324,6 +324,20 @@ def generate_enrollments(conn: sqlite3.Connection, *, seed: int = 1729, courses_
     return inserted
 
 
+def _clear_database(conn: sqlite3.Connection) -> None:
+    """Drop every user table and view, including ones the schema script doesn't know about."""
+    conn.execute("PRAGMA foreign_keys = OFF")
+    objects = conn.execute(
+        "SELECT type, name FROM sqlite_master "
+        "WHERE type IN ('view', 'table') AND name NOT LIKE 'sqlite_%' "
+        "ORDER BY type = 'table'"  # views first
+    ).fetchall()
+    for kind, name in objects:
+        conn.execute(f'DROP {kind.upper()} IF EXISTS "{name}"')
+    conn.commit()
+    conn.execute("VACUUM")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build the Kuromaku U SQLite database from the CSVs.")
     parser.add_argument("--data",  default=str(DEFAULT_DATA_DIR), help="Path to data directory")
@@ -334,12 +348,17 @@ def main():
     data_dir = Path(args.data)
     db_path  = Path(args.db)
 
-    if db_path.exists():
-        db_path.unlink()
-        print(f"Removed existing {db_path}")
-
+    # Rebuild in place rather than deleting the file. A deleted-and-recreated
+    # .db is a new inode, and a client already connected to it (RazorSQL) stays
+    # on the old one and keeps showing old numbers until it reconnects. Emptying
+    # the same file means a refresh is enough.
     print(f"Building {db_path} from {data_dir}")
-    conn = sqlite3.connect(db_path)
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(db_path, timeout=10)
+    try:
+        _clear_database(conn)
+    except sqlite3.OperationalError as e:
+        sys.exit(f"Can't clear {db_path}: {e}. Close any open query or transaction in RazorSQL and rerun.")
     conn.execute("PRAGMA foreign_keys = ON")
 
     print(f"Applying schema {SCHEMA_SQL}")
