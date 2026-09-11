@@ -14,8 +14,8 @@ pulled from SQLite → clean answer.
 **Recommended:**
 > *"Find me a Kuromaku University student with the last name Bracegirdle."*
 
-Returns one student (Heath Bracegirdle, MEC, class of 2024). Clean, fast,
-unambiguous. Good first-impression prompt.
+Returns one student (Heath Bracegirdle, MEC, class of 2030 — a freshman).
+Clean, fast, unambiguous. Good first-impression prompt.
 
 **Alternates if you want a second take:**
 > *"Look up any Kuromaku U students named Andrzejczak."*

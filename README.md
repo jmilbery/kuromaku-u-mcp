@@ -2,7 +2,7 @@
 
 A sample relational dataset and reference MCP server for the **PE TechCast — AI 'Splaining** series.
 
-Kuromaku U is a fictional engineering university with 1,000 students, 303 courses, 48 buildings, four class years, ten semesters, and a fully-articulated code-table hierarchy (majors, minors, ethnicities, countries, states, grades). Everything in this repo is synthetic — no real students, no real data — which makes it safe to ship, clone, fork, and demo against.
+Kuromaku U is a fictional engineering university with 1,000 students, 303 courses, 48 buildings, four class years, fifteen semesters, and a fully-articulated code-table hierarchy (majors, minors, ethnicities, countries, states, grades). Everything in this repo is synthetic — no real students, no real data — which makes it safe to ship, clone, fork, and demo against.
 
 This repo is the **recurring demo universe** for every episode of the AI series. Today it backs the MCP Part 2 episode; over the rest of the series it will support Fine-Tuning, AI Agents, Context Engineering, Multimodal, Reasoning Models, and beyond.
 
@@ -20,7 +20,7 @@ kuromaku-u/
 │   ├── ku_course_catalog.csv       ← 303 courses across 10 majors
 │   ├── ku_building.csv             ← 48 campus buildings
 │   ├── ku_building_distance.csv    ← pairwise building distances in meters
-│   ├── ku_semester.csv             ← 10 semesters (Fall 2019 onward)
+│   ├── ku_semester.csv             ← 15 semesters (Fall 2019 – Fall 2026)
 │   ├── ku_student_address.csv      ← student home addresses
 │   ├── ku_class_year.csv           ← FR/SO/JR/SR class years
 │   ├── ku_cd_major.csv             ← 10 engineering majors (AER, COM, MEC, …)
@@ -35,12 +35,16 @@ kuromaku-u/
 │   ├── build_db.py                 ← Builds kuromaku_u.db from the CSVs
 │   └── postgres/                   ← Original Postgres DDL (preserved for "advanced mode")
 ├── server/
-│   └── server.py                   ← Reference MCP server — 6 tools, ~40 lines of business logic
+│   ├── server_minimal.py           ← One tool — the "look how simple this is" server
+│   ├── server.py                   ← Reference MCP server — 6 tools, ~40 lines of business logic
+│   └── server_full.py              ← Full-coverage server — 21 tools, every table reachable
+├── demo/                           ← Demo prompts, Claude Code config, screen-capture list
 ├── artwork/
 │   ├── studentid.png               ← Kuromaku U student ID design
 │   └── kuromaku-logo.png
 ├── docs/
-│   └── Kuromaku-U.pdf              ← Physical ER diagram
+│   ├── Kuromaku-U.pdf              ← Physical ER diagram
+│   └── DATA-AUDIT.md               ← Column-by-column audit of the dataset, and what was fixed
 └── episodes/                       ← Per-episode demo code lands here as we ship them
 ```
 
@@ -55,7 +59,7 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -e . && python schema/build_db.py
 ```
 
-That builds `kuromaku_u.db` (a single SQLite file, ~1.8 MB) with the 14 source tables — `ku_semester.csv` now carries the full timeline through Fall 2026 itself, rather than having recent semesters appended in code — and a deterministically-generated `student_enrollment` table (seed `1729`, ~15,500 rows).
+That builds `kuromaku_u.db` (a single SQLite file, ~1.8 MB) with the 14 source tables — `ku_semester.csv` now carries the full timeline through Fall 2026 itself, rather than having recent semesters appended in code — and a deterministically-generated `student_enrollment` table (seed `1729`, 15,472 rows).
 
 To run the MCP server:
 
@@ -135,7 +139,19 @@ Restart Claude Desktop. The tools show up under the 🔌 icon in the input bar.
 | `search_catalog(keyword, department, limit)` | Search the course catalog by title keyword or department code. |
 | `current_semester()` | Returns the row where `is_current = 1`. Useful before drilling into other tools. |
 
-The whole server is ~250 lines of Python. The actual tool implementations are SQL queries. That's the punchline of the demo: MCP servers are not magic. They are functions plus JSON.
+The whole server is ~300 lines of Python. The actual tool implementations are SQL queries. That's the punchline of the demo: MCP servers are not magic. They are functions plus JSON.
+
+`server.py` is deliberately thin — there is no `list_majors()`, so "what majors do you offer?" makes the model scrape the catalog the long way round. That gap is the lesson; don't paper over it.
+
+### The full-coverage server
+
+`server/server_full.py` is the other end of the ladder: the same six tools, imported rather than copied, plus fifteen more so every table is reachable — transcripts, course detail and history, addresses and location search, semesters, majors and minors, code tables, buildings and distances, and aggregate counts and GPA stats. It is the MCP side of the MCP vs RAG episode.
+
+```bash
+claude mcp add kuromaku-u-full --scope user -- /absolute/path/to/.venv/bin/python /absolute/path/to/server/server_full.py
+```
+
+An optional read-only `run_sql` tool is off by default; set `KUROMAKU_U_ALLOW_SQL=1` to register it. It buys total coverage by giving up every guardrail the typed tools provide — it's there for the comparison, not as a recommendation.
 
 ---
 

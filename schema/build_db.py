@@ -54,7 +54,12 @@ CSV_HEADER_ALIASES = {
     ("student", "cd_ethnicity"): "ethnicity",
     # ku_course_catalog.csv calls the department code "major_minor_code"
     ("course_catalog", "cd_major_minor"): "major_minor_code",
+    # ku_cd_state.csv calls it "fips_state"; without this every fips loaded null
+    ("cd_state", "fips"): "fips_state",
 }
+
+# Share of past-semester grades by letter: GPA ≈ 3.0, and F genuinely rare.
+GRADE_WEIGHTS = {"A": 35, "B": 38, "C": 18, "D": 5, "F": 4}
 
 
 def _open_csv(path: Path):
@@ -258,12 +263,15 @@ def generate_enrollments(conn: sqlite3.Connection, *, seed: int = 1729, courses_
     for catnum, dept in cur.execute("SELECT catnum, cd_major_minor FROM course_catalog WHERE active_flag = 1").fetchall():
         courses_by_dept.setdefault(dept, []).append(catnum)
     all_courses = [c for clist in courses_by_dept.values() for c in clist]
-    grades = [row[0] for row in cur.execute("SELECT cd_grade FROM cd_grade").fetchall()]
+    grade_rows = cur.execute("SELECT cd_grade, letter_grade FROM cd_grade ORDER BY cd_grade").fetchall()
+    grades  = [g for g, _ in grade_rows]
+    weights = [GRADE_WEIGHTS.get(letter, 0) for _, letter in grade_rows]
 
-    # Grade weighting — most students pass, a few don't, F is rare
-    # (assumes cd_grade primary keys are ordered so lower = better; we don't know
-    # the exact mapping without reading the CSV, so we just sample uniformly here
-    # but bias toward the first 2/3 of the grade scale).
+    # Grades come from their own RNG so they can be reweighted without moving a
+    # single enrollment. The main stream still makes the one draw per graded row
+    # it always made (from a pool of the same length), so course selection stays
+    # byte-identical to every build before the reweighting.
+    grade_rng  = random.Random(seed + 1)
     grade_pool = grades[: max(1, len(grades) * 2 // 3)] + grades
 
     inserted = 0
@@ -293,7 +301,10 @@ def generate_enrollments(conn: sqlite3.Connection, *, seed: int = 1729, courses_
                         break
                 else:
                     continue
-                cd_grade = None if is_current else rng.choice(grade_pool)
+                cd_grade = None
+                if not is_current:
+                    rng.choice(grade_pool)  # keeps the main stream in step; result unused
+                    cd_grade = grade_rng.choices(grades, weights=weights)[0]
                 rows.append((student_id, catnum, sem_id, cd_grade))
                 if len(rows) >= 5000:
                     conn.executemany(
