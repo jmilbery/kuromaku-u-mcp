@@ -2,6 +2,17 @@
 _Run 2026-09-10 against the Fall 2026 build (seed 1729): every column of all 15 tables, every
 foreign key, and a set of plausibility checks. First full pass the dataset has had._
 
+> **Status on `v2` (2026-09-11).** This audit is now the work list for the v2 rebuild, not a
+> list of fixes that must spare the 08c demo. `main` keeps the audited data unchanged for the
+> episodes already recorded. On v2 the 08c invariants are lifted: enrollments may move, and
+> Tier 2 no longer waits.
+>
+> | Tier 1 | Status |
+> |---|---|
+> | 1 descriptions · 2 titles | In progress |
+> | 3 FIPS · 4 minors · 5 grad_year · 6 emails · 7 phones · 8 grades | Done: `f2442f1`. Enrollments byte-identical to the audited build |
+> | 9 `COR` orphan | Reported as `CORE CURRICULUM` by `server_full.py`; a real departments row is now allowed |
+
 ## So what
 
 The **structure is sound**: no orphaned keys (bar one, below), no ghost enrollments, one current
@@ -55,8 +66,8 @@ mechanics?"* has to be found again, and the script's numbers re-verified.
 | 13 | Core isn't core | Only 12.1% of students have ever taken a CORE course |
 | 14 | Empty history | Fall 2019 – Spring 2023 hold no enrollments; `is_alumni` is 0 on all 4 class-year rows. Already an open question in HANDOFF |
 
-**Recommendation: after 08c records.** None of these affect the MCP vs RAG comparison, and 08c is
-recording-ready now.
+~~**Recommendation: after 08c records.**~~ **Unblocked on v2.** The 08c demo stays on `main`, so
+nothing here has to preserve its numbers.
 
 ## Tier 3 — leave alone
 

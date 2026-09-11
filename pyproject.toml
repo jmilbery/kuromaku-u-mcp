@@ -1,6 +1,6 @@
 [project]
 name = "kuromaku-u"
-version = "0.1.0"
+version = "2.0.0"
 description = "Kuromaku University — sample relational dataset + MCP server demo for the PE TechCast AI series."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -17,7 +17,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/jmilbery/kuromaku-u"
+Homepage = "https://github.com/jmilbery/kuromaku-u-mcp"
 
 [build-system]
 requires = ["setuptools>=68"]

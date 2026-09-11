@@ -6,6 +6,8 @@ Kuromaku U is a fictional engineering university with 1,000 students, 303 course
 
 This repo is the **recurring demo universe** for every episode of the AI series. Today it backs the MCP Part 2 episode; over the rest of the series it will support Fine-Tuning, AI Agents, Context Engineering, Multimodal, Reasoning Models, and beyond.
 
+> **Versions.** `main` is the dataset the episodes so far were recorded against, and it stays that way so those demos keep reproducing. This `v2` branch is a progressive rebuild of the data with better values — real course titles and descriptions, realistic grades and enrollments, no real-looking personal data. Numbers here will not match earlier episodes. `docs/DATA-AUDIT.md` is the work list.
+
 ---
 
 ## What's in here
