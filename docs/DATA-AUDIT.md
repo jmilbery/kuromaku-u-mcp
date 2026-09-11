@@ -9,7 +9,7 @@ foreign key, and a set of plausibility checks. First full pass the dataset has h
 >
 > | Tier 1 | Status |
 > |---|---|
-> | 1 descriptions · 2 titles | In progress |
+> | 1 descriptions · 2 titles | Done. 303 written descriptions (346–585 chars), full titles; cross-lists kept and tagged, all 53 labs name their lecture, no lecture titled "Lab", no in-department duplicate titles. `search_catalog("machine learning")` now returns COMP-2005 and COMP-2040 |
 > | 3 FIPS · 4 minors · 5 grad_year · 6 emails · 7 phones · 8 grades | Done: `f2442f1`. Enrollments byte-identical to the audited build |
 > | 9 `COR` orphan | Reported as `CORE CURRICULUM` by `server_full.py`; a real departments row is now allowed |
 
