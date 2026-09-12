@@ -17,13 +17,16 @@ kuromaku-u/
 ├── README.md                       ← you are here
 ├── LICENSE                         ← MIT
 ├── pyproject.toml                  ← Python deps (just `mcp`)
-├── data/                           ← 18 CSVs — the canonical source of truth
+├── data/                           ← 21 CSVs — the canonical source of truth
 │   ├── ku_student.csv              ← 1,000 students with names, majors, photos
 │   ├── ku_course_catalog.csv       ← 318 courses, numbered by level (1000–4000)
 │   ├── ku_department.csv           ← 15 departments — 9 that grant majors, 6 foundation/gen-ed
 │   ├── ku_course_prerequisite.csv  ← what comes before what (prereq / coreq)
 │   ├── ku_program.csv              ← the 9 degrees, with total units
 │   ├── ku_program_requirement.csv  ← each degree as 32 slots: 4 a term, 8 terms
+│   ├── ku_room.csv                 ← 125 rooms in the 14 buildings that teach
+│   ├── ku_instructor.csv           ← 223 faculty, with rank, office and hire/departure years
+│   ├── ku_course_offering.csv      ← 3,864 sections: who teaches what, where, when
 │   ├── ku_building.csv             ← 48 campus buildings
 │   ├── ku_building_distance.csv    ← pairwise building distances in meters
 │   ├── ku_semester.csv             ← 15 semesters (Fall 2019 – Fall 2026)

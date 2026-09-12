@@ -6,6 +6,9 @@ DROP TABLE IF EXISTS student_enrollment;
 DROP TABLE IF EXISTS building_distance;
 DROP TABLE IF EXISTS student_address;
 DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS course_offering;
+DROP TABLE IF EXISTS room;
+DROP TABLE IF EXISTS instructor;
 DROP TABLE IF EXISTS program_requirement;
 DROP TABLE IF EXISTS program;
 DROP TABLE IF EXISTS course_prerequisite;
@@ -236,3 +239,56 @@ CREATE TABLE student_enrollment (
 CREATE INDEX ix_enrollment_student  ON student_enrollment(student_id);
 CREATE INDEX ix_enrollment_catnum   ON student_enrollment(catnum);
 CREATE INDEX ix_enrollment_semester ON student_enrollment(semester_id);
+
+
+-- Rooms inside the buildings that teach. In v1 the buildings were an island:
+-- nothing linked a course or a person to a place, so no spatial question could
+-- ever reach a student.
+CREATE TABLE room (
+  building_id       TEXT NOT NULL REFERENCES building(building_id),
+  room_number       TEXT NOT NULL,
+  room_type         TEXT,     -- lecture hall | classroom | teaching lab |
+                              -- computer lab | seminar room | auditorium
+  capacity          INTEGER,
+  PRIMARY KEY (building_id, room_number)
+);
+
+CREATE TABLE instructor (
+  instructor_id     INTEGER PRIMARY KEY,
+  first_name        TEXT NOT NULL,
+  last_name         TEXT NOT NULL,
+  email             TEXT,
+  cd_department     TEXT REFERENCES department(cd_department),
+  rank_title        TEXT,     -- Professor | Associate Professor | Assistant
+                              -- Professor | Senior Lecturer | Lecturer | Adjunct
+  hire_year         INTEGER,
+  end_year          INTEGER,  -- null while still teaching here
+  office_building_id TEXT REFERENCES building(building_id),
+  office_room       TEXT,
+  active_flag       INTEGER
+);
+
+CREATE INDEX ix_instructor_dept ON instructor(cd_department);
+CREATE INDEX ix_instructor_name ON instructor(last_name);
+
+-- A section of a course in one semester: who teaches it, where, when, how many
+-- seats. A student enrolls in one of these, not in the course in the abstract.
+CREATE TABLE course_offering (
+  offering_id       INTEGER PRIMARY KEY,
+  catnum            TEXT NOT NULL REFERENCES course_catalog(catnum),
+  semester_id       INTEGER NOT NULL REFERENCES semester(semester_id),
+  section_number    TEXT NOT NULL,
+  instructor_id     INTEGER REFERENCES instructor(instructor_id),
+  building_id       TEXT,
+  room_number       TEXT,
+  capacity          INTEGER,
+  meeting_days      TEXT,     -- MWF | TR | M | T | W | R | F
+  start_time        TEXT,     -- 24-hour, e.g. 09:30
+  end_time          TEXT,
+  FOREIGN KEY (building_id, room_number) REFERENCES room(building_id, room_number)
+);
+
+CREATE UNIQUE INDEX ix_offering_section ON course_offering(catnum, semester_id, section_number);
+CREATE INDEX ix_offering_semester ON course_offering(semester_id);
+CREATE INDEX ix_offering_instructor ON course_offering(instructor_id);
+CREATE INDEX ix_offering_room ON course_offering(building_id, room_number);

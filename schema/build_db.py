@@ -47,6 +47,9 @@ LOAD_PLAN = [
     ("course_catalog",   "ku_course_catalog.csv",  ["catnum","cd_major_minor","course_title","course_desc","course_type","units","course_level","active_flag"]),
     ("course_prerequisite","ku_course_prerequisite.csv",["catnum","prereq_catnum","requirement"]),
     ("program",          "ku_program.csv",         ["cd_major","degree_name","total_units","terms"]),
+    ("room",             "ku_room.csv",            ["building_id","room_number","room_type","capacity"]),
+    ("instructor",       "ku_instructor.csv",      ["instructor_id","first_name","last_name","email","cd_department","rank_title","hire_year","end_year","office_building_id","office_room","active_flag"]),
+    ("course_offering",  "ku_course_offering.csv", ["offering_id","catnum","semester_id","section_number","instructor_id","building_id","room_number","capacity","meeting_days","start_time","end_time"]),
     ("program_requirement","ku_program_requirement.csv",["cd_major","term","slot","requirement_type","requirement_block","catnum","pool_kind","pool_min_level","units"]),
     ("student",          "ku_student.csv",         ["student_id","first_name","last_name","email","school_email","gender","dob","class_year","grad_year","cd_ethnicity","cd_major","cd_minor","campus_phone","cell_phone","student_photo","active_flag"]),
     ("student_address",  "ku_student_address.csv", ["student_id","address_1","address_2","city","cd_state","province","zip_code","postal_code","cd_country","active_flag"]),
@@ -116,6 +119,7 @@ def _is_int_column(table: str, col: str) -> bool:
         "class_year","grad_year","cd_building_type","fips","census_region","census_division","circuit_court",
         "semester_id","academic_year_start","academic_year_end","units","student_id","cd_grade",
         "course_level","offers_major","term","slot","pool_min_level","total_units","terms",
+        "capacity","instructor_id","hire_year","end_year","offering_id",
     }
     return col in INT_COLS
 

@@ -139,10 +139,31 @@ Each major's plan is checked: 4 slots a term, and no named course scheduled befo
 depends on. Elective pools run from 13 courses (Chemical) to 51 (Electrical) for 6 slots, so two
 students in a major graduate with different transcripts.
 
-**`instructor` / `course_offering`** — which courses actually ran in a given semester, who taught
-each one, in which building and room, with a seat capacity. This is also what finally connects
-`building` to a person: in v1 the buildings were an island, so no spatial question could ever
-reach a student.
+**`room`, `instructor`, `course_offering`** — Stage C, and the point where the buildings stop
+being an island. In v1 nothing linked a course or a person to a place, so no spatial question could
+ever reach a student.
+
+- **`room`** — 125 rooms in the 14 buildings that teach: lecture halls, classrooms, teaching labs,
+  computer labs, seminar rooms and two auditoriums, each with a capacity.
+- **`instructor`** — 223 faculty across all 15 departments, with rank (professor through adjunct),
+  an office in their department's building, and a teaching load that depends on rank. **Hire and
+  departure years run across the window**: 26 arrive after 2019 and 37 leave before 2026, so the
+  faculty of 2019 is visibly not the faculty of 2026. The base faculty of each department is sized
+  to its busiest term and stays for the whole window, so no term is ever short-staffed.
+- **`course_offering`** — 3,864 sections across the 15 semesters, about 258 a term. Each carries a
+  section number, an instructor, a room, a seat capacity, and a meeting pattern: MWF 50-minute
+  slots, TR 75-minute slots, three-hour lab blocks, and evening slots for independent study.
+
+**Rotation.** The spine runs every term: foundation courses, and each major's required courses and
+labs. Senior Design I is a fall course and Senior Design II a spring one. Mid-level electives run
+once a year, a quarter of the senior electives every other year, and an elective with fewer than
+five likely takers does not run at all.
+
+**What the timetable guarantees.** No room is double-booked, no instructor is double-booked, no
+section exceeds its room's capacity, no one teaches outside their own department, and nobody
+teaches in a year they were not employed. All five are checked after every build. Together with
+`building_distance` this makes walk-time answerable: an instructor with ten minutes to get from
+Kuromaku Hall to the Hollister Building has 498 metres to cover.
 
 ## History
 
@@ -161,7 +182,7 @@ no offering that year.
 |---|---|---|
 | A | Departments and the rebuilt, renumbered catalog with the foundation layer | **done** — 318 courses, 15 departments, 351 prerequisite rows, 68 courses newly written |
 | B | Prerequisites and degree plans | **done** — 9 programs, 288 requirement rows, 118–122 units each |
-| C | Instructors and course offerings | |
+| C | Instructors and course offerings | **done** — 125 rooms, 223 instructors, 3,864 offerings, no clashes |
 | D | Alumni cohorts, and the transcript generator that walks the degree plans | |
 
 Each stage rebuilds `~/Kuromaku-U/db/kuromaku_u_v2.db` in place so it can be read in RazorSQL

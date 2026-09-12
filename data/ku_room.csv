@@ -1,0 +1,126 @@
+﻿building_id,room_number,room_type,capacity
+KUROMAKUH,101,lecture hall,120
+KUROMAKUH,102,classroom,40
+KUROMAKUH,103,classroom,40
+KUROMAKUH,104,classroom,32
+KUROMAKUH,105,classroom,28
+KUROMAKUH,106,classroom,32
+KUROMAKUH,201,teaching lab,24
+KUROMAKUH,202,teaching lab,20
+KUROMAKUH,203,teaching lab,20
+KUROMAKUE,101,auditorium,150
+KUROMAKUE,102,auditorium,150
+GERBERHAL,101,lecture hall,120
+GERBERHAL,102,classroom,40
+GERBERHAL,103,classroom,28
+GERBERHAL,104,classroom,40
+GERBERHAL,105,classroom,36
+GERBERHAL,106,classroom,40
+GERBERHAL,201,classroom,36
+GERBERHAL,202,classroom,40
+GERBERHAL,203,teaching lab,20
+GERBERHAL,204,teaching lab,24
+GERBERHAL,205,teaching lab,16
+GERBERHAL,206,teaching lab,20
+HOLLISTER,101,lecture hall,80
+HOLLISTER,102,classroom,28
+HOLLISTER,103,classroom,28
+HOLLISTER,104,classroom,40
+HOLLISTER,105,classroom,36
+HOLLISTER,106,classroom,36
+HOLLISTER,201,classroom,28
+HOLLISTER,202,classroom,36
+HOLLISTER,203,teaching lab,20
+HOLLISTER,204,teaching lab,24
+HOLLISTER,205,teaching lab,20
+HOLLISTER,206,teaching lab,20
+HORNLIBRA,101,seminar room,16
+HORNLIBRA,102,seminar room,16
+HORNLIBRA,103,seminar room,12
+HORNLIBRA,104,seminar room,12
+HORNCOMPU,101,computer lab,28
+HORNCOMPU,102,computer lab,28
+HORNCOMPU,103,computer lab,24
+HORNCOMPU,104,computer lab,24
+HORNCOMPU,105,computer lab,24
+HORNCOMPU,106,computer lab,28
+KEITHHALL,101,lecture hall,100
+KEITHHALL,102,classroom,40
+KEITHHALL,103,classroom,28
+KEITHHALL,104,classroom,40
+KEITHHALL,105,classroom,32
+KEITHHALL,106,classroom,36
+KEITHHALL,201,classroom,36
+KEITHHALL,202,classroom,40
+KEITHHALL,203,teaching lab,16
+KEITHHALL,204,teaching lab,20
+KEITHHALL,205,teaching lab,16
+KNIGHTAUD,101,auditorium,150
+KNIGHTAUD,102,auditorium,250
+KRIEBELHA,101,lecture hall,120
+KRIEBELHA,102,classroom,40
+KRIEBELHA,103,classroom,28
+KRIEBELHA,104,classroom,36
+KRIEBELHA,105,classroom,36
+KRIEBELHA,106,classroom,40
+KRIEBELHA,201,classroom,32
+KRIEBELHA,202,classroom,32
+KRIEBELHA,203,teaching lab,24
+KRIEBELHA,204,teaching lab,20
+KRIEBELHA,205,teaching lab,20
+KRIEBELHA,206,teaching lab,16
+LUKSICHAL,101,lecture hall,100
+LUKSICHAL,102,classroom,36
+LUKSICHAL,103,classroom,40
+LUKSICHAL,104,classroom,28
+LUKSICHAL,105,classroom,36
+LUKSICHAL,106,classroom,40
+LUKSICHAL,201,classroom,28
+LUKSICHAL,202,classroom,28
+LUKSICHAL,203,teaching lab,24
+LUKSICHAL,204,teaching lab,20
+LUKSICHAL,205,teaching lab,24
+MUSTARDHA,101,lecture hall,80
+MUSTARDHA,102,classroom,36
+MUSTARDHA,103,classroom,36
+MUSTARDHA,104,classroom,28
+MUSTARDHA,105,classroom,32
+MUSTARDHA,106,classroom,40
+MUSTARDHA,201,classroom,36
+MUSTARDHA,202,classroom,32
+MUSTARDHA,203,teaching lab,16
+MUSTARDHA,204,teaching lab,20
+MALLOYHAL,101,lecture hall,100
+MALLOYHAL,102,classroom,36
+MALLOYHAL,103,classroom,40
+MALLOYHAL,104,classroom,36
+MALLOYHAL,105,classroom,40
+MALLOYHAL,106,classroom,40
+MALLOYHAL,201,classroom,28
+MALLOYHAL,202,teaching lab,24
+MALLOYHAL,203,teaching lab,16
+MALLOYHAL,204,teaching lab,24
+MALLOYHAL,205,teaching lab,16
+SULLIVANB,101,lecture hall,100
+SULLIVANB,102,classroom,32
+SULLIVANB,103,classroom,32
+SULLIVANB,104,classroom,36
+SULLIVANB,105,classroom,36
+SULLIVANB,106,classroom,32
+SULLIVANB,201,classroom,28
+SULLIVANB,202,classroom,32
+SULLIVANB,203,teaching lab,20
+SULLIVANB,204,teaching lab,16
+SULLIVANB,205,teaching lab,20
+SULLIVANB,206,teaching lab,20
+WESTGATEH,101,lecture hall,120
+WESTGATEH,102,classroom,40
+WESTGATEH,103,classroom,28
+WESTGATEH,104,classroom,36
+WESTGATEH,105,classroom,32
+WESTGATEH,106,classroom,40
+WESTGATEH,201,classroom,28
+WESTGATEH,202,teaching lab,16
+WESTGATEH,203,teaching lab,16
+WESTGATEH,204,teaching lab,24
+WESTGATEH,205,teaching lab,20
