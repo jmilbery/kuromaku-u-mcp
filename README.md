@@ -25,8 +25,8 @@ kuromaku-u/
 │   ├── ku_program.csv              ← the 9 degrees, with total units
 │   ├── ku_program_requirement.csv  ← each degree as 32 slots: 4 a term, 8 terms
 │   ├── ku_room.csv                 ← 125 rooms in the 14 buildings that teach
-│   ├── ku_instructor.csv           ← 223 faculty, with rank, office and hire/departure years
-│   ├── ku_course_offering.csv      ← 3,864 sections: who teaches what, where, when
+│   ├── ku_instructor.csv           ← 184 faculty, with rank, office and hire/departure years
+│   ├── ku_course_offering.csv      ← 3,562 sections: who teaches what, where, when
 │   ├── ku_building.csv             ← 48 campus buildings
 │   ├── ku_building_distance.csv    ← pairwise building distances in meters
 │   ├── ku_semester.csv             ← 15 semesters (Fall 2019 – Fall 2026)

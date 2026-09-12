@@ -145,12 +145,12 @@ ever reach a student.
 
 - **`room`** — 125 rooms in the 14 buildings that teach: lecture halls, classrooms, teaching labs,
   computer labs, seminar rooms and two auditoriums, each with a capacity.
-- **`instructor`** — 223 faculty across all 15 departments, with rank (professor through adjunct),
+- **`instructor`** — 184 faculty across all 15 departments, with rank (professor through adjunct),
   an office in their department's building, and a teaching load that depends on rank. **Hire and
   departure years run across the window**: 26 arrive after 2019 and 37 leave before 2026, so the
   faculty of 2019 is visibly not the faculty of 2026. The base faculty of each department is sized
   to its busiest term and stays for the whole window, so no term is ever short-staffed.
-- **`course_offering`** — 3,864 sections across the 15 semesters, about 258 a term. Each carries a
+- **`course_offering`** — 3,562 sections across the 15 semesters, about 237 a term. Each carries a
   section number, an instructor, a room, a seat capacity, and a meeting pattern: MWF 50-minute
   slots, TR 75-minute slots, three-hour lab blocks, and evening slots for independent study.
 
@@ -182,7 +182,7 @@ no offering that year.
 |---|---|---|
 | A | Departments and the rebuilt, renumbered catalog with the foundation layer | **done** — 318 courses, 15 departments, 351 prerequisite rows, 68 courses newly written |
 | B | Prerequisites and degree plans | **done** — 9 programs, 288 requirement rows, 118–122 units each |
-| C | Instructors and course offerings | **done** — 125 rooms, 223 instructors, 3,864 offerings, no clashes |
+| C | Instructors and course offerings | **done** — 125 rooms, 184 instructors, 3,562 offerings, no clashes |
 | D | Alumni cohorts, and the transcript generator that walks the degree plans | |
 
 Each stage rebuilds `~/Kuromaku-U/db/kuromaku_u_v2.db` in place so it can be read in RazorSQL
