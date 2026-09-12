@@ -6,7 +6,9 @@ DROP TABLE IF EXISTS student_enrollment;
 DROP TABLE IF EXISTS building_distance;
 DROP TABLE IF EXISTS student_address;
 DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS course_prerequisite;
 DROP TABLE IF EXISTS course_catalog;
+DROP TABLE IF EXISTS department;
 DROP TABLE IF EXISTS semester;
 DROP TABLE IF EXISTS building;
 DROP TABLE IF EXISTS class_year;
@@ -103,14 +105,42 @@ CREATE TABLE semester (
   is_current           INTEGER NOT NULL
 );
 
+-- Departments that own courses. In v1 the catalog's department code pointed at
+-- cd_major, so the eight CORE courses were the database's only orphaned key —
+-- and the foundation subjects (math, physics, chemistry, humanities) had nowhere
+-- to live, because they aren't majors.
+CREATE TABLE department (
+  cd_department     TEXT PRIMARY KEY,
+  catnum_prefix     TEXT NOT NULL,
+  name_department   TEXT NOT NULL,
+  dept_kind         TEXT,     -- engineering | foundation | general education
+  offers_major      INTEGER,  -- 1 if a student can major in it
+  sort_order        REAL
+);
+
 CREATE TABLE course_catalog (
   catnum            TEXT PRIMARY KEY,
-  cd_major_minor    TEXT,
+  cd_major_minor    TEXT REFERENCES department(cd_department),
   course_title      TEXT,
   course_desc       TEXT,
   course_type       TEXT,
   units             INTEGER,
+  course_level      INTEGER,  -- 1-4: the year the course is pitched at, and the
+                              -- first digit of catnum. In v1 the level was
+                              -- arbitrary and the numbering alphabetical.
   active_flag       INTEGER
+);
+
+CREATE INDEX ix_course_catalog_dept  ON course_catalog(cd_major_minor);
+CREATE INDEX ix_course_catalog_level ON course_catalog(course_level);
+
+-- What a student must have taken before (or alongside) a course. A lab is a
+-- coreq of its lecture; everything else is a prereq.
+CREATE TABLE course_prerequisite (
+  catnum            TEXT NOT NULL REFERENCES course_catalog(catnum),
+  prereq_catnum     TEXT NOT NULL REFERENCES course_catalog(catnum),
+  requirement       TEXT NOT NULL,   -- prereq | coreq
+  PRIMARY KEY (catnum, prereq_catnum)
 );
 
 CREATE TABLE student (

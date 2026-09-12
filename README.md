@@ -2,7 +2,7 @@
 
 A sample relational dataset and reference MCP server for the **PE TechCast — AI 'Splaining** series.
 
-Kuromaku U is a fictional engineering university with 1,000 students, 303 courses, 48 buildings, four class years, fifteen semesters, and a fully-articulated code-table hierarchy (majors, minors, ethnicities, countries, states, grades). Everything in this repo is synthetic — no real students, no real data — which makes it safe to ship, clone, fork, and demo against.
+Kuromaku U is a fictional engineering university with 1,000 students, 318 courses across 15 departments, 48 buildings, four class years, fifteen semesters, and a fully-articulated code-table hierarchy (majors, minors, ethnicities, countries, states, grades). Everything in this repo is synthetic — no real students, no real data — which makes it safe to ship, clone, fork, and demo against.
 
 This repo is the **recurring demo universe** for every episode of the AI series. Today it backs the MCP Part 2 episode; over the rest of the series it will support Fine-Tuning, AI Agents, Context Engineering, Multimodal, Reasoning Models, and beyond.
 
@@ -17,9 +17,11 @@ kuromaku-u/
 ├── README.md                       ← you are here
 ├── LICENSE                         ← MIT
 ├── pyproject.toml                  ← Python deps (just `mcp`)
-├── data/                           ← 14 CSVs — the canonical source of truth
+├── data/                           ← 16 CSVs — the canonical source of truth
 │   ├── ku_student.csv              ← 1,000 students with names, majors, photos
-│   ├── ku_course_catalog.csv       ← 303 courses across 10 majors
+│   ├── ku_course_catalog.csv       ← 318 courses, numbered by level (1000–4000)
+│   ├── ku_department.csv           ← 15 departments — 9 that grant majors, 6 foundation/gen-ed
+│   ├── ku_course_prerequisite.csv  ← what comes before what (prereq / coreq)
 │   ├── ku_building.csv             ← 48 campus buildings
 │   ├── ku_building_distance.csv    ← pairwise building distances in meters
 │   ├── ku_semester.csv             ← 15 semesters (Fall 2019 – Fall 2026)
@@ -61,7 +63,7 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -e . && python schema/build_db.py
 ```
 
-That builds `kuromaku_u.db` (a single SQLite file, ~1.8 MB) with the 14 source tables — `ku_semester.csv` now carries the full timeline through Fall 2026 itself, rather than having recent semesters appended in code — and a deterministically-generated `student_enrollment` table (seed `1729`, 15,472 rows).
+That builds `kuromaku_u.db` (a single SQLite file, ~1.8 MB) with the 16 source tables — `ku_semester.csv` now carries the full timeline through Fall 2026 itself, rather than having recent semesters appended in code — and a deterministically-generated `student_enrollment` table (seed `1729`, 15,472 rows).
 
 To run the MCP server:
 
