@@ -6,6 +6,8 @@ DROP TABLE IF EXISTS student_enrollment;
 DROP TABLE IF EXISTS building_distance;
 DROP TABLE IF EXISTS student_address;
 DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS program_requirement;
+DROP TABLE IF EXISTS program;
 DROP TABLE IF EXISTS course_prerequisite;
 DROP TABLE IF EXISTS course_catalog;
 DROP TABLE IF EXISTS department;
@@ -133,6 +135,33 @@ CREATE TABLE course_catalog (
 
 CREATE INDEX ix_course_catalog_dept  ON course_catalog(cd_major_minor);
 CREATE INDEX ix_course_catalog_level ON course_catalog(course_level);
+
+-- The degree each major grants, and the plan that gets a student there.
+CREATE TABLE program (
+  cd_major          TEXT PRIMARY KEY REFERENCES cd_major(cd_major),
+  degree_name       TEXT NOT NULL,
+  total_units       INTEGER,
+  terms             INTEGER
+);
+
+-- One row per slot in the plan: 4 a term, 8 terms, 32 slots. A slot is either a
+-- named course or an elective drawn from a pool. This is what the enrollment
+-- generator walks, instead of picking courses at random the way v1 did.
+CREATE TABLE program_requirement (
+  cd_major          TEXT NOT NULL REFERENCES program(cd_major),
+  term              INTEGER NOT NULL,   -- 1-8
+  slot              INTEGER NOT NULL,   -- 1-4 within the term
+  requirement_type  TEXT NOT NULL,      -- COURSE | ELECTIVE
+  requirement_block TEXT NOT NULL,      -- engineering core | math and science |
+                                        -- general education | major | major elective
+  catnum            TEXT REFERENCES course_catalog(catnum),  -- COURSE only
+  pool_kind         TEXT,               -- ELECTIVE only: gened | major_elective
+  pool_min_level    INTEGER,
+  units             INTEGER,
+  PRIMARY KEY (cd_major, term, slot)
+);
+
+CREATE INDEX ix_program_requirement_catnum ON program_requirement(catnum);
 
 -- What a student must have taken before (or alongside) a course. A lab is a
 -- coreq of its lecture; everything else is a prereq.

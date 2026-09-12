@@ -123,6 +123,22 @@ survive inspection.
 course or an elective rule (a pool: department, minimum level, how many), with the term it's
 normally taken. The enrollment generator walks this instead of drawing at random.
 
+Stage B built the plans and, in doing so, found prerequisite edges no four-year plan could satisfy.
+**Eleven were dropped**, each logged:
+
+- **Ten cases of a required course depending on an elective** (AERO-4005 on AERO-3025, MATL-3010 on
+  MATL-3025 and MATL-3040, NUCL-3015 on NUCL-3025, and so on). If the spine needs it, it isn't an
+  elective — and no plan can promise a pool course.
+- **`CHEM-3015` Reactor Engineering waiting on `CHEM-3005` Unit Operations II**, which made
+  Chemical's spine five deep and pushed the capstone past graduation. It keeps Thermodynamics, the
+  prerequisite that matters, and Senior Design keeps Reactor Engineering.
+- Plus one first-year edge: Engineering Graphics no longer waits on Introduction to Engineering,
+  since Manufacturing needs graphics in term 1.
+
+Each major's plan is checked: 4 slots a term, and no named course scheduled before anything it
+depends on. Elective pools run from 13 courses (Chemical) to 51 (Electrical) for 6 slots, so two
+students in a major graduate with different transcripts.
+
 **`instructor` / `course_offering`** — which courses actually ran in a given semester, who taught
 each one, in which building and room, with a seat capacity. This is also what finally connects
 `building` to a person: in v1 the buildings were an island, so no spatial question could ever
@@ -144,7 +160,7 @@ no offering that year.
 | Stage | What lands | Status |
 |---|---|---|
 | A | Departments and the rebuilt, renumbered catalog with the foundation layer | **done** — 318 courses, 15 departments, 351 prerequisite rows, 68 courses newly written |
-| B | Prerequisites and degree plans | next |
+| B | Prerequisites and degree plans | **done** — 9 programs, 288 requirement rows, 118–122 units each |
 | C | Instructors and course offerings | |
 | D | Alumni cohorts, and the transcript generator that walks the degree plans | |
 

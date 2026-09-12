@@ -1,0 +1,289 @@
+﻿cd_major,term,slot,requirement_type,requirement_block,catnum,pool_kind,pool_min_level,units
+AER,1,1,COURSE,math and science,CHMY-1005,,,4
+AER,1,2,COURSE,engineering core,ENGR-1005,,,4
+AER,1,3,COURSE,general education,HUMN-1005,,,4
+AER,1,4,COURSE,math and science,MATH-1005,,,4
+AER,2,1,COURSE,engineering core,ENGR-1010,,,4
+AER,2,2,COURSE,math and science,MATH-1010,,,4
+AER,2,3,COURSE,math and science,PHYS-1005,,,4
+AER,2,4,COURSE,math and science,PHYS-1010,,,2
+AER,3,1,COURSE,major,AERO-1005,,,4
+AER,3,2,COURSE,engineering core,ENGR-2005,,,4
+AER,3,3,COURSE,math and science,MATH-2015,,,4
+AER,3,4,COURSE,math and science,PHYS-1015,,,4
+AER,4,1,COURSE,major,AERO-1010,,,4
+AER,4,2,COURSE,major,AERO-1015,,,2
+AER,4,3,COURSE,major,AERO-2015,,,4
+AER,4,4,COURSE,math and science,MATH-2005,,,4
+AER,5,1,COURSE,major,AERO-2005,,,4
+AER,5,2,COURSE,major,AERO-2010,,,2
+AER,5,3,ELECTIVE,general education,,gened,1,4
+AER,5,4,ELECTIVE,general education,,gened,1,4
+AER,6,1,COURSE,major,AERO-2020,,,4
+AER,6,2,COURSE,major,AERO-3005,,,4
+AER,6,3,ELECTIVE,general education,,gened,1,4
+AER,6,4,ELECTIVE,general education,,gened,1,4
+AER,7,1,COURSE,major,AERO-4005,,,4
+AER,7,2,ELECTIVE,major elective,,major_elective,3,4
+AER,7,3,ELECTIVE,major elective,,major_elective,3,4
+AER,7,4,ELECTIVE,major elective,,major_elective,3,4
+AER,8,1,COURSE,major,AERO-4010,,,4
+AER,8,2,ELECTIVE,major elective,,major_elective,3,4
+AER,8,3,ELECTIVE,major elective,,major_elective,3,4
+AER,8,4,ELECTIVE,major elective,,major_elective,3,4
+CHE,1,1,COURSE,math and science,CHMY-1005,,,4
+CHE,1,2,COURSE,engineering core,ENGR-1005,,,4
+CHE,1,3,COURSE,general education,HUMN-1005,,,4
+CHE,1,4,COURSE,math and science,MATH-1005,,,4
+CHE,2,1,COURSE,math and science,CHMY-1015,,,4
+CHE,2,2,COURSE,engineering core,ENGR-1010,,,4
+CHE,2,3,COURSE,math and science,MATH-1010,,,4
+CHE,2,4,COURSE,math and science,PHYS-1005,,,4
+CHE,3,1,COURSE,major,CHEM-2010,,,4
+CHE,3,2,COURSE,math and science,MATH-2015,,,4
+CHE,3,3,COURSE,math and science,PHYS-1010,,,2
+CHE,3,4,COURSE,math and science,PHYS-1015,,,4
+CHE,4,1,COURSE,major,CHEM-1005,,,4
+CHE,4,2,COURSE,major,CHEM-2005,,,4
+CHE,4,3,COURSE,major,CHEM-3015,,,4
+CHE,4,4,ELECTIVE,general education,,gened,1,4
+CHE,5,1,COURSE,major,CHEM-2015,,,4
+CHE,5,2,COURSE,major,CHEM-2020,,,2
+CHE,5,3,ELECTIVE,general education,,gened,1,4
+CHE,5,4,ELECTIVE,general education,,gened,1,4
+CHE,6,1,COURSE,major,CHEM-3005,,,4
+CHE,6,2,COURSE,major,CHEM-3010,,,2
+CHE,6,3,ELECTIVE,general education,,gened,1,4
+CHE,6,4,ELECTIVE,major elective,,major_elective,3,4
+CHE,7,1,COURSE,major,CHEM-4005,,,4
+CHE,7,2,COURSE,engineering core,ENGR-3005,,,4
+CHE,7,3,ELECTIVE,major elective,,major_elective,3,4
+CHE,7,4,ELECTIVE,major elective,,major_elective,3,4
+CHE,8,1,COURSE,major,CHEM-4010,,,4
+CHE,8,2,ELECTIVE,major elective,,major_elective,3,4
+CHE,8,3,ELECTIVE,major elective,,major_elective,3,4
+CHE,8,4,ELECTIVE,major elective,,major_elective,3,4
+CIV,1,1,COURSE,math and science,CHMY-1005,,,4
+CIV,1,2,COURSE,engineering core,ENGR-1005,,,4
+CIV,1,3,COURSE,general education,HUMN-1005,,,4
+CIV,1,4,COURSE,math and science,MATH-1005,,,4
+CIV,2,1,COURSE,engineering core,ENGR-1010,,,4
+CIV,2,2,COURSE,math and science,MATH-1010,,,4
+CIV,2,3,COURSE,math and science,PHYS-1005,,,4
+CIV,2,4,COURSE,math and science,PHYS-1010,,,2
+CIV,3,1,COURSE,major,CIVL-1005,,,4
+CIV,3,2,COURSE,engineering core,ENGR-2005,,,4
+CIV,3,3,COURSE,math and science,MATH-2015,,,4
+CIV,3,4,COURSE,math and science,PHYS-1015,,,4
+CIV,4,1,COURSE,major,CIVL-1010,,,4
+CIV,4,2,COURSE,major,CIVL-1015,,,2
+CIV,4,3,COURSE,major,CIVL-2005,,,4
+CIV,4,4,COURSE,math and science,MATH-3005,,,4
+CIV,5,1,COURSE,major,CIVL-2010,,,4
+CIV,5,2,COURSE,major,CIVL-2015,,,4
+CIV,5,3,COURSE,major,CIVL-3005,,,4
+CIV,5,4,COURSE,major,CIVL-3010,,,2
+CIV,6,1,ELECTIVE,general education,,gened,1,4
+CIV,6,2,ELECTIVE,general education,,gened,1,4
+CIV,6,3,ELECTIVE,general education,,gened,1,4
+CIV,6,4,ELECTIVE,general education,,gened,1,4
+CIV,7,1,COURSE,major,CIVL-4005,,,4
+CIV,7,2,ELECTIVE,major elective,,major_elective,3,4
+CIV,7,3,ELECTIVE,major elective,,major_elective,3,4
+CIV,7,4,ELECTIVE,major elective,,major_elective,3,4
+CIV,8,1,COURSE,major,CIVL-4010,,,4
+CIV,8,2,ELECTIVE,major elective,,major_elective,3,4
+CIV,8,3,ELECTIVE,major elective,,major_elective,3,4
+CIV,8,4,ELECTIVE,major elective,,major_elective,3,4
+COM,1,1,COURSE,math and science,CHMY-1005,,,4
+COM,1,2,COURSE,engineering core,ENGR-1005,,,4
+COM,1,3,COURSE,general education,HUMN-1005,,,4
+COM,1,4,COURSE,math and science,MATH-1005,,,4
+COM,2,1,COURSE,engineering core,ENGR-1010,,,4
+COM,2,2,COURSE,math and science,MATH-1010,,,4
+COM,2,3,COURSE,math and science,PHYS-1005,,,4
+COM,2,4,COURSE,math and science,PHYS-1010,,,2
+COM,3,1,COURSE,major,COMP-1005,,,4
+COM,3,2,COURSE,major,COMP-1010,,,2
+COM,3,3,COURSE,math and science,MATH-2020,,,4
+COM,3,4,COURSE,math and science,PHYS-1015,,,4
+COM,4,1,COURSE,major,COMP-1015,,,4
+COM,4,2,COURSE,major,COMP-1020,,,2
+COM,4,3,COURSE,major,COMP-2005,,,4
+COM,4,4,COURSE,math and science,MATH-3005,,,4
+COM,5,1,COURSE,major,COMP-2010,,,4
+COM,5,2,COURSE,major,COMP-3010,,,4
+COM,5,3,ELECTIVE,general education,,gened,1,4
+COM,5,4,ELECTIVE,general education,,gened,1,4
+COM,6,1,COURSE,major,COMP-3005,,,4
+COM,6,2,ELECTIVE,general education,,gened,1,4
+COM,6,3,ELECTIVE,general education,,gened,1,4
+COM,6,4,ELECTIVE,major elective,,major_elective,3,4
+COM,7,1,COURSE,major,COMP-4005,,,2
+COM,7,2,COURSE,engineering core,ENGR-3005,,,4
+COM,7,3,ELECTIVE,major elective,,major_elective,3,4
+COM,7,4,ELECTIVE,major elective,,major_elective,3,4
+COM,8,1,COURSE,major,COMP-4010,,,2
+COM,8,2,ELECTIVE,major elective,,major_elective,3,4
+COM,8,3,ELECTIVE,major elective,,major_elective,3,4
+COM,8,4,ELECTIVE,major elective,,major_elective,3,4
+ENG,1,1,COURSE,math and science,CHMY-1005,,,4
+ENG,1,2,COURSE,engineering core,ENGR-1005,,,4
+ENG,1,3,COURSE,general education,HUMN-1005,,,4
+ENG,1,4,COURSE,math and science,MATH-1005,,,4
+ENG,2,1,COURSE,engineering core,ENGR-1010,,,4
+ENG,2,2,COURSE,math and science,MATH-1010,,,4
+ENG,2,3,COURSE,math and science,PHYS-1005,,,4
+ENG,2,4,COURSE,math and science,PHYS-1010,,,2
+ENG,3,1,COURSE,major,EENG-1015,,,4
+ENG,3,2,COURSE,math and science,MATH-2015,,,4
+ENG,3,3,COURSE,math and science,PHYS-1015,,,4
+ENG,3,4,ELECTIVE,general education,,gened,1,4
+ENG,4,1,COURSE,major,EENG-1005,,,4
+ENG,4,2,COURSE,major,EENG-1010,,,2
+ENG,4,3,COURSE,math and science,MATH-2005,,,4
+ENG,4,4,ELECTIVE,general education,,gened,1,4
+ENG,5,1,COURSE,major,EENG-2005,,,4
+ENG,5,2,COURSE,major,EENG-2010,,,2
+ENG,5,3,COURSE,major,EENG-2015,,,4
+ENG,5,4,COURSE,major,EENG-3010,,,4
+ENG,6,1,COURSE,major,EENG-3005,,,4
+ENG,6,2,ELECTIVE,general education,,gened,1,4
+ENG,6,3,ELECTIVE,general education,,gened,1,4
+ENG,6,4,ELECTIVE,major elective,,major_elective,3,4
+ENG,7,1,COURSE,major,EENG-4005,,,4
+ENG,7,2,COURSE,engineering core,ENGR-3005,,,4
+ENG,7,3,ELECTIVE,major elective,,major_elective,3,4
+ENG,7,4,ELECTIVE,major elective,,major_elective,3,4
+ENG,8,1,COURSE,major,EENG-4010,,,4
+ENG,8,2,ELECTIVE,major elective,,major_elective,3,4
+ENG,8,3,ELECTIVE,major elective,,major_elective,3,4
+ENG,8,4,ELECTIVE,major elective,,major_elective,3,4
+MAN,1,1,COURSE,engineering core,ENGR-1005,,,4
+MAN,1,2,COURSE,engineering core,ENGR-1015,,,4
+MAN,1,3,COURSE,general education,HUMN-1005,,,4
+MAN,1,4,COURSE,math and science,MATH-1005,,,4
+MAN,2,1,COURSE,engineering core,ENGR-1010,,,4
+MAN,2,2,COURSE,math and science,MATH-1010,,,4
+MAN,2,3,COURSE,math and science,PHYS-1005,,,4
+MAN,2,4,COURSE,math and science,PHYS-1010,,,2
+MAN,3,1,COURSE,math and science,CHMY-1005,,,4
+MAN,3,2,COURSE,major,MANU-1005,,,4
+MAN,3,3,COURSE,math and science,MATH-3005,,,4
+MAN,3,4,COURSE,math and science,PHYS-1015,,,4
+MAN,4,1,COURSE,major,MANU-1010,,,2
+MAN,4,2,COURSE,major,MANU-2005,,,4
+MAN,4,3,COURSE,major,MANU-2010,,,4
+MAN,4,4,COURSE,math and science,MATH-2015,,,4
+MAN,5,1,COURSE,major,MANU-2015,,,2
+MAN,5,2,COURSE,major,MANU-2020,,,4
+MAN,5,3,COURSE,major,MANU-3005,,,4
+MAN,5,4,COURSE,major,MANU-3010,,,4
+MAN,6,1,ELECTIVE,general education,,gened,1,4
+MAN,6,2,ELECTIVE,general education,,gened,1,4
+MAN,6,3,ELECTIVE,general education,,gened,1,4
+MAN,6,4,ELECTIVE,general education,,gened,1,4
+MAN,7,1,COURSE,major,MANU-4005,,,4
+MAN,7,2,ELECTIVE,major elective,,major_elective,3,4
+MAN,7,3,ELECTIVE,major elective,,major_elective,3,4
+MAN,7,4,ELECTIVE,major elective,,major_elective,3,4
+MAN,8,1,COURSE,major,MANU-4010,,,4
+MAN,8,2,ELECTIVE,major elective,,major_elective,3,4
+MAN,8,3,ELECTIVE,major elective,,major_elective,3,4
+MAN,8,4,ELECTIVE,major elective,,major_elective,3,4
+MAT,1,1,COURSE,math and science,CHMY-1005,,,4
+MAT,1,2,COURSE,engineering core,ENGR-1005,,,4
+MAT,1,3,COURSE,general education,HUMN-1005,,,4
+MAT,1,4,COURSE,math and science,MATH-1005,,,4
+MAT,2,1,COURSE,engineering core,ENGR-1010,,,4
+MAT,2,2,COURSE,math and science,MATH-1010,,,4
+MAT,2,3,COURSE,math and science,PHYS-1005,,,4
+MAT,2,4,COURSE,math and science,PHYS-1010,,,2
+MAT,3,1,COURSE,math and science,CHMY-1015,,,4
+MAT,3,2,COURSE,engineering core,ENGR-2005,,,4
+MAT,3,3,COURSE,major,MATL-3010,,,4
+MAT,3,4,COURSE,math and science,PHYS-1015,,,4
+MAT,4,1,COURSE,major,MATL-1005,,,4
+MAT,4,2,COURSE,major,MATL-1010,,,4
+MAT,4,3,COURSE,major,MATL-3005,,,2
+MAT,4,4,COURSE,math and science,PHYS-2005,,,4
+MAT,5,1,COURSE,major,MATL-2005,,,4
+MAT,5,2,COURSE,major,MATL-3015,,,2
+MAT,5,3,ELECTIVE,general education,,gened,1,4
+MAT,5,4,ELECTIVE,general education,,gened,1,4
+MAT,6,1,COURSE,major,MATL-2010,,,4
+MAT,6,2,ELECTIVE,general education,,gened,1,4
+MAT,6,3,ELECTIVE,general education,,gened,1,4
+MAT,6,4,ELECTIVE,major elective,,major_elective,3,4
+MAT,7,1,COURSE,major,MATL-2015,,,4
+MAT,7,2,COURSE,major,MATL-4005,,,4
+MAT,7,3,ELECTIVE,major elective,,major_elective,3,4
+MAT,7,4,ELECTIVE,major elective,,major_elective,3,4
+MAT,8,1,COURSE,major,MATL-4010,,,4
+MAT,8,2,ELECTIVE,major elective,,major_elective,3,4
+MAT,8,3,ELECTIVE,major elective,,major_elective,3,4
+MAT,8,4,ELECTIVE,major elective,,major_elective,3,4
+MEC,1,1,COURSE,math and science,CHMY-1005,,,4
+MEC,1,2,COURSE,engineering core,ENGR-1005,,,4
+MEC,1,3,COURSE,general education,HUMN-1005,,,4
+MEC,1,4,COURSE,math and science,MATH-1005,,,4
+MEC,2,1,COURSE,engineering core,ENGR-1010,,,4
+MEC,2,2,COURSE,math and science,MATH-1010,,,4
+MEC,2,3,COURSE,math and science,PHYS-1005,,,4
+MEC,2,4,COURSE,math and science,PHYS-1010,,,2
+MEC,3,1,COURSE,engineering core,ENGR-2005,,,4
+MEC,3,2,COURSE,math and science,MATH-2015,,,4
+MEC,3,3,COURSE,major,MECH-2015,,,4
+MEC,3,4,COURSE,math and science,PHYS-1015,,,4
+MEC,4,1,COURSE,math and science,MATH-2005,,,4
+MEC,4,2,COURSE,major,MECH-2005,,,4
+MEC,4,3,COURSE,major,MECH-2010,,,4
+MEC,4,4,COURSE,major,MECH-3005,,,4
+MEC,5,1,COURSE,major,MECH-2020,,,4
+MEC,5,2,COURSE,major,MECH-2025,,,2
+MEC,5,3,COURSE,major,MECH-3010,,,2
+MEC,5,4,COURSE,major,MECH-3015,,,4
+MEC,6,1,ELECTIVE,general education,,gened,1,4
+MEC,6,2,ELECTIVE,general education,,gened,1,4
+MEC,6,3,ELECTIVE,general education,,gened,1,4
+MEC,6,4,ELECTIVE,general education,,gened,1,4
+MEC,7,1,COURSE,major,MECH-4005,,,4
+MEC,7,2,ELECTIVE,major elective,,major_elective,3,4
+MEC,7,3,ELECTIVE,major elective,,major_elective,3,4
+MEC,7,4,ELECTIVE,major elective,,major_elective,3,4
+MEC,8,1,COURSE,major,MECH-4010,,,4
+MEC,8,2,ELECTIVE,major elective,,major_elective,3,4
+MEC,8,3,ELECTIVE,major elective,,major_elective,3,4
+MEC,8,4,ELECTIVE,major elective,,major_elective,3,4
+NUC,1,1,COURSE,math and science,CHMY-1005,,,4
+NUC,1,2,COURSE,engineering core,ENGR-1005,,,4
+NUC,1,3,COURSE,general education,HUMN-1005,,,4
+NUC,1,4,COURSE,math and science,MATH-1005,,,4
+NUC,2,1,COURSE,engineering core,ENGR-1010,,,4
+NUC,2,2,COURSE,math and science,MATH-1010,,,4
+NUC,2,3,COURSE,math and science,PHYS-1005,,,4
+NUC,2,4,COURSE,math and science,PHYS-1010,,,2
+NUC,3,1,COURSE,engineering core,ENGR-2005,,,4
+NUC,3,2,COURSE,math and science,MATH-2015,,,4
+NUC,3,3,COURSE,major,NUCL-1005,,,4
+NUC,3,4,COURSE,math and science,PHYS-1015,,,4
+NUC,4,1,COURSE,major,NUCL-1010,,,4
+NUC,4,2,COURSE,major,NUCL-2010,,,4
+NUC,4,3,COURSE,major,NUCL-3015,,,2
+NUC,4,4,COURSE,math and science,PHYS-2005,,,4
+NUC,5,1,COURSE,major,NUCL-2005,,,4
+NUC,5,2,COURSE,major,NUCL-3010,,,4
+NUC,5,3,COURSE,major,NUCL-3020,,,2
+NUC,5,4,ELECTIVE,general education,,gened,1,4
+NUC,6,1,COURSE,major,NUCL-3005,,,4
+NUC,6,2,ELECTIVE,general education,,gened,1,4
+NUC,6,3,ELECTIVE,general education,,gened,1,4
+NUC,6,4,ELECTIVE,general education,,gened,1,4
+NUC,7,1,COURSE,major,NUCL-4005,,,4
+NUC,7,2,ELECTIVE,major elective,,major_elective,3,4
+NUC,7,3,ELECTIVE,major elective,,major_elective,3,4
+NUC,7,4,ELECTIVE,major elective,,major_elective,3,4
+NUC,8,1,COURSE,major,NUCL-4010,,,4
+NUC,8,2,ELECTIVE,major elective,,major_elective,3,4
+NUC,8,3,ELECTIVE,major elective,,major_elective,3,4
+NUC,8,4,ELECTIVE,major elective,,major_elective,3,4
