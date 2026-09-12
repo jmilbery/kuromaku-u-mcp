@@ -25,200 +25,211 @@
 5024,Simone,Villanueva,svillanueva@kuromaku-u.org,CHE,Professor,2007,,GERBERHAL,305,1
 5025,Nils,Villanueva,nvillanueva@kuromaku-u.org,CHE,Lecturer,2019,,GERBERHAL,314,1
 5026,Zachary,Sorensen,zsorensen@kuromaku-u.org,CHE,Assistant Professor,2014,,GERBERHAL,331,1
-5027,Ingrid,Ashworth,iashworth@kuromaku-u.org,CHE,Associate Professor,2023,,GERBERHAL,319,1
-5028,Chiara,Zieliński,czielinski@kuromaku-u.org,CHE,Associate Professor,2017,2022,GERBERHAL,326,0
-5029,Farid,Moreau,fmoreau@kuromaku-u.org,CHE,Assistant Professor,2007,2022,GERBERHAL,332,0
-5030,Beatrice,Zabala,bzabala@kuromaku-u.org,CHE,Assistant Professor,2020,,GERBERHAL,316,1
-5031,Rachel,Novotny,rnovotny@kuromaku-u.org,CHM,Professor,1998,,HOLLISTER,305,1
-5032,Linda,Hargrove,lhargrove@kuromaku-u.org,CHM,Professor,2015,,HOLLISTER,319,1
-5033,Emeka,Moreau,emoreau@kuromaku-u.org,CHM,Adjunct,1991,,HOLLISTER,328,1
-5034,Miriam,Ueda,mueda@kuromaku-u.org,CHM,Professor,1999,2025,HOLLISTER,306,0
-5035,Yusuf,Westbrook,ywestbrook@kuromaku-u.org,CHM,Associate Professor,2024,,HOLLISTER,328,1
-5036,Jacob,Ishikawa,jishikawa@kuromaku-u.org,CIV,Professor,2015,,KEITHHALL,311,1
-5037,Priya,Nakagawa,pnakagawa@kuromaku-u.org,CIV,Assistant Professor,1995,,KEITHHALL,336,1
-5038,Rachel,Ellington,rellington@kuromaku-u.org,CIV,Professor,1990,,KEITHHALL,331,1
-5039,Yusuf,Fontaine,yfontaine@kuromaku-u.org,CIV,Associate Professor,2019,,KEITHHALL,327,1
-5040,Vera,Novotny,vnovotny@kuromaku-u.org,CIV,Assistant Professor,2019,,KEITHHALL,310,1
-5041,Petra,Villanueva,pvillanueva@kuromaku-u.org,CIV,Adjunct,1994,,KEITHHALL,327,1
-5042,Priya,Gallagher,pgallagher@kuromaku-u.org,CIV,Adjunct,2014,,KEITHHALL,321,1
-5043,Viktor,Sandoval,vsandoval@kuromaku-u.org,CIV,Professor,2009,,KEITHHALL,306,1
-5044,Helena,Janowski,hjanowski@kuromaku-u.org,CIV,Senior Lecturer,2011,,KEITHHALL,324,1
-5045,Edward,Ibarra,eibarra@kuromaku-u.org,CIV,Lecturer,2004,,KEITHHALL,315,1
-5046,Emeka,Ishikawa,eishikawa@kuromaku-u.org,CIV,Senior Lecturer,2002,,KEITHHALL,326,1
-5047,Oliver,Rademacher,orademacher@kuromaku-u.org,CIV,Assistant Professor,2022,,KEITHHALL,309,1
-5048,Amara,Grimaldi,agrimaldi@kuromaku-u.org,CIV,Senior Lecturer,2016,2026,KEITHHALL,307,0
-5049,Simone,Lefevre,slefevre@kuromaku-u.org,CIV,Assistant Professor,2007,2023,KEITHHALL,319,0
-5050,Desmond,Yeung,dyeung@kuromaku-u.org,CIV,Senior Lecturer,2026,,KEITHHALL,326,1
-5051,Hiroshi,Sandoval,hsandoval@kuromaku-u.org,COM,Professor,1997,,KRIEBELHA,316,1
-5052,Karl,Marchetti,kmarchetti@kuromaku-u.org,COM,Senior Lecturer,1996,,KRIEBELHA,312,1
-5053,Amara,Cordova,acordova@kuromaku-u.org,COM,Lecturer,2016,,KRIEBELHA,330,1
-5054,Tomas,Quintero,tquintero@kuromaku-u.org,COM,Assistant Professor,2006,,KRIEBELHA,306,1
-5055,Jacob,Stavros,jstavros@kuromaku-u.org,COM,Assistant Professor,1995,,KRIEBELHA,312,1
-5056,Karl,Pruitt,kpruitt@kuromaku-u.org,COM,Professor,1994,,KRIEBELHA,305,1
-5057,Katya,Janowski,kjanowski@kuromaku-u.org,COM,Professor,2007,,KRIEBELHA,335,1
-5058,Bogdan,Stavros,bstavros@kuromaku-u.org,COM,Senior Lecturer,2013,,KRIEBELHA,303,1
-5059,Greta,Gallagher,ggallagher@kuromaku-u.org,COM,Associate Professor,2011,,KRIEBELHA,321,1
-5060,Leilani,Petrov,lpetrov@kuromaku-u.org,COM,Professor,2015,,KRIEBELHA,317,1
-5061,Edward,Ivanova,eivanova@kuromaku-u.org,COM,Lecturer,2006,,KRIEBELHA,340,1
-5062,Emeka,Underhill,eunderhill@kuromaku-u.org,COM,Professor,2001,,KRIEBELHA,318,1
-5063,Viktor,Petrov,vpetrov@kuromaku-u.org,COM,Professor,2018,2022,KRIEBELHA,310,0
-5064,Emeka,Castellano,ecastellano@kuromaku-u.org,COM,Professor,2006,2025,KRIEBELHA,307,0
-5065,Patricia,Rademacher,prademacher@kuromaku-u.org,COM,Assistant Professor,2024,,KRIEBELHA,306,1
-5066,Emeka,Kirkbride,ekirkbride@kuromaku-u.org,COM,Assistant Professor,1994,2023,KRIEBELHA,320,0
-5067,Amara,Pemberton,apemberton@kuromaku-u.org,COM,Professor,2023,,KRIEBELHA,316,1
-5068,Oliver,Gallagher,ogallagher@kuromaku-u.org,EGR,Assistant Professor,2006,,LUKSICHAL,317,1
-5069,Devika,Ibarra,dibarra@kuromaku-u.org,EGR,Professor,2009,,LUKSICHAL,323,1
-5070,Rachel,Castellano,rcastellano@kuromaku-u.org,EGR,Associate Professor,2012,,LUKSICHAL,316,1
-5071,Quentin,Ishikawa,qishikawa@kuromaku-u.org,EGR,Lecturer,1990,,LUKSICHAL,309,1
-5072,Viktor,Faulkner,vfaulkner@kuromaku-u.org,EGR,Senior Lecturer,1992,,LUKSICHAL,328,1
-5073,Wanda,Halloran,whalloran@kuromaku-u.org,EGR,Professor,2012,,LUKSICHAL,323,1
-5074,Zachary,Westbrook,zwestbrook@kuromaku-u.org,EGR,Lecturer,2014,,LUKSICHAL,332,1
-5075,Judith,Zabala,jzabala@kuromaku-u.org,EGR,Assistant Professor,2015,2025,LUKSICHAL,324,0
-5076,Tomas,Hargrove,thargrove@kuromaku-u.org,EGR,Lecturer,2022,,LUKSICHAL,325,1
-5077,Emeka,Zieliński,ezielinski@kuromaku-u.org,EGR,Senior Lecturer,2024,,LUKSICHAL,324,1
-5078,Rosa,Oyelaran,royelaran@kuromaku-u.org,ENG,Lecturer,2013,,MUSTARDHA,336,1
-5079,Rafael,Ivanova,rivanova@kuromaku-u.org,ENG,Lecturer,1992,,MUSTARDHA,321,1
-5080,Emeka,Delacroix,edelacroix@kuromaku-u.org,ENG,Associate Professor,1996,,MUSTARDHA,301,1
-5081,Oliver,Nyberg,onyberg@kuromaku-u.org,ENG,Senior Lecturer,1992,,MUSTARDHA,328,1
-5082,Edward,Thackeray,ethackeray@kuromaku-u.org,ENG,Lecturer,2001,,MUSTARDHA,316,1
-5083,Ingrid,Escobar,iescobar@kuromaku-u.org,ENG,Assistant Professor,2009,,MUSTARDHA,333,1
-5084,Ursula,Rademacher,urademacher@kuromaku-u.org,ENG,Professor,2000,,MUSTARDHA,314,1
-5085,Judith,Grimaldi,jgrimaldi@kuromaku-u.org,ENG,Associate Professor,2011,,MUSTARDHA,310,1
-5086,Nils,Stavros,nstavros@kuromaku-u.org,ENG,Assistant Professor,2012,,MUSTARDHA,323,1
-5087,Patricia,Eriksen,periksen@kuromaku-u.org,ENG,Senior Lecturer,2011,,MUSTARDHA,324,1
-5088,Chiara,Tanaka,ctanaka@kuromaku-u.org,ENG,Professor,1999,,MUSTARDHA,312,1
-5089,Dana,Hollis,dhollis@kuromaku-u.org,ENG,Associate Professor,2014,,MUSTARDHA,334,1
-5090,Gordon,Rasmussen,grasmussen@kuromaku-u.org,ENG,Associate Professor,2019,,MUSTARDHA,305,1
-5091,Sanjay,Ashworth,sashworth@kuromaku-u.org,ENG,Assistant Professor,2001,,MUSTARDHA,340,1
-5092,Zofia,Faulkner,zfaulkner@kuromaku-u.org,ENG,Professor,1989,,MUSTARDHA,318,1
-5093,Xiulan,Cordova,xcordova@kuromaku-u.org,ENG,Assistant Professor,2012,,MUSTARDHA,325,1
-5094,Rafael,Underhill,runderhill@kuromaku-u.org,ENG,Associate Professor,2014,2021,MUSTARDHA,306,0
-5095,Devika,Ishikawa,dishikawa@kuromaku-u.org,ENG,Professor,2021,,MUSTARDHA,307,1
-5096,Clara,Sandoval,csandoval@kuromaku-u.org,ENG,Adjunct,2024,,MUSTARDHA,322,1
-5097,Alan,Nakagawa,anakagawa@kuromaku-u.org,ENG,Associate Professor,2020,,MUSTARDHA,340,1
-5098,Leilani,Sandoval,lsandoval@kuromaku-u.org,ENG,Adjunct,2014,2022,MUSTARDHA,303,0
-5099,Jacob,Petrov,jpetrov@kuromaku-u.org,ENG,Adjunct,2014,2025,MUSTARDHA,327,0
-5100,Ingrid,Fontaine,ifontaine@kuromaku-u.org,HUM,Associate Professor,2005,,MALLOYHAL,314,1
-5101,Kenji,Grantham,kgrantham@kuromaku-u.org,HUM,Professor,2002,,MALLOYHAL,308,1
-5102,Martin,Ueda,mueda16@kuromaku-u.org,HUM,Associate Professor,2016,,MALLOYHAL,337,1
-5103,Rachel,Hollis,rhollis@kuromaku-u.org,HUM,Professor,2004,,MALLOYHAL,334,1
-5104,Patricia,Nyberg,pnyberg@kuromaku-u.org,HUM,Assistant Professor,2003,,MALLOYHAL,312,1
-5105,Amara,Novotny,anovotny@kuromaku-u.org,HUM,Adjunct,2005,,MALLOYHAL,331,1
-5106,Miriam,Mbeki,mmbeki@kuromaku-u.org,HUM,Senior Lecturer,2000,,MALLOYHAL,334,1
-5107,Quentin,Pemberton,qpemberton@kuromaku-u.org,HUM,Professor,2017,,MALLOYHAL,324,1
-5108,Lorenzo,Fairbanks,lfairbanks@kuromaku-u.org,HUM,Senior Lecturer,2016,,MALLOYHAL,307,1
-5109,Noor,Faulkner,nfaulkner@kuromaku-u.org,HUM,Assistant Professor,2004,,MALLOYHAL,332,1
-5110,Leilani,Westbrook,lwestbrook@kuromaku-u.org,HUM,Assistant Professor,2009,,MALLOYHAL,314,1
-5111,Sanjay,Thackeray,sthackeray@kuromaku-u.org,HUM,Associate Professor,1989,2021,MALLOYHAL,335,0
-5112,Ingrid,Underhill,iunderhill@kuromaku-u.org,HUM,Associate Professor,2018,2022,MALLOYHAL,333,0
-5113,Edward,Ashworth,eashworth@kuromaku-u.org,HUM,Adjunct,2020,,MALLOYHAL,301,1
-5114,Ingrid,Jarvis,ijarvis@kuromaku-u.org,HUM,Professor,2005,2023,MALLOYHAL,316,0
-5115,Hiroshi,Eriksen,heriksen@kuromaku-u.org,MAN,Assistant Professor,2008,,SULLIVANB,309,1
-5116,Emeka,Brennan,ebrennan@kuromaku-u.org,MAN,Assistant Professor,1989,,SULLIVANB,334,1
-5117,Lorenzo,Aldridge,laldridge@kuromaku-u.org,MAN,Associate Professor,2005,,SULLIVANB,304,1
-5118,Bogdan,Eriksen,beriksen@kuromaku-u.org,MAN,Senior Lecturer,2005,,SULLIVANB,337,1
-5119,Petra,Halloran,phalloran@kuromaku-u.org,MAN,Lecturer,1998,,SULLIVANB,315,1
-5120,Bogdan,Petrov,bpetrov@kuromaku-u.org,MAN,Lecturer,1994,,SULLIVANB,322,1
-5121,Yusuf,Hollis,yhollis@kuromaku-u.org,MAN,Senior Lecturer,2007,,SULLIVANB,340,1
-5122,Nils,Whitfield,nwhitfield@kuromaku-u.org,MAN,Associate Professor,2006,,SULLIVANB,304,1
-5123,Clara,Vasquez,cvasquez@kuromaku-u.org,MAN,Assistant Professor,2010,,SULLIVANB,339,1
-5124,Jacob,Zabala,jzabala35@kuromaku-u.org,MAN,Associate Professor,2012,,SULLIVANB,315,1
-5125,Kenji,Jarvis,kjarvis@kuromaku-u.org,MAN,Senior Lecturer,2004,2025,SULLIVANB,332,0
-5126,Farid,Westbrook,fwestbrook@kuromaku-u.org,MAN,Associate Professor,2010,2024,SULLIVANB,333,0
-5127,Desmond,Aldridge,daldridge@kuromaku-u.org,MAN,Senior Lecturer,2026,,SULLIVANB,307,1
-5128,Noor,Pruitt,npruitt@kuromaku-u.org,MAN,Senior Lecturer,1992,2024,SULLIVANB,317,0
-5129,Greta,Hollis,ghollis@kuromaku-u.org,MAT,Lecturer,2000,,WESTGATEH,336,1
-5130,Felix,Faulkner,ffaulkner@kuromaku-u.org,MAT,Associate Professor,2013,,WESTGATEH,326,1
-5131,Noor,Rasmussen,nrasmussen@kuromaku-u.org,MAT,Professor,2006,,WESTGATEH,301,1
-5132,Omar,Stavros,ostavros@kuromaku-u.org,MAT,Lecturer,2013,,WESTGATEH,314,1
-5133,Noor,Oyelaran,noyelaran@kuromaku-u.org,MAT,Professor,1993,,WESTGATEH,327,1
-5134,Helena,Belmonte,hbelmonte@kuromaku-u.org,MAT,Lecturer,2011,,WESTGATEH,322,1
-5135,Nadia,Brennan,nbrennan@kuromaku-u.org,MAT,Assistant Professor,2014,,WESTGATEH,339,1
-5136,Amara,Castellano,acastellano@kuromaku-u.org,MAT,Adjunct,1994,,WESTGATEH,330,1
-5137,Beatrice,Brennan,bbrennan@kuromaku-u.org,MAT,Associate Professor,1993,,WESTGATEH,318,1
-5138,Vera,Castellano,vcastellano@kuromaku-u.org,MAT,Assistant Professor,2012,,WESTGATEH,324,1
-5139,Vera,Oyelaran,voyelaran@kuromaku-u.org,MAT,Professor,2022,,WESTGATEH,309,1
-5140,Hugo,Oyelaran,hoyelaran@kuromaku-u.org,MAT,Senior Lecturer,2021,,WESTGATEH,313,1
-5141,Greta,Vasquez,gvasquez@kuromaku-u.org,MAT,Professor,2012,2024,WESTGATEH,306,0
-5142,Quentin,Jarvis,qjarvis@kuromaku-u.org,MAT,Professor,2022,,WESTGATEH,305,1
-5143,Irina,Delacroix,idelacroix@kuromaku-u.org,MEC,Assistant Professor,2001,,KUROMAKUH,321,1
-5144,Emeka,Marchetti,emarchetti@kuromaku-u.org,MEC,Associate Professor,2010,,KUROMAKUH,325,1
-5145,Noor,Brennan,nbrennan23@kuromaku-u.org,MEC,Senior Lecturer,2011,,KUROMAKUH,306,1
-5146,Ingrid,Barrow,ibarrow@kuromaku-u.org,MEC,Professor,2009,,KUROMAKUH,330,1
-5147,Yvonne,Okonkwo,yokonkwo@kuromaku-u.org,MEC,Professor,2019,,KUROMAKUH,304,1
-5148,Karl,Vogel,kvogel@kuromaku-u.org,MEC,Professor,2016,,KUROMAKUH,311,1
-5149,Edward,Janowski,ejanowski@kuromaku-u.org,MEC,Professor,1990,,KUROMAKUH,337,1
-5150,Kenji,Castellano,kcastellano@kuromaku-u.org,MEC,Assistant Professor,2016,,KUROMAKUH,324,1
-5151,Leilani,Aldridge,laldridge40@kuromaku-u.org,MEC,Assistant Professor,1998,,KUROMAKUH,333,1
-5152,Vera,Belmonte,vbelmonte@kuromaku-u.org,MEC,Associate Professor,2002,2026,KUROMAKUH,306,0
-5153,Helena,Marchetti,hmarchetti@kuromaku-u.org,MEC,Adjunct,2003,2020,KUROMAKUH,319,0
-5154,Nadia,Kowalczyk,nkowalczyk@kuromaku-u.org,MEC,Senior Lecturer,2021,,KUROMAKUH,317,1
-5155,Beatrice,Jarvis,bjarvis@kuromaku-u.org,MEC,Lecturer,2007,2023,KUROMAKUH,328,0
-5156,Priya,Jorgensen,pjorgensen@kuromaku-u.org,MTH,Assistant Professor,2000,,GERBERHAL,323,1
-5157,Linda,Chaudhry,lchaudhry@kuromaku-u.org,MTH,Assistant Professor,1989,,GERBERHAL,339,1
-5158,Martin,Ivanova,mivanova@kuromaku-u.org,MTH,Senior Lecturer,2008,,GERBERHAL,326,1
-5159,Walter,Hargrove,whargrove@kuromaku-u.org,MTH,Professor,1996,,GERBERHAL,330,1
-5160,Quentin,Lombardi,qlombardi@kuromaku-u.org,MTH,Associate Professor,2001,,GERBERHAL,324,1
-5161,Nadia,Vogel,nvogel@kuromaku-u.org,MTH,Professor,1997,,GERBERHAL,336,1
-5162,Simone,Grantham,sgrantham@kuromaku-u.org,MTH,Assistant Professor,2005,,GERBERHAL,313,1
-5163,Ian,Fairbanks,ifairbanks@kuromaku-u.org,MTH,Professor,1998,,GERBERHAL,327,1
-5164,Hiroshi,Fontaine,hfontaine@kuromaku-u.org,MTH,Associate Professor,2008,,GERBERHAL,331,1
-5165,Felix,Fairbanks,ffairbanks@kuromaku-u.org,MTH,Assistant Professor,2005,,GERBERHAL,317,1
-5166,Patricia,Ivanova,pivanova@kuromaku-u.org,MTH,Professor,2020,,GERBERHAL,313,1
-5167,Martin,Grimaldi,mgrimaldi@kuromaku-u.org,MTH,Professor,2026,,GERBERHAL,328,1
-5168,Karl,Janowski,kjanowski2@kuromaku-u.org,MTH,Senior Lecturer,2026,,GERBERHAL,319,1
-5169,Patricia,Brennan,pbrennan@kuromaku-u.org,MTH,Lecturer,2021,,GERBERHAL,310,1
-5170,Elena,Xiong,exiong@kuromaku-u.org,NUC,Assistant Professor,1994,,HOLLISTER,322,1
-5171,Gordon,Lefevre,glefevre@kuromaku-u.org,NUC,Lecturer,2019,,HOLLISTER,335,1
-5172,Greta,Zieliński,gzielinski@kuromaku-u.org,NUC,Assistant Professor,2005,,HOLLISTER,337,1
-5173,Mateo,Faulkner,mfaulkner@kuromaku-u.org,NUC,Associate Professor,1992,,HOLLISTER,313,1
-5174,Omar,Villanueva,ovillanueva@kuromaku-u.org,NUC,Associate Professor,2000,,HOLLISTER,314,1
-5175,Patricia,Pemberton,ppemberton@kuromaku-u.org,NUC,Senior Lecturer,2006,,HOLLISTER,320,1
-5176,Teresa,Lefevre,tlefevre@kuromaku-u.org,NUC,Adjunct,2007,,HOLLISTER,318,1
-5177,Zofia,Novotny,znovotny@kuromaku-u.org,NUC,Professor,2011,,HOLLISTER,334,1
-5178,Patricia,Kalinski,pkalinski@kuromaku-u.org,NUC,Assistant Professor,1998,,HOLLISTER,331,1
-5179,Zachary,Moreau,zmoreau@kuromaku-u.org,NUC,Professor,2016,,HOLLISTER,302,1
-5180,Rafael,Ellington,rellington42@kuromaku-u.org,NUC,Professor,2018,,HOLLISTER,326,1
-5181,Wanda,Quintero,wquintero@kuromaku-u.org,NUC,Senior Lecturer,2006,,HOLLISTER,325,1
-5182,Zofia,Whitfield,zwhitfield@kuromaku-u.org,NUC,Assistant Professor,2020,,HOLLISTER,329,1
-5183,Noor,Nyberg,nnyberg@kuromaku-u.org,NUC,Assistant Professor,1998,2026,HOLLISTER,313,0
-5184,Tobias,Halloran,thalloran@kuromaku-u.org,NUC,Professor,2026,,HOLLISTER,332,1
-5185,Yusuf,Halloran,yhalloran@kuromaku-u.org,NUC,Professor,2019,2026,HOLLISTER,323,0
-5186,Yvonne,Ibarra,yibarra90@kuromaku-u.org,NUC,Professor,2001,2024,HOLLISTER,322,0
-5187,Felix,Pemberton,fpemberton@kuromaku-u.org,PHY,Professor,2013,,KEITHHALL,321,1
-5188,Rosa,Oakes,roakes@kuromaku-u.org,PHY,Professor,2001,,KEITHHALL,321,1
-5189,Bogdan,Ashworth,bashworth@kuromaku-u.org,PHY,Senior Lecturer,1996,,KEITHHALL,333,1
-5190,Hugo,Jorgensen,hjorgensen@kuromaku-u.org,PHY,Assistant Professor,2014,,KEITHHALL,305,1
-5191,Priya,Zieliński,pzielinski@kuromaku-u.org,PHY,Senior Lecturer,2014,,KEITHHALL,328,1
-5192,Desmond,Ueda,dueda@kuromaku-u.org,PHY,Associate Professor,2006,,KEITHHALL,306,1
-5193,Vera,Escobar,vescobar@kuromaku-u.org,PHY,Professor,1999,,KEITHHALL,331,1
-5194,Nadia,Ivanova,nivanova@kuromaku-u.org,PHY,Professor,2013,,KEITHHALL,327,1
-5195,Mateo,Lefevre,mlefevre@kuromaku-u.org,PHY,Adjunct,1997,,KEITHHALL,306,1
-5196,Farid,Novotny,fnovotny@kuromaku-u.org,PHY,Associate Professor,1999,,KEITHHALL,319,1
-5197,Jacob,Drummond,jdrummond52@kuromaku-u.org,PHY,Senior Lecturer,2000,,KEITHHALL,321,1
-5198,Hiroshi,Ashworth,hashworth@kuromaku-u.org,PHY,Adjunct,2014,,KEITHHALL,308,1
-5199,Noor,Belmonte,nbelmonte@kuromaku-u.org,PHY,Assistant Professor,2014,,KEITHHALL,328,1
-5200,Nadia,Escobar,nescobar@kuromaku-u.org,PHY,Professor,2006,,KEITHHALL,333,1
-5201,Yvonne,Thackeray,ythackeray@kuromaku-u.org,PHY,Assistant Professor,1990,,KEITHHALL,340,1
-5202,Carl,Halloran,challoran@kuromaku-u.org,PHY,Professor,2008,,KEITHHALL,340,1
-5203,Edward,Jorgensen,ejorgensen@kuromaku-u.org,PHY,Assistant Professor,2019,2023,KEITHHALL,310,0
-5204,Irina,Duffy,iduffy@kuromaku-u.org,PHY,Associate Professor,1994,2022,KEITHHALL,337,0
-5205,Chiara,Rasheed,crasheed@kuromaku-u.org,PHY,Adjunct,1989,2026,KEITHHALL,325,0
-5206,Zofia,Ibarra,zibarra@kuromaku-u.org,PHY,Senior Lecturer,2014,2023,KEITHHALL,328,0
-5207,Rafael,Brennan,rbrennan@kuromaku-u.org,PHY,Associate Professor,2021,,KEITHHALL,331,1
-5208,Yusuf,Rasmussen,yrasmussen@kuromaku-u.org,PHY,Professor,2019,2024,KEITHHALL,315,0
-5209,Ulrich,Fairbanks,ufairbanks@kuromaku-u.org,SOC,Professor,2019,,KRIEBELHA,306,1
-5210,Helena,Tillman,htillman@kuromaku-u.org,SOC,Assistant Professor,2003,,KRIEBELHA,330,1
-5211,Linda,Hollis,lhollis@kuromaku-u.org,SOC,Assistant Professor,2013,,KRIEBELHA,317,1
-5212,Hiroshi,Kirkbride,hkirkbride@kuromaku-u.org,SOC,Assistant Professor,2014,,KRIEBELHA,322,1
-5213,Ingrid,Lindqvist,ilindqvist@kuromaku-u.org,SOC,Lecturer,2010,,KRIEBELHA,324,1
-5214,Quentin,Kowalczyk,qkowalczyk@kuromaku-u.org,SOC,Senior Lecturer,1997,,KRIEBELHA,321,1
-5215,Wanda,Ueda,wueda@kuromaku-u.org,SOC,Associate Professor,1996,,KRIEBELHA,305,1
-5216,Katya,Duffy,kduffy@kuromaku-u.org,SOC,Associate Professor,1990,,KRIEBELHA,320,1
-5217,Edward,Gallagher,egallagher@kuromaku-u.org,SOC,Senior Lecturer,2011,,KRIEBELHA,322,1
-5218,Farid,Jorgensen,fjorgensen@kuromaku-u.org,SOC,Lecturer,2010,,KRIEBELHA,308,1
-5219,Xiulan,Hargrove,xhargrove@kuromaku-u.org,SOC,Professor,1994,,KRIEBELHA,334,1
-5220,Helena,Ellington,hellington@kuromaku-u.org,SOC,Associate Professor,1992,2022,KRIEBELHA,308,0
-5221,Noor,Sandoval,nsandoval@kuromaku-u.org,SOC,Professor,2007,2025,KRIEBELHA,327,0
-5222,Irina,Oakes,ioakes@kuromaku-u.org,SOC,Associate Professor,1994,2020,KRIEBELHA,304,0
-5223,Devika,Grimaldi,dgrimaldi@kuromaku-u.org,SOC,Senior Lecturer,2016,2025,KRIEBELHA,307,0
+5027,Ingrid,Ashworth,iashworth@kuromaku-u.org,CHE,Associate Professor,2008,,GERBERHAL,323,1
+5028,Martin,Moreau,mmoreau@kuromaku-u.org,CHE,Senior Lecturer,2001,2023,GERBERHAL,309,0
+5029,Katya,Quintero,kquintero@kuromaku-u.org,CHE,Associate Professor,2023,,GERBERHAL,335,1
+5030,Miriam,Novotny,mnovotny@kuromaku-u.org,CHE,Assistant Professor,2023,,GERBERHAL,335,1
+5031,Ian,Ashworth,iashworth40@kuromaku-u.org,CHE,Professor,2003,2026,GERBERHAL,311,0
+5032,Zachary,Underhill,zunderhill@kuromaku-u.org,CHE,Professor,2024,,GERBERHAL,328,1
+5033,Leilani,Eriksen,leriksen@kuromaku-u.org,CHM,Associate Professor,1988,,HOLLISTER,304,1
+5034,Georgia,Lefevre,glefevre@kuromaku-u.org,CHM,Adjunct,1997,,HOLLISTER,312,1
+5035,Irina,Lindqvist,ilindqvist@kuromaku-u.org,CHM,Lecturer,2011,,HOLLISTER,324,1
+5036,Patricia,Villanueva,pvillanueva@kuromaku-u.org,CHM,Professor,2015,,HOLLISTER,329,1
+5037,Jacob,Lindqvist,jlindqvist@kuromaku-u.org,CHM,Lecturer,1998,,HOLLISTER,336,1
+5038,Priya,Nakagawa,pnakagawa@kuromaku-u.org,CHM,Assistant Professor,1995,2025,HOLLISTER,309,0
+5039,Edward,Thackeray,ethackeray@kuromaku-u.org,CHM,Associate Professor,2022,,HOLLISTER,308,1
+5040,Rafael,Escobar,rescobar@kuromaku-u.org,CIV,Professor,2007,,KEITHHALL,334,1
+5041,Rafael,Thackeray,rthackeray8@kuromaku-u.org,CIV,Adjunct,2010,,KEITHHALL,338,1
+5042,Martin,Escobar,mescobar@kuromaku-u.org,CIV,Associate Professor,2014,,KEITHHALL,334,1
+5043,Priya,Gallagher,pgallagher@kuromaku-u.org,CIV,Adjunct,2014,,KEITHHALL,321,1
+5044,Viktor,Sandoval,vsandoval@kuromaku-u.org,CIV,Professor,2009,,KEITHHALL,306,1
+5045,Helena,Janowski,hjanowski@kuromaku-u.org,CIV,Senior Lecturer,2011,,KEITHHALL,324,1
+5046,Edward,Ibarra,eibarra@kuromaku-u.org,CIV,Lecturer,2004,,KEITHHALL,315,1
+5047,Emeka,Ishikawa,eishikawa@kuromaku-u.org,CIV,Senior Lecturer,2002,,KEITHHALL,326,1
+5048,Oliver,Rademacher,orademacher@kuromaku-u.org,CIV,Assistant Professor,2007,,KEITHHALL,323,1
+5049,Priya,Oyelaran,poyelaran@kuromaku-u.org,CIV,Senior Lecturer,1996,,KEITHHALL,313,1
+5050,Gordon,Janowski,gjanowski@kuromaku-u.org,CIV,Lecturer,2016,,KEITHHALL,327,1
+5051,Nadia,Petrov,npetrov@kuromaku-u.org,CIV,Associate Professor,2024,,KEITHHALL,325,1
+5052,Mateo,Cordova,mcordova@kuromaku-u.org,CIV,Associate Professor,2026,,KEITHHALL,326,1
+5053,Hiroshi,Sandoval,hsandoval@kuromaku-u.org,CIV,Professor,1997,2026,KEITHHALL,306,0
+5054,Martin,Westbrook,mwestbrook@kuromaku-u.org,CIV,Professor,2000,2023,KEITHHALL,334,0
+5055,Irina,Janowski,ijanowski@kuromaku-u.org,COM,Associate Professor,2016,,KRIEBELHA,319,1
+5056,Karl,Ishikawa,kishikawa@kuromaku-u.org,COM,Assistant Professor,1995,,KRIEBELHA,312,1
+5057,Karl,Pruitt,kpruitt@kuromaku-u.org,COM,Professor,1994,,KRIEBELHA,305,1
+5058,Katya,Janowski,kjanowski@kuromaku-u.org,COM,Professor,2007,,KRIEBELHA,335,1
+5059,Bogdan,Stavros,bstavros@kuromaku-u.org,COM,Senior Lecturer,2013,,KRIEBELHA,303,1
+5060,Greta,Gallagher,ggallagher@kuromaku-u.org,COM,Associate Professor,2011,,KRIEBELHA,321,1
+5061,Leilani,Petrov,lpetrov@kuromaku-u.org,COM,Professor,2015,,KRIEBELHA,317,1
+5062,Edward,Ivanova,eivanova@kuromaku-u.org,COM,Lecturer,2006,,KRIEBELHA,340,1
+5063,Emeka,Underhill,eunderhill@kuromaku-u.org,COM,Professor,2001,,KRIEBELHA,318,1
+5064,Viktor,Petrov,vpetrov@kuromaku-u.org,COM,Professor,2018,,KRIEBELHA,336,1
+5065,Ursula,Sandoval,usandoval@kuromaku-u.org,COM,Senior Lecturer,1989,,KRIEBELHA,301,1
+5066,Gordon,Lombardi,glombardi@kuromaku-u.org,COM,Assistant Professor,1994,,KRIEBELHA,338,1
+5067,Patricia,Rademacher,prademacher@kuromaku-u.org,COM,Assistant Professor,2024,,KRIEBELHA,306,1
+5068,Emeka,Kirkbride,ekirkbride@kuromaku-u.org,COM,Assistant Professor,1994,2023,KRIEBELHA,320,0
+5069,Amara,Pemberton,apemberton@kuromaku-u.org,COM,Professor,2023,,KRIEBELHA,316,1
+5070,Oliver,Gallagher,ogallagher@kuromaku-u.org,COM,Assistant Professor,2006,2025,KRIEBELHA,315,0
+5071,Ian,Whitfield,iwhitfield@kuromaku-u.org,COM,Assistant Professor,2010,2026,KRIEBELHA,309,0
+5072,Carl,Brennan,cbrennan@kuromaku-u.org,EGR,Professor,2012,,LUKSICHAL,316,1
+5073,Quentin,Ishikawa,qishikawa@kuromaku-u.org,EGR,Lecturer,1990,,LUKSICHAL,309,1
+5074,Viktor,Faulkner,vfaulkner@kuromaku-u.org,EGR,Senior Lecturer,1992,,LUKSICHAL,328,1
+5075,Wanda,Halloran,whalloran@kuromaku-u.org,EGR,Professor,2012,,LUKSICHAL,323,1
+5076,Farid,Moreau,fmoreau@kuromaku-u.org,EGR,Senior Lecturer,2011,,LUKSICHAL,327,1
+5077,Petra,Jarvis,pjarvis@kuromaku-u.org,EGR,Associate Professor,2007,,LUKSICHAL,328,1
+5078,Xiulan,Tanaka,xtanaka@kuromaku-u.org,EGR,Senior Lecturer,2008,,LUKSICHAL,316,1
+5079,Clara,Rasheed,crasheed@kuromaku-u.org,EGR,Associate Professor,2000,,LUKSICHAL,301,1
+5080,Samuel,Escobar,sescobar43@kuromaku-u.org,EGR,Associate Professor,2011,,LUKSICHAL,320,1
+5081,Rafael,Ivanova,rivanova@kuromaku-u.org,EGR,Lecturer,1992,2021,LUKSICHAL,339,0
+5082,Devika,Moreau,dmoreau@kuromaku-u.org,EGR,Associate Professor,2026,,LUKSICHAL,336,1
+5083,Judith,Grantham,jgrantham@kuromaku-u.org,EGR,Senior Lecturer,2021,,LUKSICHAL,316,1
+5084,Ingrid,Escobar,iescobar@kuromaku-u.org,EGR,Assistant Professor,2009,2022,LUKSICHAL,333,0
+5085,Hiroshi,Ashworth,hashworth@kuromaku-u.org,ENG,Professor,1991,,MUSTARDHA,324,1
+5086,Xiulan,Sandoval,xsandoval@kuromaku-u.org,ENG,Assistant Professor,2009,,MUSTARDHA,340,1
+5087,Zofia,Ueda,zueda@kuromaku-u.org,ENG,Assistant Professor,2002,,MUSTARDHA,316,1
+5088,Xiulan,Xiong,xxiong@kuromaku-u.org,ENG,Professor,2009,,MUSTARDHA,301,1
+5089,Walter,Whitfield,wwhitfield@kuromaku-u.org,ENG,Adjunct,2016,,MUSTARDHA,326,1
+5090,Oliver,Drummond,odrummond@kuromaku-u.org,ENG,Assistant Professor,1996,,MUSTARDHA,319,1
+5091,Alan,Rademacher,arademacher@kuromaku-u.org,ENG,Lecturer,2019,,MUSTARDHA,305,1
+5092,Sanjay,Ashworth,sashworth@kuromaku-u.org,ENG,Assistant Professor,2001,,MUSTARDHA,340,1
+5093,Zofia,Faulkner,zfaulkner@kuromaku-u.org,ENG,Professor,1989,,MUSTARDHA,318,1
+5094,Xiulan,Cordova,xcordova@kuromaku-u.org,ENG,Assistant Professor,2012,,MUSTARDHA,325,1
+5095,Rafael,Underhill,runderhill@kuromaku-u.org,ENG,Associate Professor,2014,,MUSTARDHA,313,1
+5096,Linda,Delacroix,ldelacroix@kuromaku-u.org,ENG,Associate Professor,2026,,MUSTARDHA,312,1
+5097,Martin,Brennan,mbrennan@kuromaku-u.org,ENG,Professor,2024,,MUSTARDHA,322,1
+5098,Alan,Nakagawa,anakagawa@kuromaku-u.org,ENG,Associate Professor,2020,,MUSTARDHA,340,1
+5099,Leilani,Sandoval,lsandoval@kuromaku-u.org,ENG,Adjunct,2014,2022,MUSTARDHA,303,0
+5100,Jacob,Petrov,jpetrov@kuromaku-u.org,HUM,Adjunct,2014,,MALLOYHAL,319,1
+5101,Elena,Ivanova,eivanova28@kuromaku-u.org,HUM,Professor,2005,,MALLOYHAL,318,1
+5102,Hugo,Duffy,hduffy@kuromaku-u.org,HUM,Associate Professor,1995,,MALLOYHAL,307,1
+5103,Ursula,Cordova,ucordova@kuromaku-u.org,HUM,Professor,1995,,MALLOYHAL,337,1
+5104,Rachel,Hollis,rhollis@kuromaku-u.org,HUM,Professor,2004,,MALLOYHAL,334,1
+5105,Patricia,Nyberg,pnyberg@kuromaku-u.org,HUM,Assistant Professor,2003,,MALLOYHAL,312,1
+5106,Amara,Novotny,anovotny@kuromaku-u.org,HUM,Adjunct,2005,,MALLOYHAL,331,1
+5107,Miriam,Mbeki,mmbeki@kuromaku-u.org,HUM,Senior Lecturer,2000,,MALLOYHAL,334,1
+5108,Quentin,Pemberton,qpemberton@kuromaku-u.org,HUM,Professor,2017,,MALLOYHAL,324,1
+5109,Lorenzo,Fairbanks,lfairbanks@kuromaku-u.org,HUM,Senior Lecturer,2016,,MALLOYHAL,307,1
+5110,Noor,Faulkner,nfaulkner@kuromaku-u.org,HUM,Assistant Professor,2004,,MALLOYHAL,332,1
+5111,Leilani,Westbrook,lwestbrook@kuromaku-u.org,HUM,Assistant Professor,2021,,MALLOYHAL,318,1
+5112,Amara,Duffy,aduffy@kuromaku-u.org,HUM,Lecturer,1997,2026,MALLOYHAL,335,0
+5113,Ingrid,Underhill,iunderhill@kuromaku-u.org,HUM,Associate Professor,2018,2022,MALLOYHAL,333,0
+5114,Edward,Ashworth,eashworth@kuromaku-u.org,HUM,Adjunct,2020,,MALLOYHAL,301,1
+5115,Ingrid,Jarvis,ijarvis@kuromaku-u.org,MAN,Professor,2005,,SULLIVANB,307,1
+5116,Georgia,Gallagher,ggallagher78@kuromaku-u.org,MAN,Professor,2002,,SULLIVANB,337,1
+5117,Priya,Rasmussen,prasmussen@kuromaku-u.org,MAN,Senior Lecturer,2002,,SULLIVANB,326,1
+5118,Greta,Duffy,gduffy@kuromaku-u.org,MAN,Assistant Professor,1988,,SULLIVANB,321,1
+5119,Leilani,Kalinski,lkalinski@kuromaku-u.org,MAN,Professor,2001,,SULLIVANB,340,1
+5120,Emeka,Rademacher,erademacher@kuromaku-u.org,MAN,Associate Professor,2019,,SULLIVANB,304,1
+5121,Priya,Underhill,punderhill@kuromaku-u.org,MAN,Professor,1994,,SULLIVANB,322,1
+5122,Yusuf,Hollis,yhollis@kuromaku-u.org,MAN,Senior Lecturer,2007,,SULLIVANB,340,1
+5123,Nils,Whitfield,nwhitfield@kuromaku-u.org,MAN,Associate Professor,2006,,SULLIVANB,304,1
+5124,Clara,Vasquez,cvasquez@kuromaku-u.org,MAN,Assistant Professor,2010,,SULLIVANB,339,1
+5125,Jacob,Zabala,jzabala@kuromaku-u.org,MAN,Associate Professor,2026,,SULLIVANB,318,1
+5126,Judith,Whitfield,jwhitfield@kuromaku-u.org,MAN,Lecturer,2004,2025,SULLIVANB,332,0
+5127,Farid,Westbrook,fwestbrook@kuromaku-u.org,MAN,Associate Professor,2010,2024,SULLIVANB,333,0
+5128,Desmond,Aldridge,daldridge@kuromaku-u.org,MAN,Senior Lecturer,2026,,SULLIVANB,307,1
+5129,Noor,Pruitt,npruitt@kuromaku-u.org,MAT,Senior Lecturer,1992,,WESTGATEH,338,1
+5130,Ingrid,Gallagher,igallagher@kuromaku-u.org,MAT,Assistant Professor,2016,,WESTGATEH,311,1
+5131,Zachary,Escobar,zescobar@kuromaku-u.org,MAT,Associate Professor,2015,,WESTGATEH,326,1
+5132,Desmond,Moreau,dmoreau83@kuromaku-u.org,MAT,Senior Lecturer,1988,,WESTGATEH,319,1
+5133,Alan,Oyelaran,aoyelaran@kuromaku-u.org,MAT,Associate Professor,2013,,WESTGATEH,314,1
+5134,Noor,Oyelaran,noyelaran@kuromaku-u.org,MAT,Professor,1993,,WESTGATEH,327,1
+5135,Helena,Belmonte,hbelmonte@kuromaku-u.org,MAT,Lecturer,2011,,WESTGATEH,322,1
+5136,Nadia,Brennan,nbrennan@kuromaku-u.org,MAT,Assistant Professor,2014,,WESTGATEH,339,1
+5137,Amara,Castellano,acastellano@kuromaku-u.org,MAT,Adjunct,1994,,WESTGATEH,330,1
+5138,Beatrice,Brennan,bbrennan@kuromaku-u.org,MAT,Associate Professor,1993,,WESTGATEH,318,1
+5139,Vera,Castellano,vcastellano@kuromaku-u.org,MAT,Assistant Professor,2012,,WESTGATEH,324,1
+5140,Vera,Oyelaran,voyelaran@kuromaku-u.org,MAT,Professor,1990,,WESTGATEH,317,1
+5141,Mateo,Quintero,mquintero@kuromaku-u.org,MAT,Lecturer,2007,2022,WESTGATEH,326,0
+5142,Vera,Zieliński,vzielinski@kuromaku-u.org,MAT,Professor,1994,2026,WESTGATEH,336,0
+5143,Linda,Quintero,lquintero@kuromaku-u.org,MAT,Professor,2019,2024,WESTGATEH,333,0
+5144,Farid,Thackeray,fthackeray@kuromaku-u.org,MAT,Assistant Professor,1992,2025,WESTGATEH,329,0
+5145,Devika,Chaudhry,dchaudhry@kuromaku-u.org,MAT,Associate Professor,2022,,WESTGATEH,325,1
+5146,Noor,Brennan,nbrennan23@kuromaku-u.org,MEC,Senior Lecturer,2011,,KUROMAKUH,306,1
+5147,Ingrid,Barrow,ibarrow@kuromaku-u.org,MEC,Professor,2009,,KUROMAKUH,330,1
+5148,Yvonne,Okonkwo,yokonkwo@kuromaku-u.org,MEC,Professor,2019,,KUROMAKUH,304,1
+5149,Karl,Vogel,kvogel@kuromaku-u.org,MEC,Professor,2016,,KUROMAKUH,311,1
+5150,Edward,Janowski,ejanowski@kuromaku-u.org,MEC,Professor,1990,,KUROMAKUH,337,1
+5151,Kenji,Castellano,kcastellano@kuromaku-u.org,MEC,Assistant Professor,2016,,KUROMAKUH,324,1
+5152,Leilani,Aldridge,laldridge@kuromaku-u.org,MEC,Assistant Professor,1998,,KUROMAKUH,320,1
+5153,Tobias,Vasquez,tvasquez@kuromaku-u.org,MEC,Professor,2019,,KUROMAKUH,315,1
+5154,Linda,Kowalczyk,lkowalczyk@kuromaku-u.org,MEC,Professor,1994,,KUROMAKUH,334,1
+5155,Simone,Gallagher,sgallagher@kuromaku-u.org,MEC,Assistant Professor,1992,,KUROMAKUH,319,1
+5156,Nadia,Kowalczyk,nkowalczyk@kuromaku-u.org,MEC,Senior Lecturer,2021,,KUROMAKUH,317,1
+5157,Beatrice,Jarvis,bjarvis@kuromaku-u.org,MEC,Lecturer,2007,2023,KUROMAKUH,328,0
+5158,Priya,Jorgensen,pjorgensen@kuromaku-u.org,MEC,Assistant Professor,2020,,KUROMAKUH,337,1
+5159,Chiara,Sandoval,csandoval@kuromaku-u.org,MEC,Assistant Professor,2021,,KUROMAKUH,333,1
+5160,Priya,Brennan,pbrennan@kuromaku-u.org,MTH,Lecturer,2004,,GERBERHAL,317,1
+5161,Rachel,Janowski,rjanowski@kuromaku-u.org,MTH,Professor,2015,,GERBERHAL,328,1
+5162,Chiara,Xiong,cxiong@kuromaku-u.org,MTH,Professor,1997,,GERBERHAL,304,1
+5163,Teresa,Petrov,tpetrov@kuromaku-u.org,MTH,Lecturer,2015,,GERBERHAL,310,1
+5164,Kenji,Ashworth,kashworth@kuromaku-u.org,MTH,Professor,1994,,GERBERHAL,311,1
+5165,Felix,Hargrove,fhargrove@kuromaku-u.org,MTH,Professor,2018,,GERBERHAL,334,1
+5166,Priya,Lefevre,plefevre@kuromaku-u.org,MTH,Associate Professor,1990,,GERBERHAL,326,1
+5167,Jonas,Hargrove,jhargrove@kuromaku-u.org,MTH,Adjunct,1995,,GERBERHAL,317,1
+5168,Hiroshi,Nakagawa,hnakagawa@kuromaku-u.org,MTH,Professor,1991,,GERBERHAL,313,1
+5169,Martin,Grimaldi,mgrimaldi@kuromaku-u.org,MTH,Professor,2006,,GERBERHAL,307,1
+5170,Georgia,Vogel,gvogel@kuromaku-u.org,MTH,Professor,2000,,GERBERHAL,331,1
+5171,Yusuf,Aldridge,yaldridge@kuromaku-u.org,MTH,Associate Professor,2013,,GERBERHAL,301,1
+5172,Emeka,Gallagher,egallagher@kuromaku-u.org,MTH,Associate Professor,1997,,GERBERHAL,327,1
+5173,Xiulan,Petrov,xpetrov@kuromaku-u.org,MTH,Lecturer,2023,,GERBERHAL,332,1
+5174,Greta,Zieliński,gzielinski@kuromaku-u.org,MTH,Assistant Professor,2005,2024,GERBERHAL,319,0
+5175,Georgia,Stavros,gstavros@kuromaku-u.org,MTH,Professor,2022,,GERBERHAL,330,1
+5176,Zachary,Belmonte,zbelmonte@kuromaku-u.org,MTH,Assistant Professor,1995,2024,GERBERHAL,335,0
+5177,Mateo,Novotny,mnovotny10@kuromaku-u.org,MTH,Professor,2022,,GERBERHAL,302,1
+5178,Wanda,Sorensen,wsorensen@kuromaku-u.org,NUC,Assistant Professor,1995,,HOLLISTER,318,1
+5179,Karl,Underhill,kunderhill@kuromaku-u.org,NUC,Associate Professor,2018,,HOLLISTER,312,1
+5180,Dana,Oakes,doakes@kuromaku-u.org,NUC,Senior Lecturer,1990,,HOLLISTER,307,1
+5181,Frances,Moreau,fmoreau48@kuromaku-u.org,NUC,Adjunct,2013,,HOLLISTER,309,1
+5182,Mateo,Yeung,myeung@kuromaku-u.org,NUC,Associate Professor,2007,,HOLLISTER,325,1
+5183,Beatrice,Hollis,bhollis@kuromaku-u.org,NUC,Assistant Professor,2018,,HOLLISTER,332,1
+5184,Leilani,Vasquez,lvasquez@kuromaku-u.org,NUC,Senior Lecturer,2000,,HOLLISTER,333,1
+5185,Helena,Fontaine,hfontaine@kuromaku-u.org,NUC,Senior Lecturer,2008,,HOLLISTER,327,1
+5186,Petra,Sorensen,psorensen@kuromaku-u.org,NUC,Assistant Professor,2012,,HOLLISTER,304,1
+5187,Rachel,Oakes,roakes@kuromaku-u.org,NUC,Senior Lecturer,2010,,HOLLISTER,312,1
+5188,Ian,Gallagher,igallagher94@kuromaku-u.org,NUC,Assistant Professor,2001,,HOLLISTER,338,1
+5189,Sanjay,Escobar,sescobar23@kuromaku-u.org,NUC,Assistant Professor,1990,,HOLLISTER,326,1
+5190,Rosa,Rasheed,rrasheed@kuromaku-u.org,NUC,Assistant Professor,2019,,HOLLISTER,317,1
+5191,Bogdan,Pruitt,bpruitt@kuromaku-u.org,NUC,Professor,2001,,HOLLISTER,309,1
+5192,Tobias,Grantham,tgrantham@kuromaku-u.org,NUC,Assistant Professor,2005,2023,HOLLISTER,305,0
+5193,Priya,Zieliński,pzielinski@kuromaku-u.org,NUC,Senior Lecturer,2020,,HOLLISTER,335,1
+5194,Desmond,Ueda,dueda@kuromaku-u.org,NUC,Associate Professor,2025,,HOLLISTER,327,1
+5195,Nadia,Whitfield,nwhitfield35@kuromaku-u.org,NUC,Assistant Professor,1994,2025,HOLLISTER,312,0
+5196,Rosa,Brennan,rbrennan@kuromaku-u.org,NUC,Lecturer,2014,2022,HOLLISTER,331,0
+5197,Samuel,Kowalczyk,skowalczyk@kuromaku-u.org,PHY,Professor,2007,,KEITHHALL,330,1
+5198,Walter,Lombardi,wlombardi@kuromaku-u.org,PHY,Assistant Professor,2014,,KEITHHALL,315,1
+5199,Zachary,Brennan,zbrennan@kuromaku-u.org,PHY,Associate Professor,2004,,KEITHHALL,313,1
+5200,Edward,Drummond,edrummond@kuromaku-u.org,PHY,Professor,2001,,KEITHHALL,336,1
+5201,Felix,Grantham,fgrantham@kuromaku-u.org,PHY,Lecturer,1994,,KEITHHALL,327,1
+5202,Beatrice,Grimaldi,bgrimaldi@kuromaku-u.org,PHY,Lecturer,2006,,KEITHHALL,333,1
+5203,Yvonne,Thackeray,ythackeray@kuromaku-u.org,PHY,Assistant Professor,1990,,KEITHHALL,340,1
+5204,Carl,Halloran,challoran@kuromaku-u.org,PHY,Professor,2008,,KEITHHALL,340,1
+5205,Edward,Jorgensen,ejorgensen@kuromaku-u.org,PHY,Assistant Professor,2019,,KEITHHALL,312,1
+5206,Elena,Thackeray,ethackeray57@kuromaku-u.org,PHY,Lecturer,1989,,KEITHHALL,307,1
+5207,Farid,Hargrove,fhargrove10@kuromaku-u.org,PHY,Assistant Professor,2008,,KEITHHALL,302,1
+5208,Devika,Zabala,dzabala@kuromaku-u.org,PHY,Associate Professor,2002,,KEITHHALL,339,1
+5209,Zofia,Ibarra,zibarra@kuromaku-u.org,PHY,Senior Lecturer,2014,,KEITHHALL,334,1
+5210,Miriam,Faulkner,mfaulkner@kuromaku-u.org,PHY,Assistant Professor,2019,,KEITHHALL,326,1
+5211,Wanda,Eriksen,weriksen@kuromaku-u.org,PHY,Professor,2002,,KEITHHALL,331,1
+5212,Yusuf,Rasmussen,yrasmussen@kuromaku-u.org,PHY,Professor,2019,,KEITHHALL,338,1
+5213,Devika,Underhill,dunderhill@kuromaku-u.org,PHY,Professor,2019,,KEITHHALL,306,1
+5214,Helena,Tillman,htillman@kuromaku-u.org,PHY,Assistant Professor,2020,,KEITHHALL,338,1
+5215,Irina,Pemberton,ipemberton@kuromaku-u.org,PHY,Lecturer,2025,,KEITHHALL,313,1
+5216,Felix,Tanaka,ftanaka@kuromaku-u.org,PHY,Senior Lecturer,2004,2020,KEITHHALL,323,0
+5217,Wanda,Quintero,wquintero@kuromaku-u.org,PHY,Senior Lecturer,1993,2026,KEITHHALL,310,0
+5218,Priya,Westbrook,pwestbrook@kuromaku-u.org,PHY,Associate Professor,2023,,KEITHHALL,337,1
+5219,Dana,Kirkbride,dkirkbride@kuromaku-u.org,PHY,Associate Professor,2021,,KEITHHALL,334,1
+5220,Xiulan,Stavros,xstavros@kuromaku-u.org,SOC,Professor,2005,,KRIEBELHA,323,1
+5221,Ursula,Pemberton,upemberton@kuromaku-u.org,SOC,Adjunct,2004,,KRIEBELHA,301,1
+5222,Martin,Sorensen,msorensen@kuromaku-u.org,SOC,Assistant Professor,1990,,KRIEBELHA,326,1
+5223,Jonas,Okonkwo,jokonkwo@kuromaku-u.org,SOC,Associate Professor,1997,,KRIEBELHA,314,1
+5224,Omar,Lefevre,olefevre65@kuromaku-u.org,SOC,Assistant Professor,2016,,KRIEBELHA,324,1
+5225,Karl,Marchetti,kmarchetti@kuromaku-u.org,SOC,Adjunct,1990,,KRIEBELHA,304,1
+5226,Devika,Grimaldi,dgrimaldi@kuromaku-u.org,SOC,Senior Lecturer,2016,,KRIEBELHA,333,1
+5227,Helena,Nakagawa,hnakagawa51@kuromaku-u.org,SOC,Professor,2015,,KRIEBELHA,317,1
+5228,Miriam,Ivanova,mivanova@kuromaku-u.org,SOC,Associate Professor,1999,,KRIEBELHA,324,1
+5229,Oliver,Moreau,omoreau@kuromaku-u.org,SOC,Lecturer,2019,,KRIEBELHA,313,1
+5230,Noor,Kirkbride,nkirkbride@kuromaku-u.org,SOC,Professor,2011,,KRIEBELHA,339,1
+5231,Yusuf,Petrov,ypetrov@kuromaku-u.org,SOC,Senior Lecturer,2002,2026,KRIEBELHA,311,0
+5232,Xiulan,Sorensen,xsorensen@kuromaku-u.org,SOC,Adjunct,2010,2020,KRIEBELHA,324,0
+5233,Zachary,Tanaka,ztanaka@kuromaku-u.org,SOC,Professor,2002,2020,KRIEBELHA,318,0
+5234,Nils,Grimaldi,ngrimaldi@kuromaku-u.org,SOC,Professor,2017,2023,KRIEBELHA,314,0
