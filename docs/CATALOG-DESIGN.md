@@ -167,14 +167,54 @@ Kuromaku Hall to the Hollister Building has 498 metres to cover.
 
 ## History
 
-The semester table runs Fall 2019 – Fall 2026, and all 15 semesters get real enrollments. That
-needs alumni: class-year rows and students for the classes of **2020 through 2026**, marked
-`is_alumni`, each cohort attending its own four years and then leaving. The current four classes
-(2027–2030) stay as they are.
+The semester table runs **Fall 2016 – Fall 2026, 21 semesters**, and every one has four cohorts in
+residence. That takes fourteen graduating classes: the four still enrolled (2027–2030) and ten of
+alumni (2017–2026), 250 to a class, about 3,500 students in all.
 
-Consequences: the student table grows from 1,000 to roughly 2,700, and enrollments from 15,472 to
-roughly 75,000. Course offerings are per semester, so a course that didn't exist in 2019 simply has
-no offering that year.
+**Every class from 2020 on has a complete four-year record.** The first cut of Stage D started the
+record in Fall 2019, which left the class of 2020 with only a senior year on file — the same hole
+the audit found, one level down. Extending the semester table back three years closed it for 2020,
+2021 and 2022. The classes of 2017, 2018 and 2019 now sit at that boundary instead, with two,
+four and six terms on record: the years of a registrar system that did not migrate older coursework,
+and far enough back that no demo reaches them. Their earlier coursework counts as completed for
+prerequisite purposes, so their recorded terms are still coherent.
+
+## How students register (Stage D)
+
+`student_enrollment` is generated on every build by `build_db.py`, and each row now names the
+section (`offering_id`) as well as the course and semester.
+
+**Semester by semester, seniors first, in three passes.** Each term, everyone in residence registers:
+first for the courses their plan names (plus anything carried over), then for their elective slots,
+then for any course they are eligible for if a slot is still empty. Within a pass, seniors go before
+juniors, and a course with one section is placed before a course with six. Every pick is a section
+that ran that term, had a seat, and did not collide with the rest of the student's week.
+
+That ordering is the result of three failed first attempts, each of which looked fine until measured:
+registering one student through all eight terms before the next (whoever had the lowest ID took
+seats everywhere, and later classes came up 30% short); a single pass per student (a senior's filler
+course took the Calculus I seat a freshman needed, and everything behind it slipped); and a Stage C
+bug that read `FALL 2019` as a spring term, so first-term courses were sized for nobody.
+
+**What it models.** A failed course is retaken — the only repeat that exists. A course that is full,
+clashes or is not offered slips to a later term. A student who still owes a required course after
+eight terms, usually a Senior Design that slipped behind its prerequisites, gets up to two more.
+Each student's outcome is derived from their own transcript into `student.degree_status`
+(`enrolled`, `graduated`, `graduated late`, `did not complete`) and `graduated_semester_id`;
+`class_year` and `grad_year` stay as when they were expected to finish.
+
+| Measure | v1 | v2 |
+|---|---|---|
+| Freshman enrollments at the 3000/4000 level | 45% | 0% — year one is all level 1; year four is 79% level 3–4 |
+| Retakes of a course already passed | 1,875 | 0 — all 2,454 repeats follow an F |
+| Students who ever took a core course | 12.1% | 99.6% |
+| Semesters with no enrollments | 8 of 15 | 0 of 21 |
+| Student-terms carrying a full four courses | — | 94% |
+| On-time graduation, full-record classes | — | 61–78%, with 25–35% graduating late and 2–5% not completing |
+
+Checked after every build, all zero: prerequisite violations, labs taken without their lecture,
+retakes of passed courses, students double-booked, sections over capacity, enrollments that disagree
+with their section, grades on in-progress courses, and graduates missing a required course.
 
 ## Stages
 
@@ -183,7 +223,7 @@ no offering that year.
 | A | Departments and the rebuilt, renumbered catalog with the foundation layer | **done** — 318 courses, 15 departments, 351 prerequisite rows, 68 courses newly written |
 | B | Prerequisites and degree plans | **done** — 9 programs, 288 requirement rows, 118–122 units each |
 | C | Instructors and course offerings | **done** — 125 rooms, 184 instructors, 3,562 offerings, no clashes |
-| D | Alumni cohorts, and the transcript generator that walks the degree plans | |
+| D | Alumni cohorts, and the transcript generator that walks the degree plans | **done** — 3,500 students, 83,029 enrollments, every integrity check zero |
 
 Each stage rebuilds `~/Kuromaku-U/db/kuromaku_u_v2.db` in place so it can be read in RazorSQL
 between stages. The database stays out of the repo for now.

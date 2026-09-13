@@ -2,7 +2,7 @@
 
 A sample relational dataset and reference MCP server for the **PE TechCast — AI 'Splaining** series.
 
-Kuromaku U is a fictional engineering university with 1,000 students, 318 courses across 15 departments, 48 buildings, four class years, fifteen semesters, and a fully-articulated code-table hierarchy (majors, minors, ethnicities, countries, states, grades). Everything in this repo is synthetic — no real students, no real data — which makes it safe to ship, clone, fork, and demo against.
+Kuromaku U is a fictional engineering university with 3,500 students across 14 graduating classes (1,000 enrolled today), 318 courses across 15 departments, 184 faculty, 48 buildings, twenty-one semesters of history, and a fully-articulated code-table hierarchy (majors, minors, ethnicities, countries, states, grades). Everything in this repo is synthetic — no real students, no real data — which makes it safe to ship, clone, fork, and demo against.
 
 This repo is the **recurring demo universe** for every episode of the AI series. Today it backs the MCP Part 2 episode; over the rest of the series it will support Fine-Tuning, AI Agents, Context Engineering, Multimodal, Reasoning Models, and beyond.
 
@@ -18,7 +18,7 @@ kuromaku-u/
 ├── LICENSE                         ← MIT
 ├── pyproject.toml                  ← Python deps (just `mcp`)
 ├── data/                           ← 21 CSVs — the canonical source of truth
-│   ├── ku_student.csv              ← 1,000 students with names, majors, photos
+│   ├── ku_student.csv              ← 3,500 students: classes of 2017–2030, 1,000 still enrolled
 │   ├── ku_course_catalog.csv       ← 318 courses, numbered by level (1000–4000)
 │   ├── ku_department.csv           ← 15 departments — 9 that grant majors, 6 foundation/gen-ed
 │   ├── ku_course_prerequisite.csv  ← what comes before what (prereq / coreq)
@@ -29,9 +29,9 @@ kuromaku-u/
 │   ├── ku_course_offering.csv      ← 3,562 sections: who teaches what, where, when
 │   ├── ku_building.csv             ← 48 campus buildings
 │   ├── ku_building_distance.csv    ← pairwise building distances in meters
-│   ├── ku_semester.csv             ← 15 semesters (Fall 2019 – Fall 2026)
+│   ├── ku_semester.csv             ← 21 semesters (Fall 2016 – Fall 2026)
 │   ├── ku_student_address.csv      ← student home addresses
-│   ├── ku_class_year.csv           ← FR/SO/JR/SR class years
+│   ├── ku_class_year.csv           ← FR/SO/JR/SR plus ten alumni classes
 │   ├── ku_cd_major.csv             ← 10 engineering majors (AER, COM, MEC, …)
 │   ├── ku_cd_minor.csv             ← available minors
 │   ├── ku_cd_ethnicity.csv         ← ethnicity codes
@@ -43,6 +43,7 @@ kuromaku-u/
 │   ├── sqlite_init.sql             ← SQLite DDL (what the demo runs against)
 │   ├── build_db.py                 ← Builds kuromaku_u.db from the CSVs
 │   └── postgres/                   ← Original Postgres DDL (preserved for "advanced mode")
+├── tools/v2/                       ← The one-off generators that produced the v2 CSVs (provenance, not a pipeline)
 ├── server/
 │   ├── server_minimal.py           ← One tool — the "look how simple this is" server
 │   ├── server.py                   ← Reference MCP server — 6 tools, ~40 lines of business logic
@@ -68,7 +69,7 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install -e . && python schema/build_db.py
 ```
 
-That builds `kuromaku_u.db` (a single SQLite file, ~1.8 MB) with the 22 source tables — `ku_semester.csv` now carries the full timeline through Fall 2026 itself, rather than having recent semesters appended in code — and a deterministically-generated `student_enrollment` table (seed `1729`, 15,472 rows).
+That builds `kuromaku_u.db` (a single SQLite file, ~9 MB) with the 22 source tables — `ku_semester.csv` now carries the full timeline through Fall 2026 itself, rather than having recent semesters appended in code — and a deterministically-generated `student_enrollment` table (seed `1729`, 83,029 rows) made by registering every student, semester by semester, into sections of the courses their degree plan calls for.
 
 To run the MCP server:
 

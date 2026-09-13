@@ -1,0 +1,46 @@
+[
+ {"catnum":"MATH-1005","dept":"MTH","title":"Calculus I","type":"LEC","units":4,"reuse":"CORE-1010"},
+ {"catnum":"MATH-1010","dept":"MTH","title":"Calculus II","type":"LEC","units":4,"reuse":null},
+ {"catnum":"MATH-2005","dept":"MTH","title":"Multivariable Calculus","type":"LEC","units":4,"reuse":null},
+ {"catnum":"MATH-2010","dept":"MTH","title":"Linear Algebra","type":"LEC","units":4,"reuse":null},
+ {"catnum":"MATH-2015","dept":"MTH","title":"Differential Equations","type":"LEC","units":4,"reuse":null},
+ {"catnum":"MATH-2020","dept":"MTH","title":"Discrete Mathematics","type":"LEC","units":4,"reuse":null},
+ {"catnum":"MATH-3005","dept":"MTH","title":"Probability and Statistics","type":"LEC","units":4,"reuse":"CORE-2020"},
+ {"catnum":"MATH-3010","dept":"MTH","title":"Numerical Methods","type":"LEC","units":4,"reuse":null},
+ {"catnum":"MATH-3015","dept":"MTH","title":"Partial Differential Equations","type":"LEC","units":4,"reuse":null},
+
+ {"catnum":"PHYS-1005","dept":"PHY","title":"Physics I: Mechanics","type":"LEC","units":4,"reuse":null},
+ {"catnum":"PHYS-1010","dept":"PHY","title":"Physics I: Mechanics Laboratory","type":"LAB","units":2,"reuse":null},
+ {"catnum":"PHYS-1015","dept":"PHY","title":"Physics II: Electricity and Magnetism","type":"LEC","units":4,"reuse":null},
+ {"catnum":"PHYS-1020","dept":"PHY","title":"Physics II: Electricity and Magnetism Laboratory","type":"LAB","units":2,"reuse":null},
+ {"catnum":"PHYS-2005","dept":"PHY","title":"Modern Physics","type":"LEC","units":4,"reuse":null},
+
+ {"catnum":"CHMY-1005","dept":"CHM","title":"General Chemistry I","type":"LEC","units":4,"reuse":null},
+ {"catnum":"CHMY-1010","dept":"CHM","title":"General Chemistry I Laboratory","type":"LAB","units":2,"reuse":null},
+ {"catnum":"CHMY-1015","dept":"CHM","title":"General Chemistry II","type":"LEC","units":4,"reuse":null},
+ {"catnum":"CHMY-2005","dept":"CHM","title":"Organic Chemistry","type":"LEC","units":4,"reuse":null},
+
+ {"catnum":"ENGR-1005","dept":"EGR","title":"Introduction to Engineering","type":"LEC","units":4,"reuse":null},
+ {"catnum":"ENGR-1010","dept":"EGR","title":"Computing for Engineers","type":"LEC","units":4,"reuse":null},
+ {"catnum":"ENGR-1015","dept":"EGR","title":"Engineering Graphics and Design","type":"LEC","units":4,"reuse":null},
+ {"catnum":"ENGR-2005","dept":"EGR","title":"Statics","type":"LEC","units":4,"reuse":null},
+ {"catnum":"ENGR-3005","dept":"EGR","title":"Engineering Ethics and Professional Practice","type":"LEC","units":4,"reuse":null},
+
+ {"catnum":"HUMN-1005","dept":"HUM","title":"College Composition","type":"LEC","units":4,"reuse":null},
+ {"catnum":"HUMN-1010","dept":"HUM","title":"American History","type":"LEC","units":4,"reuse":"CORE-1005"},
+ {"catnum":"HUMN-1015","dept":"HUM","title":"English Literature","type":"LEC","units":4,"reuse":"CORE-1015"},
+ {"catnum":"HUMN-2005","dept":"HUM","title":"Technical Writing","type":"LEC","units":4,"reuse":null},
+ {"catnum":"HUMN-2010","dept":"HUM","title":"Introduction to Philosophy","type":"LEC","units":4,"reuse":null},
+ {"catnum":"HUMN-2015","dept":"HUM","title":"World History Since 1900","type":"LEC","units":4,"reuse":null},
+ {"catnum":"HUMN-3005","dept":"HUM","title":"History of Science and Technology","type":"LEC","units":4,"reuse":null},
+ {"catnum":"HUMN-3010","dept":"HUM","title":"Professional Communication","type":"LEC","units":4,"reuse":null},
+
+ {"catnum":"SOCS-1005","dept":"SOC","title":"Principles of Microeconomics","type":"LEC","units":4,"reuse":null},
+ {"catnum":"SOCS-1010","dept":"SOC","title":"Principles of Macroeconomics","type":"LEC","units":4,"reuse":null},
+ {"catnum":"SOCS-2005","dept":"SOC","title":"Financial Accounting","type":"LEC","units":4,"reuse":"CORE-1020"},
+ {"catnum":"SOCS-2010","dept":"SOC","title":"General Management","type":"LEC","units":4,"reuse":"CORE-2010"},
+ {"catnum":"SOCS-2015","dept":"SOC","title":"Business Law","type":"LEC","units":4,"reuse":"CORE-2015"},
+ {"catnum":"SOCS-3005","dept":"SOC","title":"Finance","type":"LEC","units":4,"reuse":"CORE-2005"},
+ {"catnum":"SOCS-3010","dept":"SOC","title":"Technology Policy and Regulation","type":"LEC","units":4,"reuse":null},
+ {"catnum":"SOCS-3015","dept":"SOC","title":"Project Management","type":"LEC","units":4,"reuse":null}
+]

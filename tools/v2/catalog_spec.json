@@ -1,0 +1,2864 @@
+{
+ "MATH-1005": {
+  "dept": "MTH",
+  "title": "Calculus I",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "CORE-1010"
+ },
+ "MATH-1010": {
+  "dept": "MTH",
+  "title": "Calculus II",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "MATH-2005": {
+  "dept": "MTH",
+  "title": "Multivariable Calculus",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "MATH-2010": {
+  "dept": "MTH",
+  "title": "Linear Algebra",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "MATH-2015": {
+  "dept": "MTH",
+  "title": "Differential Equations",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "MATH-2020": {
+  "dept": "MTH",
+  "title": "Discrete Mathematics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "MATH-3005": {
+  "dept": "MTH",
+  "title": "Probability and Statistics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "CORE-2020"
+ },
+ "MATH-3010": {
+  "dept": "MTH",
+  "title": "Numerical Methods",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "new"
+ },
+ "MATH-3015": {
+  "dept": "MTH",
+  "title": "Partial Differential Equations",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "new"
+ },
+ "PHYS-1005": {
+  "dept": "PHY",
+  "title": "Physics I: Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "PHYS-1010": {
+  "dept": "PHY",
+  "title": "Physics I: Mechanics Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "PHYS-1015": {
+  "dept": "PHY",
+  "title": "Physics II: Electricity and Magnetism",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "PHYS-1020": {
+  "dept": "PHY",
+  "title": "Physics II: Electricity and Magnetism Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "PHYS-2005": {
+  "dept": "PHY",
+  "title": "Modern Physics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "CHMY-1005": {
+  "dept": "CHM",
+  "title": "General Chemistry I",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "CHMY-1010": {
+  "dept": "CHM",
+  "title": "General Chemistry I Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "CHMY-1015": {
+  "dept": "CHM",
+  "title": "General Chemistry II",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "CHMY-2005": {
+  "dept": "CHM",
+  "title": "Organic Chemistry",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "ENGR-1005": {
+  "dept": "EGR",
+  "title": "Introduction to Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "ENGR-1010": {
+  "dept": "EGR",
+  "title": "Computing for Engineers",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "ENGR-1015": {
+  "dept": "EGR",
+  "title": "Engineering Graphics and Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "ENGR-2005": {
+  "dept": "EGR",
+  "title": "Statics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "ENGR-3005": {
+  "dept": "EGR",
+  "title": "Engineering Ethics and Professional Practice",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "new"
+ },
+ "HUMN-1005": {
+  "dept": "HUM",
+  "title": "College Composition",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "HUMN-1010": {
+  "dept": "HUM",
+  "title": "American History",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "CORE-1005"
+ },
+ "HUMN-1015": {
+  "dept": "HUM",
+  "title": "English Literature",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "CORE-1015"
+ },
+ "HUMN-2005": {
+  "dept": "HUM",
+  "title": "Technical Writing",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "HUMN-2010": {
+  "dept": "HUM",
+  "title": "Introduction to Philosophy",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "HUMN-2015": {
+  "dept": "HUM",
+  "title": "World History Since 1900",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "new"
+ },
+ "HUMN-3005": {
+  "dept": "HUM",
+  "title": "History of Science and Technology",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "new"
+ },
+ "HUMN-3010": {
+  "dept": "HUM",
+  "title": "Professional Communication",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "new"
+ },
+ "SOCS-1005": {
+  "dept": "SOC",
+  "title": "Principles of Microeconomics",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "SOCS-1010": {
+  "dept": "SOC",
+  "title": "Principles of Macroeconomics",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "foundation",
+  "source": "new"
+ },
+ "SOCS-2005": {
+  "dept": "SOC",
+  "title": "Financial Accounting",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "CORE-1020"
+ },
+ "SOCS-2010": {
+  "dept": "SOC",
+  "title": "General Management",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "CORE-2010"
+ },
+ "SOCS-2015": {
+  "dept": "SOC",
+  "title": "Business Law",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "foundation",
+  "source": "CORE-2015"
+ },
+ "SOCS-3005": {
+  "dept": "SOC",
+  "title": "Finance",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "CORE-2005"
+ },
+ "SOCS-3010": {
+  "dept": "SOC",
+  "title": "Technology Policy and Regulation",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "new"
+ },
+ "SOCS-3015": {
+  "dept": "SOC",
+  "title": "Project Management",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "foundation",
+  "source": "new"
+ },
+ "AERO-1005": {
+  "dept": "AER",
+  "title": "Introduction to Aeronautics",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "AERO-1045"
+ },
+ "AERO-1010": {
+  "dept": "AER",
+  "title": "Introduction to Aerospace Engineering Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "AERO-1030"
+ },
+ "AERO-1015": {
+  "dept": "AER",
+  "title": "Introduction to Aerospace Engineering Systems Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "lab",
+  "source": "AERO-1035"
+ },
+ "AERO-2005": {
+  "dept": "AER",
+  "title": "Aerodynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "AERO-1015"
+ },
+ "AERO-2010": {
+  "dept": "AER",
+  "title": "Aerodynamics Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 2,
+  "role": "lab",
+  "source": "new"
+ },
+ "AERO-2015": {
+  "dept": "AER",
+  "title": "Aerospace Structures",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "AERO-2025"
+ },
+ "AERO-2020": {
+  "dept": "AER",
+  "title": "Introduction to Gas Dynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "AERO-1050"
+ },
+ "AERO-3005": {
+  "dept": "AER",
+  "title": "Aircraft Dynamics and Control",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "AERO-2030"
+ },
+ "AERO-3010": {
+  "dept": "AER",
+  "title": "Finite Element Method",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "AERO-1025"
+ },
+ "AERO-3015": {
+  "dept": "AER",
+  "title": "Computational Methods in Aerospace Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "AERO-1020"
+ },
+ "AERO-3020": {
+  "dept": "AER",
+  "title": "Introduction to Turbulent Flow",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "AERO-1040"
+ },
+ "AERO-3025": {
+  "dept": "AER",
+  "title": "Aerospace Systems Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "AERO-2015"
+ },
+ "AERO-3030": {
+  "dept": "AER",
+  "title": "Aerospace Propulsion",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "AERO-2020"
+ },
+ "AERO-3035": {
+  "dept": "AER",
+  "title": "Computational Fluid Dynamics I",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "AERO-4005": {
+  "dept": "AER",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "AERO-4010": {
+  "dept": "AER",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "AERO-4015": {
+  "dept": "AER",
+  "title": "Experimental Methods in Aerospace Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-2005"
+ },
+ "AERO-4020": {
+  "dept": "AER",
+  "title": "Experimental Methods in Aerospace Engineering Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-2010"
+ },
+ "AERO-4025": {
+  "dept": "AER",
+  "title": "Computational Fluid Dynamics II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-2035"
+ },
+ "AERO-4030": {
+  "dept": "AER",
+  "title": "Gas-Turbine Propulsion",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-3005"
+ },
+ "AERO-4035": {
+  "dept": "AER",
+  "title": "Molecular Gas Dynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-3010"
+ },
+ "AERO-4040": {
+  "dept": "AER",
+  "title": "Multidisciplinary Design Optimization",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-3015"
+ },
+ "AERO-4045": {
+  "dept": "AER",
+  "title": "Structural Dynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-3020"
+ },
+ "AERO-4050": {
+  "dept": "AER",
+  "title": "Solid Mechanics and Aerospace Structures",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-4005"
+ },
+ "AERO-4055": {
+  "dept": "AER",
+  "title": "Space Systems Design and Management",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-4010"
+ },
+ "AERO-4060": {
+  "dept": "AER",
+  "title": "Special Topics in Flight Dynamics and Control",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-4015"
+ },
+ "AERO-4065": {
+  "dept": "AER",
+  "title": "Special Topics in Gas Dynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "AERO-4020"
+ },
+ "CHEM-1005": {
+  "dept": "CHE",
+  "title": "Engineering Statistics and Problem Solving",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "CHEM-1020"
+ },
+ "CHEM-2005": {
+  "dept": "CHE",
+  "title": "Introduction to Transport Phenomena",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "CHEM-1025"
+ },
+ "CHEM-2010": {
+  "dept": "CHE",
+  "title": "Chemical Engineering Thermodynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "CHEM-1015"
+ },
+ "CHEM-2015": {
+  "dept": "CHE",
+  "title": "Chemical Engineering Unit Operations I",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "CHEM-1010"
+ },
+ "CHEM-2020": {
+  "dept": "CHE",
+  "title": "Chemical Engineering Unit Operations I Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 2,
+  "role": "lab",
+  "source": "CHEM-1005"
+ },
+ "CHEM-3005": {
+  "dept": "CHE",
+  "title": "Chemical Engineering Unit Operations II",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "CHEM-2015"
+ },
+ "CHEM-3010": {
+  "dept": "CHE",
+  "title": "Chemical Engineering Unit Operations II Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "lab",
+  "source": "CHEM-2020"
+ },
+ "CHEM-3015": {
+  "dept": "CHE",
+  "title": "Reactor Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "CHEM-4015"
+ },
+ "CHEM-3020": {
+  "dept": "CHE",
+  "title": "Fluid Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CHEM-3005"
+ },
+ "CHEM-3025": {
+  "dept": "CHE",
+  "title": "Chemical Process Economics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CHEM-2010"
+ },
+ "CHEM-3030": {
+  "dept": "CHE",
+  "title": "Chemical Product Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CHEM-2025"
+ },
+ "CHEM-3035": {
+  "dept": "CHE",
+  "title": "Physics of Polymers",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CHEM-3015"
+ },
+ "CHEM-3040": {
+  "dept": "CHE",
+  "title": "Process Dynamics and Control",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "CHEM-3045": {
+  "dept": "CHE",
+  "title": "Research and Special Problems",
+  "type": "IND",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "CHEM-3020"
+ },
+ "CHEM-4005": {
+  "dept": "CHE",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "CHEM-4005"
+ },
+ "CHEM-4010": {
+  "dept": "CHE",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "CHEM-4010"
+ },
+ "CHEM-4015": {
+  "dept": "CHE",
+  "title": "Biopharmaceutical Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CHEM-2005"
+ },
+ "CHEM-4020": {
+  "dept": "CHE",
+  "title": "Global Quality Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CHEM-3010"
+ },
+ "CHEM-4025": {
+  "dept": "CHE",
+  "title": "Advanced Research and Special Problems",
+  "type": "IND",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "CHEM-3025"
+ },
+ "CHEM-4030": {
+  "dept": "CHE",
+  "title": "Advances in Tissue Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CHEM-3030"
+ },
+ "CHEM-4035": {
+  "dept": "CHE",
+  "title": "Process Safety and Loss Prevention",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "new"
+ },
+ "CHEM-4040": {
+  "dept": "CHE",
+  "title": "Special Topics in Chemical Engineering I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CHEM-4025"
+ },
+ "CHEM-4045": {
+  "dept": "CHE",
+  "title": "Special Topics in Chemical Engineering II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CHEM-4030"
+ },
+ "CIVL-1005": {
+  "dept": "CIV",
+  "title": "Introduction to Civil and Environmental Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "new"
+ },
+ "CIVL-1010": {
+  "dept": "CIV",
+  "title": "Civil Engineering Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "CIVL-1035"
+ },
+ "CIVL-1015": {
+  "dept": "CIV",
+  "title": "Civil Engineering Materials Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "lab",
+  "source": "CIVL-1030"
+ },
+ "CIVL-2005": {
+  "dept": "CIV",
+  "title": "Mechanics of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "new"
+ },
+ "CIVL-2010": {
+  "dept": "CIV",
+  "title": "Fluid Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "CIVL-1040"
+ },
+ "CIVL-2015": {
+  "dept": "CIV",
+  "title": "Structural Analysis",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "new"
+ },
+ "CIVL-3005": {
+  "dept": "CIV",
+  "title": "Geotechnical Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "CIVL-2030"
+ },
+ "CIVL-3010": {
+  "dept": "CIV",
+  "title": "Geotechnical Engineering Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "lab",
+  "source": "CIVL-2035"
+ },
+ "CIVL-3015": {
+  "dept": "CIV",
+  "title": "Aquatic Chemistry",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-1010"
+ },
+ "CIVL-3020": {
+  "dept": "CIV",
+  "title": "Aquatic Chemistry Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-1015"
+ },
+ "CIVL-3025": {
+  "dept": "CIV",
+  "title": "Environmental Engineering Analysis",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-2025"
+ },
+ "CIVL-3030": {
+  "dept": "CIV",
+  "title": "Environmental Engineering Analysis Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-2020"
+ },
+ "CIVL-3035": {
+  "dept": "CIV",
+  "title": "Principles of Sustainable Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-1060"
+ },
+ "CIVL-3040": {
+  "dept": "CIV",
+  "title": "Building Information Modeling",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-1025"
+ },
+ "CIVL-3045": {
+  "dept": "CIV",
+  "title": "Design of Hydraulic Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-2015"
+ },
+ "CIVL-3050": {
+  "dept": "CIV",
+  "title": "Design of Reinforced Concrete Structures",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-3025"
+ },
+ "CIVL-3055": {
+  "dept": "CIV",
+  "title": "Design of Reinforced Concrete Structures Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-3020"
+ },
+ "CIVL-3060": {
+  "dept": "CIV",
+  "title": "Construction Contracting",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-3005"
+ },
+ "CIVL-3065": {
+  "dept": "CIV",
+  "title": "Construction Contracting Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "CIVL-3010"
+ },
+ "CIVL-4005": {
+  "dept": "CIV",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "CIVL-4010": {
+  "dept": "CIV",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "CIVL-4015": {
+  "dept": "CIV",
+  "title": "Fundamentals of Air Quality Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-1005"
+ },
+ "CIVL-4020": {
+  "dept": "CIV",
+  "title": "Environmental Process Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-3030"
+ },
+ "CIVL-4025": {
+  "dept": "CIV",
+  "title": "Sustainable Cities",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-4045"
+ },
+ "CIVL-4030": {
+  "dept": "CIV",
+  "title": "Prestressed Concrete",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-3040"
+ },
+ "CIVL-4035": {
+  "dept": "CIV",
+  "title": "Structural Reliability",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-3050"
+ },
+ "CIVL-4040": {
+  "dept": "CIV",
+  "title": "Advanced Soil Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-4005"
+ },
+ "CIVL-4045": {
+  "dept": "CIV",
+  "title": "Slopes, Dams, and Retaining Structures",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-4030"
+ },
+ "CIVL-4050": {
+  "dept": "CIV",
+  "title": "Construction Engineering and Equipment",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-4015"
+ },
+ "CIVL-4055": {
+  "dept": "CIV",
+  "title": "Professional Issues and Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "CIVL-3045"
+ },
+ "COMP-1005": {
+  "dept": "COM",
+  "title": "Data Structures and Algorithms",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "COMP-1025"
+ },
+ "COMP-1010": {
+  "dept": "COM",
+  "title": "Data Structures and Algorithms Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "lab",
+  "source": "COMP-1030"
+ },
+ "COMP-1015": {
+  "dept": "COM",
+  "title": "Computer Architecture",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "COMP-1015"
+ },
+ "COMP-1020": {
+  "dept": "COM",
+  "title": "Computer Architecture Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "lab",
+  "source": "COMP-1010"
+ },
+ "COMP-2005": {
+  "dept": "COM",
+  "title": "Algorithms",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "COMP-1005"
+ },
+ "COMP-2010": {
+  "dept": "COM",
+  "title": "Introduction to Operating Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "COMP-2010"
+ },
+ "COMP-3005": {
+  "dept": "COM",
+  "title": "Computer Networks",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "new"
+ },
+ "COMP-3010": {
+  "dept": "COM",
+  "title": "Software Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "COMP-3030"
+ },
+ "COMP-3015": {
+  "dept": "COM",
+  "title": "Theory of Computation",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "COMP-3020": {
+  "dept": "COM",
+  "title": "Database Management Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-2035"
+ },
+ "COMP-3025": {
+  "dept": "COM",
+  "title": "Introduction to Computer Security",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-1045"
+ },
+ "COMP-3030": {
+  "dept": "COM",
+  "title": "Introduction to Computer Security Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-1040"
+ },
+ "COMP-3035": {
+  "dept": "COM",
+  "title": "Introduction to Machine Learning",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-2005"
+ },
+ "COMP-3040": {
+  "dept": "COM",
+  "title": "Computer Vision",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-1020"
+ },
+ "COMP-3045": {
+  "dept": "COM",
+  "title": "Foundations of Artificial Intelligence",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-4005"
+ },
+ "COMP-3050": {
+  "dept": "COM",
+  "title": "Computer Game Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-2015"
+ },
+ "COMP-3055": {
+  "dept": "COM",
+  "title": "User Interface Development",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "COMP-4015"
+ },
+ "COMP-4005": {
+  "dept": "COM",
+  "title": "Senior Design I",
+  "type": "IND",
+  "units": 2,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "COMP-4010": {
+  "dept": "COM",
+  "title": "Senior Design II",
+  "type": "IND",
+  "units": 2,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "COMP-4015": {
+  "dept": "COM",
+  "title": "Machine Learning",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-2040"
+ },
+ "COMP-4020": {
+  "dept": "COM",
+  "title": "Foundations of Computer Vision",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-3020"
+ },
+ "COMP-4025": {
+  "dept": "COM",
+  "title": "Advanced Artificial Intelligence",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-4010"
+ },
+ "COMP-4030": {
+  "dept": "COM",
+  "title": "Computer Network Security",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-2025"
+ },
+ "COMP-4035": {
+  "dept": "COM",
+  "title": "Compiler Construction",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-2030"
+ },
+ "COMP-4040": {
+  "dept": "COM",
+  "title": "Parallel Computer Architecture",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-3025"
+ },
+ "COMP-4045": {
+  "dept": "COM",
+  "title": "Programming and Data Structures",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-3005"
+ },
+ "COMP-4050": {
+  "dept": "COM",
+  "title": "Web Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-4025"
+ },
+ "COMP-4055": {
+  "dept": "COM",
+  "title": "Web Systems Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "COMP-4020"
+ },
+ "EENG-1005": {
+  "dept": "ENG",
+  "title": "Introduction to Electric Circuits",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "EENG-2030"
+ },
+ "EENG-1010": {
+  "dept": "ENG",
+  "title": "Introduction to Electric Circuits Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "lab",
+  "source": "EENG-2025"
+ },
+ "EENG-1015": {
+  "dept": "ENG",
+  "title": "Introduction to Logic Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "EENG-1095"
+ },
+ "EENG-2005": {
+  "dept": "ENG",
+  "title": "Analog Circuits",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "EENG-1010"
+ },
+ "EENG-2010": {
+  "dept": "ENG",
+  "title": "Analog Circuits Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 2,
+  "role": "lab",
+  "source": "EENG-1015"
+ },
+ "EENG-2015": {
+  "dept": "ENG",
+  "title": "Introduction to Signals and Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "EENG-2010"
+ },
+ "EENG-2020": {
+  "dept": "ENG",
+  "title": "Introduction to Signals and Systems Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 2,
+  "role": "elective",
+  "source": "EENG-2005"
+ },
+ "EENG-3005": {
+  "dept": "ENG",
+  "title": "Control Systems Analysis and Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "EENG-1030"
+ },
+ "EENG-3010": {
+  "dept": "ENG",
+  "title": "Engineering Electromagnetics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "EENG-4065"
+ },
+ "EENG-3015": {
+  "dept": "ENG",
+  "title": "Introduction to Semiconductor Devices",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-1070"
+ },
+ "EENG-3020": {
+  "dept": "ENG",
+  "title": "Applied Quantum Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2035"
+ },
+ "EENG-3025": {
+  "dept": "ENG",
+  "title": "Analog Integrated Circuits",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-1020"
+ },
+ "EENG-3030": {
+  "dept": "ENG",
+  "title": "Integrated Microsystems Design and Fabrication",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-1055"
+ },
+ "EENG-3035": {
+  "dept": "ENG",
+  "title": "Principles of Optics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2070"
+ },
+ "EENG-3040": {
+  "dept": "ENG",
+  "title": "Lasers",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2060"
+ },
+ "EENG-3045": {
+  "dept": "ENG",
+  "title": "Semiconductor Optoelectronic Devices",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-3010"
+ },
+ "EENG-3050": {
+  "dept": "ENG",
+  "title": "Semiconductor Optoelectronic Devices Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-3015"
+ },
+ "EENG-3055": {
+  "dept": "ENG",
+  "title": "Logic Circuit Synthesis and Optimization",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2065"
+ },
+ "EENG-3060": {
+  "dept": "ENG",
+  "title": "VLSI Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-3025"
+ },
+ "EENG-3065": {
+  "dept": "ENG",
+  "title": "VLSI Design I Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-3020"
+ },
+ "EENG-3070": {
+  "dept": "ENG",
+  "title": "Introduction to Digital Signal Processing",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-1075"
+ },
+ "EENG-3075": {
+  "dept": "ENG",
+  "title": "Introduction to Antennas",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2020"
+ },
+ "EENG-3080": {
+  "dept": "ENG",
+  "title": "Introduction to Antennas Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2015"
+ },
+ "EENG-3085": {
+  "dept": "ENG",
+  "title": "Introduction to Embedded System Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-1080"
+ },
+ "EENG-3090": {
+  "dept": "ENG",
+  "title": "Introduction to Embedded System Design Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-1085"
+ },
+ "EENG-3095": {
+  "dept": "ENG",
+  "title": "Communication Networks",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2040"
+ },
+ "EENG-3100": {
+  "dept": "ENG",
+  "title": "Electric Machines and Drives",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2050"
+ },
+ "EENG-3105": {
+  "dept": "ENG",
+  "title": "Electric Machines and Drives Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-2055"
+ },
+ "EENG-3110": {
+  "dept": "ENG",
+  "title": "Production Systems Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-3005"
+ },
+ "EENG-3115": {
+  "dept": "ENG",
+  "title": "Hands-On Robotics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-4075"
+ },
+ "EENG-3120": {
+  "dept": "ENG",
+  "title": "Hands-On Robotics Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-4070"
+ },
+ "EENG-3125": {
+  "dept": "ENG",
+  "title": "Electronic Sensing Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-3055"
+ },
+ "EENG-3130": {
+  "dept": "ENG",
+  "title": "Electronic Sensing Systems Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-3050"
+ },
+ "EENG-3135": {
+  "dept": "ENG",
+  "title": "Engineering Electromagnetics Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "EENG-4060"
+ },
+ "EENG-4005": {
+  "dept": "ENG",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "EENG-4010": {
+  "dept": "ENG",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "EENG-4015": {
+  "dept": "ENG",
+  "title": "Amorphous Semiconductor Devices",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-1005"
+ },
+ "EENG-4020": {
+  "dept": "ENG",
+  "title": "Solid-State Devices",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4090"
+ },
+ "EENG-4025": {
+  "dept": "ENG",
+  "title": "Integrated Microsystems",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-1065"
+ },
+ "EENG-4030": {
+  "dept": "ENG",
+  "title": "Integrated Microsystems Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-1060"
+ },
+ "EENG-4035": {
+  "dept": "ENG",
+  "title": "Digital System Testing",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-2045"
+ },
+ "EENG-4040": {
+  "dept": "ENG",
+  "title": "VLSI Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4025"
+ },
+ "EENG-4045": {
+  "dept": "ENG",
+  "title": "VLSI Design II Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4020"
+ },
+ "EENG-4050": {
+  "dept": "ENG",
+  "title": "Digital Integrated Circuits",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4050"
+ },
+ "EENG-4055": {
+  "dept": "ENG",
+  "title": "Advanced Solid-State Microwave Circuits",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4040"
+ },
+ "EENG-4060": {
+  "dept": "ENG",
+  "title": "Advanced Laser Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4035"
+ },
+ "EENG-4065": {
+  "dept": "ENG",
+  "title": "Advanced Laser Systems Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4030"
+ },
+ "EENG-4070": {
+  "dept": "ENG",
+  "title": "Electro-Optic Semiconductors",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4055"
+ },
+ "EENG-4075": {
+  "dept": "ENG",
+  "title": "Plasmonics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4085"
+ },
+ "EENG-4080": {
+  "dept": "ENG",
+  "title": "Experimental Plasma Physics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3075"
+ },
+ "EENG-4085": {
+  "dept": "ENG",
+  "title": "Experimental Plasma Physics Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3070"
+ },
+ "EENG-4090": {
+  "dept": "ENG",
+  "title": "Antenna Theory and Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-1025"
+ },
+ "EENG-4095": {
+  "dept": "ENG",
+  "title": "Digital Signal Processing Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3040"
+ },
+ "EENG-4100": {
+  "dept": "ENG",
+  "title": "Digital Signal Processing Design Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3045"
+ },
+ "EENG-4105": {
+  "dept": "ENG",
+  "title": "Embedded Control",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3065"
+ },
+ "EENG-4110": {
+  "dept": "ENG",
+  "title": "Embedded Control Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3060"
+ },
+ "EENG-4115": {
+  "dept": "ENG",
+  "title": "Autonomous Robotics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3030"
+ },
+ "EENG-4120": {
+  "dept": "ENG",
+  "title": "Autonomous Robotics Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-3035"
+ },
+ "EENG-4125": {
+  "dept": "ENG",
+  "title": "Radiowave Propagation",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4015"
+ },
+ "EENG-4130": {
+  "dept": "ENG",
+  "title": "Radiowave Propagation Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4010"
+ },
+ "EENG-4135": {
+  "dept": "ENG",
+  "title": "Design of Digital Control Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4045"
+ },
+ "EENG-4140": {
+  "dept": "ENG",
+  "title": "Patent Fundamentals for Engineers",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "EENG-4080"
+ },
+ "MANU-1005": {
+  "dept": "MAN",
+  "title": "Design and Manufacturing I",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "MANU-1015"
+ },
+ "MANU-1010": {
+  "dept": "MAN",
+  "title": "Design and Manufacturing I Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 1,
+  "role": "lab",
+  "source": "MANU-1010"
+ },
+ "MANU-2005": {
+  "dept": "MAN",
+  "title": "Materials Engineering Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MANU-1025"
+ },
+ "MANU-2010": {
+  "dept": "MAN",
+  "title": "Design and Manufacturing II",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MANU-2015"
+ },
+ "MANU-2015": {
+  "dept": "MAN",
+  "title": "Design and Manufacturing II Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 2,
+  "role": "lab",
+  "source": "MANU-2010"
+ },
+ "MANU-2020": {
+  "dept": "MAN",
+  "title": "Machining Processes",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MANU-2035"
+ },
+ "MANU-3005": {
+  "dept": "MAN",
+  "title": "Design and Manufacturing III",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "MANU-3005"
+ },
+ "MANU-3010": {
+  "dept": "MAN",
+  "title": "Statistical Quality Control",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "MANU-2050"
+ },
+ "MANU-3015": {
+  "dept": "MAN",
+  "title": "Statistical Quality Control Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "MANU-3020": {
+  "dept": "MAN",
+  "title": "Materials Engineering Design Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "MANU-1030"
+ },
+ "MANU-3025": {
+  "dept": "MAN",
+  "title": "Composite Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MANU-1005"
+ },
+ "MANU-3030": {
+  "dept": "MAN",
+  "title": "Design for Manufacturing",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MANU-3015"
+ },
+ "MANU-3035": {
+  "dept": "MAN",
+  "title": "Material Handling Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MANU-1020"
+ },
+ "MANU-3040": {
+  "dept": "MAN",
+  "title": "Lean Manufacturing and Services",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MANU-2030"
+ },
+ "MANU-3045": {
+  "dept": "MAN",
+  "title": "Production and Inventory Control",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MANU-4020"
+ },
+ "MANU-4005": {
+  "dept": "MAN",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "MANU-3010"
+ },
+ "MANU-4010": {
+  "dept": "MAN",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "MANU-4015": {
+  "dept": "MAN",
+  "title": "Global Manufacturing",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-3020"
+ },
+ "MANU-4020": {
+  "dept": "MAN",
+  "title": "Advanced Mechatronics for Manufacturing",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-4005"
+ },
+ "MANU-4025": {
+  "dept": "MAN",
+  "title": "Design Optimization",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-2020"
+ },
+ "MANU-4030": {
+  "dept": "MAN",
+  "title": "Fatigue in Mechanical Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-2025"
+ },
+ "MANU-4035": {
+  "dept": "MAN",
+  "title": "Production Systems Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-3030"
+ },
+ "MANU-4040": {
+  "dept": "MAN",
+  "title": "Scheduling",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-4025"
+ },
+ "MANU-4045": {
+  "dept": "MAN",
+  "title": "Statistical Quality Control II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-3035"
+ },
+ "MANU-4050": {
+  "dept": "MAN",
+  "title": "Design Problems",
+  "type": "IND",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-4010"
+ },
+ "MANU-4055": {
+  "dept": "MAN",
+  "title": "Derivative Instruments and Commodity Risk",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-2005"
+ },
+ "MANU-4060": {
+  "dept": "MAN",
+  "title": "Marine Structure Construction",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-2040"
+ },
+ "MANU-4065": {
+  "dept": "MAN",
+  "title": "Industrial Operations Project",
+  "type": "IND",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "MANU-4035"
+ },
+ "MATL-1005": {
+  "dept": "MAT",
+  "title": "Introduction to Materials and Manufacturing",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "MATL-1025"
+ },
+ "MATL-1010": {
+  "dept": "MAT",
+  "title": "Physics of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "MATL-2010"
+ },
+ "MATL-2005": {
+  "dept": "MAT",
+  "title": "Principles of Engineering Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MATL-2015"
+ },
+ "MATL-2010": {
+  "dept": "MAT",
+  "title": "Thermodynamics of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MATL-2025"
+ },
+ "MATL-2015": {
+  "dept": "MAT",
+  "title": "Diffusion and Phase Transformations",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MATL-2020"
+ },
+ "MATL-3005": {
+  "dept": "MAT",
+  "title": "Materials Characterization Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "lab",
+  "source": "MATL-3005"
+ },
+ "MATL-3010": {
+  "dept": "MAT",
+  "title": "Materials Engineering Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "MATL-4005"
+ },
+ "MATL-3015": {
+  "dept": "MAT",
+  "title": "Materials Engineering Design Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "lab",
+  "source": "MATL-3020"
+ },
+ "MATL-3020": {
+  "dept": "MAT",
+  "title": "Crystallography and Structure of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "MATL-3025": {
+  "dept": "MAT",
+  "title": "Materials Characterization",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-2030"
+ },
+ "MATL-3030": {
+  "dept": "MAT",
+  "title": "Electron Microscopy",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-1020"
+ },
+ "MATL-3035": {
+  "dept": "MAT",
+  "title": "Electron Microscopy Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-1015"
+ },
+ "MATL-3040": {
+  "dept": "MAT",
+  "title": "Mechanical Behavior of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "MATL-3045": {
+  "dept": "MAT",
+  "title": "Physical Metallurgy",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-3010"
+ },
+ "MATL-3050": {
+  "dept": "MAT",
+  "title": "Ceramic Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-1005"
+ },
+ "MATL-3055": {
+  "dept": "MAT",
+  "title": "Composite Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-1010"
+ },
+ "MATL-3060": {
+  "dept": "MAT",
+  "title": "Polymeric Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-3015"
+ },
+ "MATL-3065": {
+  "dept": "MAT",
+  "title": "Physics of Polymers",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MATL-2005"
+ },
+ "MATL-3070": {
+  "dept": "MAT",
+  "title": "Corrosion and Degradation of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "MATL-4005": {
+  "dept": "MAT",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "MATL-4010": {
+  "dept": "MAT",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "MATL-4015": {
+  "dept": "MAT",
+  "title": "Fracture and Fatigue of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "new"
+ },
+ "MATL-4020": {
+  "dept": "MAT",
+  "title": "Electronic and Magnetic Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "new"
+ },
+ "MATL-4025": {
+  "dept": "MAT",
+  "title": "Biomaterials",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "new"
+ },
+ "MATL-4030": {
+  "dept": "MAT",
+  "title": "Failure Analysis of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "new"
+ },
+ "MATL-4035": {
+  "dept": "MAT",
+  "title": "Design Problems",
+  "type": "IND",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "MATL-4010"
+ },
+ "MECH-2005": {
+  "dept": "MEC",
+  "title": "Introduction to Solid Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MECH-1020"
+ },
+ "MECH-2010": {
+  "dept": "MEC",
+  "title": "Dynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MECH-1005"
+ },
+ "MECH-2015": {
+  "dept": "MEC",
+  "title": "Thermodynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MECH-1030"
+ },
+ "MECH-2020": {
+  "dept": "MEC",
+  "title": "Strength of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "MECH-2075"
+ },
+ "MECH-2025": {
+  "dept": "MEC",
+  "title": "Strength of Materials Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 2,
+  "role": "lab",
+  "source": "new"
+ },
+ "MECH-3005": {
+  "dept": "MEC",
+  "title": "Fluid Mechanics I",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "MECH-2055"
+ },
+ "MECH-3010": {
+  "dept": "MEC",
+  "title": "Fluid Mechanics I Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "lab",
+  "source": "new"
+ },
+ "MECH-3015": {
+  "dept": "MEC",
+  "title": "Heat Transfer",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "MECH-3035"
+ },
+ "MECH-3020": {
+  "dept": "MEC",
+  "title": "Mechanical Vibrations",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-1010"
+ },
+ "MECH-3025": {
+  "dept": "MEC",
+  "title": "Modeling and Control of Dynamic Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-1025"
+ },
+ "MECH-3030": {
+  "dept": "MEC",
+  "title": "Mechanical Behavior of Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-2060"
+ },
+ "MECH-3035": {
+  "dept": "MEC",
+  "title": "Analytical and Computational Dynamics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-3010"
+ },
+ "MECH-3040": {
+  "dept": "MEC",
+  "title": "Fluid Mechanics II",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-3030"
+ },
+ "MECH-3045": {
+  "dept": "MEC",
+  "title": "Mechanical Engineering Analysis",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-3050"
+ },
+ "MECH-3050": {
+  "dept": "MEC",
+  "title": "Design for Manufacturing",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-2050"
+ },
+ "MECH-3055": {
+  "dept": "MEC",
+  "title": "Machining Processes",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-3045"
+ },
+ "MECH-3060": {
+  "dept": "MEC",
+  "title": "Statistical Quality Control",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "MECH-2070"
+ },
+ "MECH-4005": {
+  "dept": "MEC",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "MECH-4010": {
+  "dept": "MEC",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "MECH-4015": {
+  "dept": "MEC",
+  "title": "Advanced Fluid Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-3005"
+ },
+ "MECH-4020": {
+  "dept": "MEC",
+  "title": "Biofluid Mechanics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-2040"
+ },
+ "MECH-4025": {
+  "dept": "MEC",
+  "title": "Design of Digital Control Systems",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-3015"
+ },
+ "MECH-4030": {
+  "dept": "MEC",
+  "title": "Design Optimization",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-3020"
+ },
+ "MECH-4035": {
+  "dept": "MEC",
+  "title": "Fatigue in Mechanical Design",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-3025"
+ },
+ "MECH-4040": {
+  "dept": "MEC",
+  "title": "Advanced Mechatronics for Manufacturing",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-4015"
+ },
+ "MECH-4045": {
+  "dept": "MEC",
+  "title": "Global Manufacturing",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-4020"
+ },
+ "MECH-4050": {
+  "dept": "MEC",
+  "title": "Special Topics in Mechanical Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "MECH-4035"
+ },
+ "NUCL-1005": {
+  "dept": "NUC",
+  "title": "Introduction to Nuclear Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "NUCL-1025"
+ },
+ "NUCL-1010": {
+  "dept": "NUC",
+  "title": "Nuclear Engineering and Radiological Sciences I",
+  "type": "LEC",
+  "units": 4,
+  "level": 1,
+  "role": "required",
+  "source": "NUCL-1020"
+ },
+ "NUCL-2005": {
+  "dept": "NUC",
+  "title": "Nuclear Engineering and Radiological Sciences II",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "NUCL-2030"
+ },
+ "NUCL-2010": {
+  "dept": "NUC",
+  "title": "Fluid Mechanics for Nuclear Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 2,
+  "role": "required",
+  "source": "NUCL-1015"
+ },
+ "NUCL-3005": {
+  "dept": "NUC",
+  "title": "Nuclear Reactor Kinetics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "NUCL-2035"
+ },
+ "NUCL-3010": {
+  "dept": "NUC",
+  "title": "Reactor Thermal Hydraulics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "required",
+  "source": "new"
+ },
+ "NUCL-3015": {
+  "dept": "NUC",
+  "title": "Nuclear Instrumentation Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "lab",
+  "source": "NUCL-1035"
+ },
+ "NUCL-3020": {
+  "dept": "NUC",
+  "title": "Applied Radiation Measurement Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "lab",
+  "source": "NUCL-2010"
+ },
+ "NUCL-3025": {
+  "dept": "NUC",
+  "title": "Nuclear Instrumentation",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "NUCL-1040"
+ },
+ "NUCL-3030": {
+  "dept": "NUC",
+  "title": "Applied Radiation Measurement",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "NUCL-2005"
+ },
+ "NUCL-3035": {
+  "dept": "NUC",
+  "title": "Nuclear Materials",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "new"
+ },
+ "NUCL-3040": {
+  "dept": "NUC",
+  "title": "Nuclear Fuels",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "NUCL-2040"
+ },
+ "NUCL-3045": {
+  "dept": "NUC",
+  "title": "Nuclear Core Design and Analysis",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "NUCL-1030"
+ },
+ "NUCL-3050": {
+  "dept": "NUC",
+  "title": "Principles of Radiation Imaging",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "NUCL-1045"
+ },
+ "NUCL-3055": {
+  "dept": "NUC",
+  "title": "Experimental Plasma Physics",
+  "type": "LEC",
+  "units": 4,
+  "level": 3,
+  "role": "elective",
+  "source": "NUCL-2050"
+ },
+ "NUCL-3060": {
+  "dept": "NUC",
+  "title": "Experimental Plasma Physics Laboratory",
+  "type": "LAB",
+  "units": 2,
+  "level": 3,
+  "role": "elective",
+  "source": "NUCL-2055"
+ },
+ "NUCL-4005": {
+  "dept": "NUC",
+  "title": "Senior Design I",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "NUCL-4010": {
+  "dept": "NUC",
+  "title": "Senior Design II",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "capstone",
+  "source": "new"
+ },
+ "NUCL-4015": {
+  "dept": "NUC",
+  "title": "Neutron Transport and Reactor Physics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "new"
+ },
+ "NUCL-4020": {
+  "dept": "NUC",
+  "title": "Nuclear Power Reactors",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-3010"
+ },
+ "NUCL-4025": {
+  "dept": "NUC",
+  "title": "Computational Fluid Dynamics for Nuclear Applications",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-1005"
+ },
+ "NUCL-4030": {
+  "dept": "NUC",
+  "title": "Fusion Reactor Technology",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-2025"
+ },
+ "NUCL-4035": {
+  "dept": "NUC",
+  "title": "Plasma Physics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-2045"
+ },
+ "NUCL-4040": {
+  "dept": "NUC",
+  "title": "Radiation Shielding",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-4015"
+ },
+ "NUCL-4045": {
+  "dept": "NUC",
+  "title": "Medical Radiation Health Engineering",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-3005"
+ },
+ "NUCL-4050": {
+  "dept": "NUC",
+  "title": "Radiological Physics and Dosimetry",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-4020"
+ },
+ "NUCL-4055": {
+  "dept": "NUC",
+  "title": "Radiation Therapy Physics",
+  "type": "LEC",
+  "units": 4,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-4010"
+ },
+ "NUCL-4060": {
+  "dept": "NUC",
+  "title": "Research in Nuclear Engineering and Radiological Sciences",
+  "type": "IND",
+  "units": 2,
+  "level": 4,
+  "role": "elective",
+  "source": "NUCL-3025"
+ }
+}

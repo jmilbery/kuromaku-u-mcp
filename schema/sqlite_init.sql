@@ -192,6 +192,11 @@ CREATE TABLE student (
   cell_phone       TEXT,
   student_photo    TEXT,
   active_flag      INTEGER,
+  -- Derived at build from the student's own transcript, not loaded from CSV.
+  -- class_year and grad_year are when they were expected to finish; these are
+  -- what actually happened.
+  degree_status          TEXT,     -- enrolled | graduated | graduated late | did not complete
+  graduated_semester_id  INTEGER REFERENCES semester(semester_id),
   FOREIGN KEY (class_year)   REFERENCES class_year(class_year),
   FOREIGN KEY (cd_ethnicity) REFERENCES cd_ethnicity(cd_ethnicity),
   FOREIGN KEY (cd_major)     REFERENCES cd_major(cd_major),
@@ -230,12 +235,15 @@ CREATE TABLE student_enrollment (
   student_id   INTEGER NOT NULL,
   catnum       TEXT NOT NULL,
   semester_id  INTEGER NOT NULL,
+  offering_id  INTEGER,        -- the section: who taught it, where and when
   cd_grade     INTEGER,        -- null if course is in-progress (current semester)
   FOREIGN KEY (student_id)  REFERENCES student(student_id) ON DELETE CASCADE,
   FOREIGN KEY (catnum)      REFERENCES course_catalog(catnum),
   FOREIGN KEY (semester_id) REFERENCES semester(semester_id),
-  FOREIGN KEY (cd_grade)    REFERENCES cd_grade(cd_grade)
+  FOREIGN KEY (cd_grade)    REFERENCES cd_grade(cd_grade),
+  FOREIGN KEY (offering_id) REFERENCES course_offering(offering_id)
 );
+CREATE INDEX ix_enrollment_offering ON student_enrollment(offering_id);
 CREATE INDEX ix_enrollment_student  ON student_enrollment(student_id);
 CREATE INDEX ix_enrollment_catnum   ON student_enrollment(catnum);
 CREATE INDEX ix_enrollment_semester ON student_enrollment(semester_id);

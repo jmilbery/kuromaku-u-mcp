@@ -73,6 +73,11 @@ mechanics?"* has to be found again, and the script's numbers re-verified.
 ~~**Recommendation: after 08c records.**~~ **Unblocked on v2.** The 08c demo stays on `main`, so
 nothing here has to preserve its numbers.
 
+> **Status on `v2`: all five resolved** by the catalog rebuild (`docs/CATALOG-DESIGN.md`, Stages A–D).
+> Retakes of passed courses: 0 (every repeat follows an F). Level progression: year-one enrollments
+> are 100% level 1. Labs without lectures: 0. Core coverage: 99.6% of students. Empty history: every
+> one of 21 semesters, Fall 2016 – Fall 2026, has four classes in residence.
+
 ## Tier 3 — leave alone
 
 - **Student names** are Mockaroo-flavored (first names `Muffin`, `Hill`, `Mead`). Changing them breaks 08c.
