@@ -88,6 +88,7 @@ nothing here has to preserve its numbers.
 - **Unloaded CSV audit columns** (`create_date`, `optimistic_lock`, …) are empty or constant.
 - **`UNDECLARED` (major) vs `UNDECIDED` (minor)**: cosmetic.
 - **Buildings are an island**: nothing links courses to rooms or students to dorms, so a spatial question can never reach a person. A schema limit, not a bug, and worth knowing before anyone asks one on camera.
+  **Resolved on `v2`** by Stage C: sections meet in rooms inside buildings, so walk-time between a student's or instructor's back-to-back classes is a query. Students still have no dorm.
 
 ## Clean
 
