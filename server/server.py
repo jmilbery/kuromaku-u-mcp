@@ -50,7 +50,8 @@ def _conn() -> sqlite3.Connection:
         raise RuntimeError(
             f"Database not found at {DB_PATH}. Run `python schema/build_db.py` from the repo root first."
         )
-    conn = sqlite3.connect(DB_PATH)
+    # Read-only at the connection: no tool can change a row, whatever SQL it runs.
+    conn = sqlite3.connect(f"file:{DB_PATH}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
     return conn
 
