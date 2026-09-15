@@ -33,7 +33,7 @@ def find_student(name: str) -> list[dict]:
              WHERE LOWER(first_name) LIKE ? OR LOWER(last_name) LIKE ?
              ORDER BY last_name LIMIT 10"""
     like = f"%{name.lower()}%"
-    conn = sqlite3.connect(DB)
+    conn = sqlite3.connect(f"file:{DB}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
     return [dict(r) for r in conn.execute(sql, (like, like)).fetchall()]
 

@@ -4,7 +4,7 @@ A sample relational dataset and reference MCP server for the **PE TechCast — A
 
 Kuromaku U is a fictional engineering university with 1,000 students, 303 courses, 48 buildings, four class years, ten semesters, and a fully-articulated code-table hierarchy (majors, minors, ethnicities, countries, states, grades). Everything in this repo is synthetic — no real students, no real data — which makes it safe to ship, clone, fork, and demo against.
 
-This repo is the **recurring demo universe** for every episode of the AI series. Today it backs the MCP Part 2 episode; over the rest of the series it will support Fine-Tuning, AI Agents, Context Engineering, Multimodal, Reasoning Models, and beyond.
+This repo is the **recurring demo universe** for every episode of the AI series. Today it backs the MCP episodes (Parts 2 and 3); over the rest of the series it will support Fine-Tuning, AI Agents, Context Engineering, Multimodal, Reasoning Models, and beyond.
 
 ---
 
@@ -35,7 +35,9 @@ kuromaku-u/
 │   ├── build_db.py                 ← Builds kuromaku_u.db from the CSVs
 │   └── postgres/                   ← Original Postgres DDL (preserved for "advanced mode")
 ├── server/
-│   └── server.py                   ← Reference MCP server — 6 tools, ~40 lines of business logic
+│   ├── server_minimal.py           ← 1 tool — the whole shape of an MCP server on one screen
+│   ├── server.py                   ← Reference MCP server — 6 tools, ~40 lines of business logic
+│   └── server_full.py              ← 16 tools — every table reachable
 ├── artwork/
 │   ├── studentid.png               ← Kuromaku U student ID design
 │   └── kuromaku-logo.png
@@ -66,6 +68,20 @@ python server/server.py
 It speaks stdio MCP transport — wire it up to any MCP client.
 
 > **macOS note:** modern Python on macOS is "externally managed" (PEP 668). Always use a venv. The `python3 -m venv .venv` step above creates one inside the repo; activate it before any `pip install` or you'll hit `error: externally-managed-environment`.
+
+---
+
+## Which server?
+
+Three servers, one pattern, and a ladder of how much you expose. All three open the database **read-only** — no tool can change a row, whatever SQL it runs.
+
+| File | Tools | Episode | Use it for |
+|---|---|---|---|
+| `server/server_minimal.py` | 1 — `find_student(name)` | MCP Part 2 (the 30-line server) | Seeing the whole shape of an MCP server on one screen: import the SDK, name the server, decorate a function, run it. |
+| `server/server.py` | 6 | MCP Part 3 (the live demo) | **Start here.** A deliberately scoped server — six typed tools, with gaps left on purpose. Ask it "what majors do you offer?" and watch it work the long way round. |
+| `server/server_full.py` | 16, plus optional `run_sql` | MCP vs RAG | Every table reachable by a typed tool. `run_sql` is off unless `KUROMAKU_U_ALLOW_SQL=1`: it buys total coverage by giving up every guardrail the typed tools provide, and it's there for comparison, not as a recommendation. |
+
+`server_full.py` imports the six tools from `server.py` rather than copying them, so it stays a strict superset. Every example below uses `server.py`; swap in the other file (and a different server name) to try the others.
 
 ---
 
@@ -135,7 +151,7 @@ Restart Claude Desktop. The tools show up under the 🔌 icon in the input bar.
 | `search_catalog(keyword, department, limit)` | Search the course catalog by title keyword or department code. |
 | `current_semester()` | Returns the row where `is_current = 1`. Useful before drilling into other tools. |
 
-The whole server is ~250 lines of Python. The actual tool implementations are SQL queries. That's the punchline of the demo: MCP servers are not magic. They are functions plus JSON.
+The whole server is ~300 lines of Python. The actual tool implementations are SQL queries. That's the punchline of the demo: MCP servers are not magic. They are functions plus JSON.
 
 ---
 
