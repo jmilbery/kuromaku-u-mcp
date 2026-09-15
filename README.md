@@ -37,7 +37,7 @@ kuromaku-u/
 ├── server/
 │   ├── server_minimal.py           ← 1 tool — the whole shape of an MCP server on one screen
 │   ├── server.py                   ← Reference MCP server — 6 tools, ~40 lines of business logic
-│   └── server_full.py              ← 16 tools — every table reachable
+│   └── server_full.py              ← 21 tools — every table reachable
 ├── artwork/
 │   ├── studentid.png               ← Kuromaku U student ID design
 │   └── kuromaku-logo.png
@@ -79,7 +79,7 @@ Three servers, one pattern, and a ladder of how much you expose. All three open 
 |---|---|---|---|
 | `server/server_minimal.py` | 1 — `find_student(name)` | MCP Part 2 (the 30-line server) | Seeing the whole shape of an MCP server on one screen: import the SDK, name the server, decorate a function, run it. |
 | `server/server.py` | 6 | MCP Part 3 (the live demo) | **Start here.** A deliberately scoped server — six typed tools, with gaps left on purpose. Ask it "what majors do you offer?" and watch it work the long way round. |
-| `server/server_full.py` | 16, plus optional `run_sql` | MCP vs RAG | Every table reachable by a typed tool. `run_sql` is off unless `KUROMAKU_U_ALLOW_SQL=1`: it buys total coverage by giving up every guardrail the typed tools provide, and it's there for comparison, not as a recommendation. |
+| `server/server_full.py` | 21 (the six from `server.py` plus 15), plus optional `run_sql` | MCP vs RAG | Every table reachable by a typed tool. `run_sql` is off unless `KUROMAKU_U_ALLOW_SQL=1`: it buys total coverage by giving up every guardrail the typed tools provide, and it's there for comparison, not as a recommendation. |
 
 `server_full.py` imports the six tools from `server.py` rather than copying them, so it stays a strict superset. Every example below uses `server.py`; swap in the other file (and a different server name) to try the others.
 

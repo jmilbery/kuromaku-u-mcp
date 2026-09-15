@@ -9,6 +9,29 @@ surface.
 
 ---
 
+## 2026-09-15 — All three servers read-only; README says which server is which
+
+- **`e59367b` — `server.py` read-only.** Every tool only SELECTs, but `_conn()` opened the DB
+  read-write. Now `sqlite3.connect(f"file:{DB_PATH}?mode=ro", uri=True)`. Verified with the venv
+  Python Claude launches: 1,000 students read, `UPDATE` → `attempt to write a readonly database`,
+  `find_students('br')` → 25 rows. Driven by 08c's new thesis ("scope it, make it read-only, the risk
+  is not trying") — the claim had to be true of the server on screen, not just its queries.
+- **`561fb6a` — `server_minimal.py` read-only**, edited in place so the file stays 42 lines and still
+  matches Part 2's code slide. README gained a "Which server?" section (minimal = Part 2, `server.py`
+  = Part 3 and the default, full = MCP vs RAG), all three files in the tree, `server.py` ~300 lines,
+  repo backs Parts 2 and 3.
+- **Closeout commit — corrects `561fb6a`.** The README said `server_full.py` has 16 tools. It has 21:
+  `grep -c '@mcp.tool'` misses the six from `server.py` registered in a loop via `mcp.tool()(_tool)`.
+- **`server_full.py` was not "already read-only"** as said mid-session — only `run_sql` was. Its typed
+  tools use `server.py`'s `_conn()`, so `e59367b` made them read-only too.
+- **08c no longer names MECH-2040** — the fluid-mechanics roster question was cut from its script.
+  That relaxes the 9/10 "keep it verbatim" rule; `demo/demo-prompts.md` may still reference it.
+- **08c now shows a majors mismatch on camera.** `cd_major` has 10 rows; the catalog's codes include
+  `COR` (not a major) and lack `UND`; students hold 9 majors. Until 08c records, no rebuild.
+- **Rejected: running the 08c demo on `server_minimal.py`** to match "what we show." One tool can't
+  answer the majors question or show tools chained in order, and the TOOL 1 slide shows `server.py`'s
+  signature. `server_full.py` rejected too: `list_majors` fills the gap the demo is built on.
+
 ## 2026-09-09 — The seed data had drifted six years; found by reading rows on camera
 
 First entry — this file did not exist before today.
